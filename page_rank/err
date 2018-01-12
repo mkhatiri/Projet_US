@@ -1,0 +1,1 @@
+nvcc  -arch sm_35 --std=c++11   -Xcompiler -std=c++11 -DNDEBUG  -O3 -I./ -c new-cuda-adaptative-2gpus.cu

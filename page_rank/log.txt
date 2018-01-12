@@ -1,0 +1,72 @@
+
+filename: amazon0302.bin nVtx: 262111 nonzero: 1234877 AvgTime: 0.232191 part1V: 152601 part1E: 730784 part2V: 109510 part2E: 504093
+rowBlockSize : 3139last row 0
+subsize : 64
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 49
+
+
+filename: as-caida.bin nVtx: 31379 nonzero: 106762 AvgTime: 0.257462 part1V: 7160 part1E: 57013 part2V: 24219 part2E: 49749
+rowBlockSize : 21261last row 0
+subsize : 192
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 111
+
+filename: cit-HepPh.bin nVtx: 34546 nonzero: 421578 AvgTime: 0.218648 part1V: 27579 part1E: 328054 part2V: 6967 part2E: 93524
+rowBlockSize : 351last row 0
+subsize : 64
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 6
+
+
+
+filename: cit-HepTh.bin nVtx: 27770 nonzero: 352807 AvgTime: 0.096864 part1V: 21638 part1E: 262272 part2V: 6132 part2E: 90535
+rowBlockSize : 16272last row 0
+subsize : 128
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 127
+
+
+
+filename: cit-Patents.bin nVtx: 3774768 nonzero: 16518948 AvgTime: 0.492513 part1V: 3008972 part1E: 8805154 part2V: 765796 part2E: 7713794
+rowBlockSize : 1819last row 0
+subsize : 64
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 28
+
+
+filename: email-EuAll.bin nVtx: 265214 nonzero: 420045 AvgTime: 0.212727 part1V: 108178 part1E: 251221 part2V: 157036 part2E: 168824
+ row_lenght > 20 at iter : 1984
+ row_lenght > 20 at iter : 3628
+ row_lenght > 20 at iter : 13115
+ row_lenght > 20 at iter : 49180
+ row_lenght > 20 at iter : 50338
+ row_lenght > 20 at iter : 1984
+ row_lenght > 20 at iter : 3628
+ row_lenght > 20 at iter : 13115
+ row_lenght > 20 at iter : 49180
+ row_lenght > 20 at iter : 50338
+rowBlockSize : 15327last row 0
+subsize : 128
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 119
+
+

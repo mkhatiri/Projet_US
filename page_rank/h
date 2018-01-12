@@ -1,0 +1,1000 @@
+  150  vi script.sh 
+  151  ./script.sh 
+  152  vi script.sh 
+  153  ./script.sh 
+  154  vi script.sh 
+  155  ./script.sh 
+  156  vi script.sh 
+  157  ./script.sh 
+  158  vi script.sh 
+  159  ./script.sh 
+  160  vi script.sh 
+  161  ./script.sh 
+  162  vi script.sh 
+  163  ./script.sh 
+  164  vi history 
+  165  ls
+  166  vi a
+  167  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr
+  168  vi job.sh
+  169  qsub  job.sh
+  170  ls
+  171  vi job.sh.e154 
+  172  vi job.sh.o15
+  173  vi job.sh.o154
+  174  vi job.sh
+  175  rm job.sh.*
+  176  qsub job.sh 
+  177  qstat  -m khatiri
+  178  qstat  -n khatiri
+  179  qstat  -n mkhatiri
+  180  qstat  -n khatirim
+  181  ls
+  182  vi ../../../Firstprojet/run.sh 
+  183  qstat -u mkhatiri
+  184  vi job.sh.e155 
+  185  vi new-cuda-lightspmv-pr.cu 
+  186  vi job.sh.e155 
+  187  vi new-cuda-lightspmv-pr.h
+  188  cat job.sh.e155 
+  189  vi LightSpMV_interface.hpp 
+  190  rm job.sh.*
+  191  qsub job.sh 
+  192  qstat -u mkhatiri
+  193  ls
+  194  vi job.sh.e156 
+  195  vi LightSpMV_interface.hpp 
+  196  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr
+  197  make clean
+  198  vi a
+  199  make clean
+  200  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr
+  201  vi LightSpMV_interface.hpp 
+  202  vi new-cuda-lightspmv-pr.cu 
+  203  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr
+  204  qsub job.sh
+  205  rm job.sh.*
+  206  ls
+  207  vi job.sh.e157 
+  208  vi job.sh.o157 
+  209  ls
+  210  vi a
+  211  vi job.sh
+  212  rm job.sh.*
+  213  qsub job.sh 
+  214  vi job.sh.e158 
+  215  vi job.sh.o158 
+  216  vi job.sh.e158 
+  217  q
+  218  libcudart.so.7.0
+  219  vi job.sh
+  220  qsub job.sh 
+  221  rm job.sh.e158
+  222  vi job.sh.e159 
+  223  vi aa
+  224  vi a
+  225  echo "<<<<< NSIGHT";/bin/sh -c "export LD_LIBRARY_PATH=\"/usr/local/cuda-7.0/lib64\":\${LD_LIBRARY_PATH};\"/usr/local/cuda-7.0/bin/nvprof\" --query-cuda-info";echo ">>>>> NSIGHT"
+  226  vi a
+  227  export LD_LIBRARY_PATH=\"/usr/local/cuda-7.0/lib64\":\${LD_LIBRARY_PATH}
+  228  rm job.sh.*
+  229  qsub job.sh 
+  230  ls
+  231  qstat -u mkhatiri
+  232  vi job.sh 
+  233  qstat -u mkhatiri
+  234  vi job.sh.e160 
+  235  xport LD_LIBRARY_PATH=\"/usr/local/cuda-7.0/lib64\":\${LD_LIBRARY_PATH}
+  236  export LD_LIBRARY_PATH=/usr/local/cuda/lib64:$LD_LIBRARY_PATH
+  237  qsub job.sh
+  238  rm job.sh.e160 
+  239  rm job.sh.o16
+  240  rm job.sh.o160 
+  241  vi job.sh.e161 
+  242  whereis libcudart.so.7.0
+  243  export LD_LIBRARY_PATH=/usr/local/cuda/lib64:$LD_LIBRARY_PATH
+  244  ls /usr/local/cuda-7.5/lib64/
+  245  ls /usr/local/cuda-7.5/lib64/libcudart.so.7.0
+  246  ls /usr/local/cuda-7.5/lib64/libcudart.so
+  247  ls /usr/local/cuda-7.5/lib64/libcudart.so.7.5
+  248  vi makefile.in i
+  249  i job.sh.e161 
+  250  vi job.sh.e161 
+  251  vi new-cuda-pr.cpp 
+  252  ls
+  253  vi makefile
+  254  ls /usr/local/cuda-7.5/lib64/libcudart.so
+  255  grep libcudart .
+  256  grep libcudart 
+  257  grep libcudart makefile
+  258  ls * | grep libcudart
+  259  grep -r -i -l 'chaine' ./grep -r -i -l 'chaine' ./
+  260  grep -r -i -l 'chaine' ./
+  261  grep -r -i -l 'chaine' .
+  262  grep -r -i -l 'include' .
+  263  grep -r -i -l 'libcudart' .
+  264  vi new-cuda-pr
+  265  ls /usr/local/cuda-7.5/lib64/libcudart.so
+  266  export LD_LIBRARY_PATH=/usr/local/cuda-7.5/lib64:$LD_LIBRARY_PATH
+  267  MODE=nvcc OPT=yes make -e new-cuda-pr 
+  268  vi makefile
+  269  vi makefile.in 
+  270  ls /usr/local/cuda-7.5/lib64//usr/local/cuda-7.5/lib64
+  271  vi makefile.in 
+  272  MODE=nvcc OPT=yes make -e new-cuda-pr 
+  273  make clean
+  274  MODE=nvcc OPT=yes make -e new-cuda-pr 
+  275  qsub job.sh
+  276  rm job.sh.e161 
+  277  rm job.sh.o161 
+  278  vi job.sh.e162 
+  279  vi job.sh.o162 
+  280  vi job.sh
+  281  ls
+  282  MODE=nvcc OPT=yes make -e new-cuda-pr-2gpus
+  283  vi job.sh
+  284  qsub  job.sh
+  285  vi job.sh.e163 
+  286  vi new-cuda-pr.cpp 
+  287  vi main-pr.hpp 
+  288  rm job.sh.*
+  289  qsub job.sh 
+  290  qstat -u mkhatiri
+  291  vi job.sh.e164 
+  292  MODE=nvcc OPT=yes make -e new-cuda-pr
+  293  vi main-pr.hpp 
+  294  rm job.sh.*
+  295  qsub job.sh 
+  296  vi job.sh.e165 
+  297  vi job.sh.o165 
+  298  MODE=nvcc OPT=yes make -e main-pr.hpp 
+  299  MODE=nvcc OPT=yes make -e main-pr
+  300  MODE=nvcc OPT=yes make -e new-cuda-pr
+  301  qsub job.sh
+  302  rm job.sh.*
+  303  ls
+  304  vi job.sh
+  305  vi job.sh.e166 
+  306  vi job.sh.o166 
+  307  vi main-pr.hpp 
+  308  vi cuda-pr.cpp 
+  309  MODE=nvcc OPT=yes make -e new-cuda-pr
+  310  vi new-cuda-pr.cpp 
+  311  MODE=nvcc OPT=yes make -e new-cuda-pr
+  312  qsub  job.sh
+  313  rm job.sh.*
+  314  ls
+  315  vi vi job.sh.e167 
+  316  vi job.sh.e167 
+  317  vi job.sh.p
+  318  vi job.sh.e167 
+  319  vi job.sh
+  320  qsub job.sh
+  321  rm job.sh.e167
+  322  rm job.sh.o167
+  323  vi job.sh.e168 
+  324  vi new-cuda-pr.cpp 
+  325  cd projet/src/page_rank/
+  326  ls
+  327  vi new-cuda-pr
+  328  vi new-cuda-pr.cpp 
+  329  ls
+  330  vi main-pr.hpp 
+  331  vi new-cuda-pr.cpp 
+  332  qsub job.sh
+  333  rm job.sh.e168 
+  334  rm job.sh.o168
+  335  vi job.sh.e169 
+  336  vi new-cuda-pr.
+  337  vi new-cuda-pr.cpp 
+  338  ls new-cuda-pr.cpp 
+  339  ls -a new-cuda-pr.cpp 
+  340  ls -l new-cuda-pr.cpp 
+  341  ls -a
+  342  rm .new-cuda-pr.cpp.swp 
+  343  rm .new-cuda-*
+  344  vi new-cuda-pr.cpp 
+  345  rm job.sh.e169 
+  346  rm job.sh.o169 
+  347  qsub job.sh 
+  348  qstat -u mkhatiri
+  349  vi job.sh.e170 
+  350  rm job.sh.*
+  351  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+  352  MODE=nvcc OPT=yes make -e new-cuda-pr
+  353  qsub job.sh 
+  354  ls
+  355  vi job.sh.e171 n
+  356  vi job.sh.e171 
+  357  vi job.sh
+  358  rm job.sh.*
+  359  qsub job.sh 
+  360  qstat -u mkhatiri
+  361  ls job.*
+  362  vi job.sh.e172 
+  363  vi job.sh.o172 
+  364  vi new-cuda-pr
+  365  vi new-cuda-pr.cpp 
+  366  vi main-pr.hpp 
+  367  MODE=nvcc OPT=yes make -e new-cuda-pr
+  368  rm job.sh.*
+  369  vi job.sh 
+  370  qsub job.sh 
+  371  ls job.*
+  372  vi job.sh.e173 
+  373  vi job.sh.o173 
+  374  vi new-cuda-pr.cpp 
+  375  vi main-pr.hpp 
+  376  vi new-cuda-pr.cpp 
+  377  MODE=nvcc OPT=yes make -e new-cuda-pr
+  378  rm job.sh.* 
+  379  qsub job.sh 
+  380  vi job.sh.e174 
+  381  vi job.sh.o174 
+  382  vi main-pr.hpp 
+  383  MODE=nvcc OPT=yes make -e new-cuda-pr
+  384  make clean
+  385  MODE=nvcc OPT=yes make -e new-cuda-pr
+  386  rm job.sh.*
+  387  qsub job.sh 
+  388  qstat -u mkhatiri
+  389  qsub job.sh 
+  390  qstat -u mkhatiri
+  391  qstat -h
+  392  qstat -u mkhatiri
+  393  vi job.sh.e175
+  394  vi job.sh.o175
+  395  vi main-pr.hpp 
+  396  vi new-cuda-pr.cpp 
+  397  grep -r -i -l 'chaine' .
+  398  vi new-cuda-pr.cpp 
+  399  grep -r -i -l 'edgesize'
+  400  vi graphIO.cpp 
+  401  make clean
+  402  MODE=nvcc OPT=yes make -e new-cuda-pr
+  403  rm job.sh.*
+  404  qsub job.sh 
+  405  qstat -u mkhatiri
+  406  vi job.sh.o177 
+  407  vi main-pr.hpp 
+  408  rm job.sh.*
+  409  qsub job.sh 
+  410  vi job.sh.e178 
+  411  vi job.sh.o178 
+  412  make clean
+  413  MODE=nvcc OPT=yes make -e new-cuda-pr
+  414  rm job.sh.*
+  415  qstat job.sh 
+  416  qsub job.sh 
+  417  qstat -u mkhatiri
+  418  vi job.sh.o179 
+  419  mv job.sh.o179 new-cuda-pr.resultat
+  420  mv job.sh.e179 new-cuda-pr.eresultat
+  421  mv new-cuda-pr.resultat new-cuda-pr.oresultat 
+  422  vi new-cuda-adaptative.cu 
+  423  vi job.sh 
+  424  qsub  job.sh 
+  425  ls
+  426  vi job.sh
+  427  vi job.sh.e180 
+  428  vi new-cuda-adaptative-2gpus.cu 
+  429  vi job.sh.e180 
+  430  vi new-cuda-adaptative-2gpus.cu 
+  431  rm job.sh.*
+  432  MODE=nvcc OPT=yes make -e new-cuda-pr
+  433  make clean
+  434  MODE=nvcc OPT=yes make -e new-cuda-pr
+  435  MODE=nvcc OPT=yes make -e new-cuda-pr-2gpus
+  436  qsub job.sh 
+  437  qstat -u mkhatiri
+  438  qsub job.sh 
+  439  qstat -u mkhatiri
+  440  vi job.sh.e181
+  441  vi new-cuda-adaptative-2gpus.cu 
+  442  make clean
+  443  MODE=nvcc OPT=yes make -e new-cuda-pr-2gpus
+  444  rm job.sh.*
+  445  vi job.sh 
+  446  qsub job.sh 
+  447  vi job.sh.e183 
+  448  vi job.sh.o183 
+  449  vi job.sh
+  450  vi new-cuda-adaptative-2gpus.cu 
+  451  vi job.sh
+  452  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  453  rm job.sh.*
+  454  qsub job.sh 
+  455  vi job.sh.e184 
+  456  vi new-cuda-adaptative-2gpus.cu 
+  457  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  458  rm job.sh.*
+  459  qsub job.sh 
+  460  vi job.sh.e185 
+  461  vi job.sh.o185 
+  462  vi job.sh.e185 
+  463  vi job.sh
+  464  qsub job.sh
+  465  vi job.sh.e185 
+  466  vi job.sh.e186
+  467  vi job.sh.e185 
+  468  exit
+  469  ssh python
+  470  exit
+  471  ssh python
+  472  cd projet/src/page_rank/
+  473  ls
+  474  ls job.sh*
+  475  vi job.sh.e187 
+  476  vi new-cuda-adaptative-2gpus.cu 
+  477  rm job.sh.e187
+  478  rm job.sh.o187
+  479  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  480  qsub job.sh
+  481  ls job.sh.*
+  482  vi job.sh.e18
+  483  vi job.sh.e188 
+  484  qstat -u mkhatiri
+  485  vi job.sh.e188 
+  486  vi new-cuda-adaptative-2gpus.cu 
+  487  vi Adaptative_Kernal.cu 
+  488  rm job.sh.e188 
+  489  rm job.sh.o188 
+  490  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  491  qsub job.sh
+  492  vi job.sh.e189 
+  493  vi Adaptative_Kernal.cu 
+  494  vi new-cuda-adaptative.cu 
+  495  vi new-cuda-adaptative-2gpus.cu 
+  496  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  497  vi new-cuda-adaptative-2gpus.cu 
+  498  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  499  qsub job.sh
+  500  qstat -u mkhatiri/
+  501  qstat -u mkhatiri
+  502  vi job.sh.e190 
+  503  vi job.sh
+  504  rm job.sh.e190 
+  505  rm job.sh.o190 
+  506  qsub job.sh
+  507  qstat -u mkhatiri
+  508  vi job.sh.e191 
+  509  vi Adaptative_Kernal.cu q
+  510  vi new-cuda-adaptative-2gpus.cu 
+  511  vi job.sh.o191 
+  512  rm job.sh.e191 
+  513  rm job.sh.o190 
+  514  rm job.sh.o191 
+  515  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  516  qsub job.sh
+  517  qsub -u mkhatiri
+  518  qstat -u mkhatiri
+  519  vi job.sh.e192 
+  520  rm job.sh.e192 
+  521  rm job.sh.o192 
+  522  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  523  qsub job.sh
+  524  qstat -u mkhatiri
+  525  qsub job.sh
+  526  ls
+  527  ls job.sh*
+  528  vi job.sh.e193 
+  529  vi new-cuda-adaptative-2gpus.cu 
+  530  vi AdaptativeUtils.hpp
+  531  vi Adaptative_Kernal.cu 
+  532  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  533  qsub job.sh
+  534  qstat -u mkhatiri
+  535  vi job.sh.e195
+  536  MODE=nvcc OPT=yes make -e Adaptative_Kernal.cu 
+  537  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  538  vi Adaptative_Kernal.cu 
+  539  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  540  qsub job.sh
+  541  rm job.sh.*
+  542  vi job.sh.e196 
+  543  vi Adaptative_Kernal.cu 
+  544  ssh python
+  545  ls
+  546  cd projet/src/page_rank/
+  547  ls
+  548  rm .Adaptative_Kernal.cu.swp 
+  549  vi Adaptative_Kernal.cu 
+  550  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  551  vi Adaptative_Kernal.cu 
+  552  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  553  qsub job.sh
+  554  vi job.sh.e196 
+  555  vi new-cuda-adaptative.cu 
+  556  vi new-cuda-adaptative-2gpus.cu 
+  557  ssh python
+  558  ls
+  559  cd projet/src/
+  560  ls
+  561  cd page_rank/
+  562  ls
+  563  vi new-cuda-pr.eresultat 
+  564  vi job.sh.e185 
+  565  vimdiff job.sh.e185 new-cuda-pr.eresultat 
+  566  vi job.sh.e185
+  567  vi job.sh.e186
+  568  vi job.sh.e185
+  569  vi job.sh
+  570  vi new-cuda-adaptative-2gpus.cu 
+  571  vi adaptative-1gpus.sh
+  572  ls *adapù
+  573  ls *adap*
+  574  vi new-cuda-adaptative.256.log 
+  575  vi job.sh.e185 
+  576  vi job.sh.o185 
+  577  ls
+  578  cd mkhatiri/
+  579  ls
+  580  vi streamUtils.cpp 
+  581  ls
+  582  cd ..
+  583  ls
+  584  ls *Uti
+  585  ls *Uti*
+  586  vi AdaptativeUtils.cu 
+  587  grep -r -i -l 'csr_adaptative'
+  588  vi Adaptative_Kernal.cu 
+  589  vi AdaptativeUtils.hpp
+  590  vi new-cuda-adaptative-2gpus.cu 
+  591  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-adaptative-2gpus
+  592  vi new-cuda-adaptative-2gpus.cu 
+  593  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-adaptative-2gpus
+  594  vi job.sh
+  595  qsub  job.sh
+  596  qstat  -u mkhatiri
+  597  ssh python
+  598  ls
+  599  cd projet/src/page_rank/
+  600  ls
+  601  vi new-cuda-adaptative-2gpus.cu 
+  602  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  603  qsub job.sh
+  604  ls job.sh*
+  605  rm job.sh.*
+  606  ls job.sh*
+  607  vi job.sh.e198 
+  608  vi new-cuda-adaptative-2gpus.cu 
+  609  vi Adaptative_Kernal.cu 
+  610  vi new-cuda-adaptative-2gpus.cu 
+  611  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  612  vi Adaptative_Kernal.cu 
+  613  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  614  rm job.sh.*
+  615  qsub job.sh 
+  616  ls job.sh 
+  617  ls job.sh*
+  618  vi job.sh.e199 
+  619  vi new-cuda-adaptative-2gpus.cu 
+  620  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  621  vi new-cuda-adaptative-2gpus.cu 
+  622  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  623  vi new-cuda-adaptative-2gpus.cu 
+  624  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  625  rm job.sh.*
+  626  qsub job.sh 
+  627  vi job.sh.e200 
+  628  vi new-cuda-adaptative-2gpus.cu 
+  629  vi Adaptative_Kernal.cu 
+  630  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  631  qsub job.sh
+  632  rm job.sh.*
+  633  vi job.sh.e201 
+  634  vi new-cuda-adaptative-2gpus.cu 
+  635  vi Adaptative_Kernal.cu 
+  636  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  637  rm job.sh.*
+  638  qsub job.sh
+  639  ls
+  640  vi job.sh.e202 
+  641  vi Adaptative_Kernal.cu 
+  642  vi new-cuda-adaptative-2gpus.cu 
+  643  vi Adaptative_Kernal.cu 
+  644  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  645  vi Adaptative_Kernal.cu 
+  646  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  647  vi Adaptative_Kernal.cu 
+  648  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  649  vi Adaptative_Kernal.cu 
+  650  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  651  rm job.sh.*
+  652  qsub job.sh 
+  653  qstat -u mkhatiri
+  654  vi job.sh.e203 
+  655  vi Adaptative_Kernal.cu 
+  656  vi AdaptativeUtils.hpp 
+  657  vi new-cuda-adaptative-2gpus.cu 
+  658  cd projet/src/page_rank/
+  659  ls
+  660  vi new-cuda-adaptative-2gpus.cu 
+  661  rm .new-cuda-adaptative-2gpus.cu.swp 
+  662  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  663  vi new-cuda-adaptative-2gpus.cu 
+  664  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  665  vi new-cuda-adaptative-2gpus.cu 
+  666  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  667  rm job.sh.*
+  668  qsub job.sh 
+  669  vu job.sh.e204 
+  670  vi job.sh.e204 
+  671  vi new-cuda-adaptative-2gpus.cu 
+  672  vi Adaptative_Kernal.cu 
+  673  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  674  rm job.sh.*
+  675  qsub job.sh 
+  676  vi job.sh.e205 
+  677  vi job.sh
+  678  qsub job.sh
+  679  rm job.sh.e205 
+  680  rm job.sh.o205 
+  681  ls job.sh.*
+  682  vi job.sh.e206 
+  683  vi Adaptative_Kernal.cu 2
+  684  vi Adaptative_Kernal.cu 
+  685  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  686  vi Adaptative_Kernal.cu 
+  687  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  688  vi Adaptative_Kernal.cu 
+  689  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  690  rm job.sh.e206 
+  691  rm job.sh.o206 
+  692  qsub job.sh 
+  693  vi job.sh.e207 
+  694  ls
+  695  vi new-cuda-adaptative-2gpus.cu 
+  696  qsub job.sh 
+  697  rm job.sh.e207 
+  698  rm job.sh.o207 
+  699  vi job.sh.e208 
+  700  vi job.sh
+  701  vi job.sh.e208 
+  702  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  703  rm job.sh.e208 
+  704  rm job.sh.o208 
+  705  qsub job.sh 
+  706  vi job.sh.e209 
+  707  vi new-cuda-adaptative-2gpus
+  708  vi new-cuda-adaptative-2gpus.cu 
+  709  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  710  rm job.sh.*
+  711  qsub job.sh 
+  712  ls
+  713  vi job.sh.e210 
+  714  make clean
+  715  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  716  rm job.sh.*
+  717  qsub job.sh 
+  718  vi job.sh.e211 
+  719  vi new-cuda-adaptative-2gpus.cu 
+  720  vi Adaptative_Kernal.cu 
+  721  make clean
+  722  ls *.o
+  723  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  724  rm job.sh.*
+  725  qsub job.sh 
+  726  vi job.sh.e212 
+  727  vi new-cuda-adaptative-2gpus.cu 
+  728  rm job.sh.e212 
+  729  rm job.sh.o212 
+  730  vi job.sh 
+  731  git commit 
+  732  q
+  733  git status 
+  734  git commit -m "modification pour detecte l'erreur"
+  735  git push 
+  736  ls
+  737  ls *.o
+  738  rm *.o
+  739  make clean
+  740  vi a
+  741  rm *.o
+  742  ls *.o
+  743  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  744  vi job.sh 
+  745  qsub job.sh 
+  746  vi job.sh.e213 
+  747  v new-cuda-adaptative-2gpus.cu 
+  748  vi new-cuda-adaptative-2gpus.cu 
+  749  make clean
+  750  rm *.o
+  751  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  752  rm job.sh.*
+  753  qsub job.sh 
+  754  ls
+  755  ls job.sh
+  756  ls job.sh*
+  757  vi job.sh.e214 
+  758  vi job.sh
+  759  vi Adaptative_Kernal.cu 
+  760  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  761  vi Adaptative_Kernal.cu 
+  762  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  763  vi Adaptative_Kernal.cu 
+  764  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  765  vi Adaptative_Kernal.cu 
+  766  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  767  qsub  job.sh
+  768  rm job.sh.e214 
+  769  rm job.sh.o214
+  770  vi job.sh.e215 
+  771  vi job.sh
+  772  exit
+  773  ssh python
+  774  exit
+  775  cd projet/src/page_rank/
+  776  ls
+  777  ls job.sh*
+  778  vi job.sh.e215 
+  779  vi new-cuda-adaptative-2gpus.cu 
+  780  vi Adaptative_Kernal.cu 
+  781  vi AdaptativeUtils.hpp 
+  782  make clean
+  783  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  784  vi new-cuda-adaptative.cu 
+  785  vi new-cuda-adaptative-2gpus.cu 
+  786  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  787  vi new-cuda-adaptative-2gpus.cu 
+  788  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  789  vi Adaptative_Kernal.cu 
+  790  vi AdaptativeUtils.cu 
+  791  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  792  vi Adaptative_Kernal.cu 
+  793  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  794  vi Adaptative_Kernal.cu 
+  795  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  796  rm job.sh.*
+  797  qsub job.sh 
+  798  qstat -u mkhatiri
+  799  vi job.sh.e216 
+  800  vi job.sh
+  801  rm job.sh.*
+  802  qsub job.sh o
+  803  qsub job.sh 
+  804  vi job.sh.e217 
+  805  vi new-cuda-adaptative-2gpus.cu 
+  806  make clean
+  807  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  808  vi new-cuda-adaptative-2gpus.cu 
+  809  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  810  rm job.sh.*
+  811  qsub job.sh 
+  812  vi job.sh.e218 
+  813  vi new-cuda-adaptative-2gpus.cu 
+  814  exit
+  815  ssh python
+  816  exit
+  817  cd projet/src/page_rank/
+  818  vi new-cuda-adaptative-2gpus.cu 
+  819  make clean
+  820  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  821  vi job.sh
+  822  rm job.sh.*
+  823  qsub job.sh 
+  824  vi job.sh.e219 
+  825  vi Adaptative_Kernal.cu 
+  826  make clean
+  827  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  828  rm job.sh.e219 
+  829  rm job.sh.o219 
+  830  qsub job.sh 
+  831  vi job.sh.e220 
+  832  vi new-cuda-adaptative-2gpus.cu 
+  833  vi Adaptative_Kernal.cu 
+  834  vi new-cuda-adaptative-2gpus.cu 
+  835  vi Adaptative_Kernal.cu 
+  836  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  837  rm job.sh.*
+  838  vi job.sh 
+  839  qsub job.sh 
+  840  vi job.sh.e221 
+  841  vi Adaptative_Kernal.cu 
+  842  vi job.sh
+  843  rm job.sh.*
+  844  qsub job.sh 
+  845  qstat -u mkhatiri
+  846  vi job.sh.e222 
+  847  vi new-cuda-adaptative-2gpus.cu 
+  848  ls *.o
+  849  rm *.o
+  850  vi AdaptativeUtils.
+  851  vi AdaptativeUtils.cu 
+  852  vi new-cuda-adaptative-2gpus.cu 
+  853  vi Adaptative_Kernal.cu 
+  854  vi AdaptativeUtils.hpp 
+  855  rm *.o
+  856  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  857  rm job.sh.*
+  858  qsub job.sh 
+  859  vi job.sh vi job.sh.e223 
+  860  vi job.sh.e223 
+  861  vi job.sh
+  862  qsub job.sh 
+  863  vi job.sh.e224 
+  864  vi new-cuda-adaptative-2gpus.cu 
+  865  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  866  vi job.sh
+  867  rm job.sh.*
+  868  qsub job.sh 
+  869  vi job.sh 
+  870  qsub job.sh 
+  871  vi job.sh
+  872  qsub job.sh
+  873  vi job.sh.e225 
+  874  vi new-cuda-adaptative-2gpus.cu 
+  875  rm job.sh.*
+  876  vi job.sh 
+  877  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  878  qsub job.sh 
+  879  ls
+  880  vi job.sh.e228 
+  881  vi new-cuda-pr.eresultat 
+  882  vi job.sh.e228 
+  883  exit
+  884  ssh python
+  885  exit
+  886  cd projet/src/page_rank/
+  887  ls
+  888  vi job.sh.e228 
+  889  vimdiff job.sh.e228 new-cuda-pr.eresultat 
+  890  vi job.sh.e228 
+  891  vi job.sh
+  892  rm job.sh.*
+  893  qsub job.sh 
+  894  vi job.sh.e229 
+  895  vi job.sh
+  896  vi job.sh.o229 
+  897  vi job.sh
+  898  qsub job.sh
+  899  vi job.sh.e230 
+  900  rm job.sh.*
+  901  vi job.sh 
+  902  qsub job.sh 
+  903  vi job.sh.e231 
+  904  awk -F "=" {print $0} job.sh.e231 
+  905  awk -F "=" "{print $0}" job.sh.e231 
+  906  awk -F "=" "{print $1}" job.sh.e231 
+  907  awk -F '=' "{print $1}" job.sh.e231 
+  908  awk -F ' ' "{print $1}" job.sh.e231 
+  909  awk -F '=' "{print $1}" job.sh.e231 
+  910  awk -F ' ' '{print $1}' < job.sh.e231 
+  911  awk -F '=' '{print $1}' < job.sh.e231 
+  912  awk -F '=' '{print $2}' < job.sh.e231 
+  913  awk -F '=' '{print $3}' < job.sh.e231 
+  914  awk -F '=' '{print $FR " " $3}' < job.sh.e231 
+  915  awk -F '=' '{print $NR " " $3}' < job.sh.e231 
+  916  awk -F '=' '{print 1 " " $3}' < job.sh.e231 
+  917  awk -F '=' '{print NR " " $3}' < job.sh.e231 
+  918  awk -F '=' '{print NR " " $3}' < job.sh.e231 > adaptative.data
+  919  awk -F '=' '{print NR " " $3}' < new-cuda-pr.eresultat 
+  920  awk -F '=' '{print NR " " $3}' < new-cuda-pr.eresultat > pr.data
+  921  gnuplot
+  922  exit
+  923  cd projet/src/page_rank/
+  924  vi job.sh.e233
+  925  awk -F '=' '{print NR " " $3}' < job.sh.e233 > adaptative3.data
+  926  vi adaptative.data 
+  927  join collection3.data adaptative3.data > collection4.data
+  928  vi collection4.data 
+  929  vi new-cuda-adaptative-2gpus.cu 
+  930  ls
+  931  rm job.sh.*
+  932  rm collection*
+  933  rm pr2.data 
+  934  rm adaptative*data
+  935  qsub job.sh 
+  936  awk -F '=' '{print NR " " $0}' < new-cuda-pr.eresultat 
+  937  awk -F '=' '{print NR " " $0}' < new-cuda-pr.eresultat > pr.data
+  938  wc -l job.sh.*
+  939  vi pr.data 
+  940  awk -F '=' '{print NR " " $2 " " 3}' < new-cuda-pr.eresultat > pr.data
+  941  vi pr.data 
+  942  awk -F '=' '{print NR " " $2 " " $3}' < new-cuda-pr.eresultat > pr.data
+  943  vi pr.data 
+  944  wc -l job.sh.*
+  945  awk -F '=' '{print NR " " $3}' < 
+  946  awk -F '=' '{print NR " " $3}' < job.sh.e234 
+  947  awk -F '=' '{print NR " " $3}' < job.sh.e234 > job.data
+  948  join pr.data job.data collection.data
+  949  join pr.data job.data 
+  950  join pr.data job.data > collection.data
+  951  awk -F '=' '{print " " $0 " " $4/$5}' <  job.data
+  952  awk -F '=' '{print " " $0 " " $5/$4}' <  job.data
+  953  vi job.data 
+  954  awk -F '=' '{print " " $0 " " $5/$4}' <  collection.data 
+  955  vi collection.data 
+  956  awk -F '=' '{print  $5/$4}' <  collection.data 
+  957  awk -F '=' '{print  $5 " " $4}' <  collection.data 
+  958  awk -F '=' '{print  $4 " " $4}' <  collection.data 
+  959  vi collection.data 
+  960  awk -F ' ' '{print  $5/$4}' <  collection.data 
+  961  awk -F ' ' '{print " " $0 " " $5/$4}' <  collection.data 
+  962  awk -F ' ' '{print " " $0 " " $5/$4}' <  collection.data > detecterr.data
+  963  vi detecterr.data 
+  964  x
+  965  exir
+  966  exit
+  967  ssh python
+  968  exit
+  969  ssh python
+  970  ssh python
+  971  $
+  972  ssh pythonls
+  973  ls
+  974  ssh python
+  975  ssh -X python
+  976  cd projet/src/page_rank/
+  977  gnuplot
+  978  join pr.data adaptative.data 
+  979  join pr.data adaptative.data > collection.data
+  980  gnuplot
+  981  awk -F ' ' '{print $1}' < collection.data 
+  982  awk -F ' ' '{print $1 " " $2/$3 }' < collection.data 
+  983  vi collection.data 
+  984  vi Adaptative_Kernal.cu 
+  985  vi new-cuda-adaptative-2gpus.cu 
+  986  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  987  qsub job.sh
+  988  wc -l job.sh*
+  989  vi job.sh.e232
+  990  awk -F '=' '{print NR " " $3}' < job.sh.e232 > pr2.data
+  991  join collection.data pr2.data 
+  992  join collection.data pr2.data > collection3.data 
+  993  vi collection3.data 
+  994  awk -F ' ' '{print $1 " " $3/$4 }' < collection3.data 
+  995* 
+  996  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+  997  qsub job.sh
+  998  wc -l job.sh.*
+  999  ls
+ 1000  cd projet/
+ 1001  ls
+ 1002  cd page_rank/
+ 1003  ls
+ 1004  cd
+ 1005  cd ShMemGraph/
+ 1006  ls
+ 1007  cd .;
+ 1008  ls
+ 1009  d .;
+ 1010  ls
+ 1011  cd ..
+ 1012  ls
+ 1013  cd PROJETCOMPLET/
+ 1014  ls
+ 1015  cd Project/
+ 1016  ls
+ 1017  cd ..
+ 1018  ls
+ 1019  cd ..
+ 1020  ls
+ 1021  cd ShMemGraph/
+ 1022  ls
+ 1023  git status 
+ 1024  ls
+ 1025  cd src/
+ 1026  ls
+ 1027  cd ??
+ 1028  cd ..
+ 1029  ls
+ 1030  cd ..
+ 1031  git status 
+ 1032  ls -a
+ 1033  vi .git
+ 1034  vi .gitconfig 
+ 1035  git status 
+ 1036  git pull
+ 1037  cd projet/
+ 1038  ls
+ 1039  cd src/
+ 1040  ls
+ 1041  cd page_rank/
+ 1042  ls
+ 1043  ls err
+ 1044  vi err
+ 1045  vi err.log 
+ 1046  ls -al
+ 1047  ll
+ 1048  ls
+ 1049  history 
+ 1050  vi collection.data 
+ 1051  ls collection.data 
+ 1052  ls
+ 1053  ls *.data
+ 1054  vi detecterr.data 
+ 1055  vi pr.data 
+ 1056  vi main-pr.hpp 
+ 1057  vi new-cuda-adaptative-2gpus.cu 
+ 1058  make clean
+ 1059  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus
+ 1060* 
+ 1061  qsub job.sh
+ 1062  vi job.sh.e235 
+ 1063  vi new-cuda-pr-2gpus.cpp 
+ 1064  MODE=nvcc OPT=yes make -e new-cuda-pr-2gpus
+ 1065  vi job.sh
+ 1066  qsub job.sh
+ 1067  vi job.sh.e235 
+ 1068  vi job.sh.e236 
+ 1069  vi job.sh
+ 1070  vi a
+ 1071  vi job.
+ 1072  vi job.sh
+ 1073  rm job.sh.e236 
+ 1074  rm job.sh.a236 
+ 1075  rm job.sh.o236 
+ 1076  vi job.data 
+ 1077  rm job.data 
+ 1078  qsub job.sh
+ 1079  vi job.sh.e237 
+ 1080  vi new-cuda-adaptative-2gpus.cu 
+ 1081  rm job.sh.e237 
+ 1082  MODE=nvcc OPT=yes make -e new-cuda-pr-2gpus
+ 1083  make clean
+ 1084  MODE=nvcc OPT=yes make -e new-cuda-pr-2gpus
+ 1085  rm job.sh.o237 
+ 1086  rm job.sh
+ 1087  vi script.sh 
+ 1088  cp script.sh job.sh
+ 1089  ls
+ 1090  vi job.sh
+ 1091  export LD_LIBRARY_PATH=/usr/local/cuda-7.5/lib64:$LD_LIBRARY_PATH
+ 1092  vi job.sh
+ 1093  ls
+ 1094  vi job.sh
+ 1095  qsub job.sh
+ 1096  qstat -u mkhatiri
+ 1097  ls
+ 1098  vi job.sh.e238 
+ 1099  vi job.sh
+ 1100  qsub job.sh
+ 1101  vi job.sh.e239 
+ 1102  vi job.sh
+ 1103  rm job.sh.e238 job.sh.e238 job.sh.o238 job.sh.o239 
+ 1104  qsub job.sh
+ 1105  vi job.sh.e240 
+ 1106  vi job.sh
+ 1107  vi job.sh.e240 
+ 1108  vi new-cuda-pr-2gpus.cpp 
+ 1109  make clean
+ 1110  MODE=nvcc OPT=yes make -e new-cuda-pr-2gpus
+ 1111  rm job.sh.e240 job.sh.o240 
+ 1112  qsub job.sh
+ 1113  vi job.sh.e241 
+ 1114  vi job.sh.e253
+ 1115  vi job.sh.e235 
+ 1116  vi new-cuda-pr-2gpus.cpp 
+ 1117  vi job.sh.e235 
+ 1118  vi job.sh
+ 1119  vi script.sh 
+ 1120  history 
+ 1121  vi a
+ 1122  v history 
+ 1123  vi history 
+ 1124  vi job.sh
+ 1125  rm job.sh.*
+ 1126  qsub job.sh 
+ 1127  vi job.sh.e242 
+ 1128  vi job.sh
+ 1129  vi job.sh.e242 
+ 1130  vi new-cuda-adaptative-2gpus
+ 1131  vi job.sh
+ 1132  rm job.sh.*
+ 1133  qsub job.sh 
+ 1134  ls job.sh 
+ 1135  ls job.s*
+ 1136  qstat -u mkhatiri
+ 1137  vi makefile
+ 1138  qstat -u mkhatiri
+ 1139  vi job.sh.e243 
+ 1140  history 
+ 1141  /usr/local/cuda-7.5/lib64/libcudart.so
+ 1142  ls /usr/local/cuda-7.5/lib64/libcudart.so
+ 1143  vi job.sh
+ 1144  qsub job.sh
+ 1145  vi job.sh.e24
+ 1146  vi job.sh.e244
+ 1147  vi new-cuda-adaptative-2gpus
+ 1148  vi job.sh
+ 1149  history > h

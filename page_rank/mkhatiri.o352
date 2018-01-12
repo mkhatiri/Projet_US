@@ -1,0 +1,4847 @@
+exec
+subzie 8192
+number-blocks: 32
+filename: amazon0302.bin nVtx: 262111 nonzero: 1234877 AvgTime: 0.076264 part1V: 131072 part1E: 627582 part2V: 131039 part2E: 607295
+rowBlockSize : 605last row 0
+subsize : 64
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 10
+filename: amazon0302.bin nVtx: 262111 nonzero: 1234877 AvgTime: 0.217808 part1V: 111056 part1E: 532014 part2V: 151055 part2E: 702863
+subzie 12544
+number-blocks: 32
+filename: amazon0312.bin nVtx: 400727 nonzero: 3200440 AvgTime: 0.106157 part1V: 213248 part1E: 1824525 part2V: 187479 part2E: 1375915
+rowBlockSize : 1567last row 0
+subsize : 64
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 25
+filename: amazon0312.bin nVtx: 400727 nonzero: 3200440 AvgTime: 0.301254 part1V: 320305 part1E: 2657080 part2V: 80422 part2E: 543360
+subzie 12832
+number-blocks: 32
+filename: amazon0505.bin nVtx: 410236 nonzero: 3356824 AvgTime: 0.084705 part1V: 205312 part1E: 1851989 part2V: 204924 part2E: 1504835
+rowBlockSize : 1644last row 0
+subsize : 64
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 26
+filename: amazon0505.bin nVtx: 410236 nonzero: 3356824 AvgTime: 0.276436 part1V: 56215 part1E: 531426 part2V: 354021 part2E: 2825398
+subzie 12608
+number-blocks: 32
+filename: amazon0601.bin nVtx: 403394 nonzero: 3387388 AvgTime: 0.085977 part1V: 214336 part1E: 1945314 part2V: 189058 part2E: 1442074
+rowBlockSize : 1659last row 0
+subsize : 64
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 26
+filename: amazon0601.bin nVtx: 403394 nonzero: 3387388 AvgTime: 0.190208 part1V: 55736 part1E: 531317 part2V: 347658 part2E: 2856071
+subzie 256
+number-blocks: 31
+filename: as-735.bin nVtx: 7716 nonzero: 26467 AvgTime: 0.048571 part1V: 3840 part1E: 18788 part2V: 3876 part2E: 7679
+rowBlockSize : 15last row 0
+subsize : 0
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 16
+filename: as-735.bin nVtx: 7716 nonzero: 26467 AvgTime: 0.204248 part1V: 1871 part1E: 11693 part2V: 5845 part2E: 14774
+subzie 992
+number-blocks: 32
+filename: as-caida.bin nVtx: 31379 nonzero: 106762 AvgTime: 0.057198 part1V: 13888 part1E: 74687 part2V: 17491 part2E: 32075
+ row_lenght > 20 at iter : 233
+ row_lenght > 20 at iter : 2562
+ row_lenght > 20 at iter : 233
+ row_lenght > 20 at iter : 2562
+rowBlockSize : 57last row 0
+subsize : 0
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 58
+filename: as-caida.bin nVtx: 31379 nonzero: 106762 AvgTime: 0.227213 part1V: 28638 part1E: 103149 part2V: 2741 part2E: 3613
+subzie 53024
+number-blocks: 32
+filename: as-Skitter.bin nVtx: 1696415 nonzero: 22190596 AvgTime: 0.403426 part1V: 477216 part1E: 13560931 part2V: 1219199 part2E: 8629665
+ row_lenght > 20 at iter : 36
+ row_lenght > 20 at iter : 575
+ row_lenght > 20 at iter : 576
+ row_lenght > 20 at iter : 577
+ row_lenght > 20 at iter : 578
+ row_lenght > 20 at iter : 584
+ row_lenght > 20 at iter : 628
+ row_lenght > 20 at iter : 629
+ row_lenght > 20 at iter : 632
+ row_lenght > 20 at iter : 643
+ row_lenght > 20 at iter : 644
+ row_lenght > 20 at iter : 651
+ row_lenght > 20 at iter : 665
+ row_lenght > 20 at iter : 666
+ row_lenght > 20 at iter : 667
+ row_lenght > 20 at iter : 668
+ row_lenght > 20 at iter : 670
+ row_lenght > 20 at iter : 675
+ row_lenght > 20 at iter : 677
+ row_lenght > 20 at iter : 681
+ row_lenght > 20 at iter : 689
+ row_lenght > 20 at iter : 690
+ row_lenght > 20 at iter : 705
+ row_lenght > 20 at iter : 713
+ row_lenght > 20 at iter : 722
+ row_lenght > 20 at iter : 738
+ row_lenght > 20 at iter : 740
+ row_lenght > 20 at iter : 749
+ row_lenght > 20 at iter : 764
+ row_lenght > 20 at iter : 765
+ row_lenght > 20 at iter : 767
+ row_lenght > 20 at iter : 769
+ row_lenght > 20 at iter : 812
+ row_lenght > 20 at iter : 833
+ row_lenght > 20 at iter : 861
+ row_lenght > 20 at iter : 876
+ row_lenght > 20 at iter : 882
+ row_lenght > 20 at iter : 886
+ row_lenght > 20 at iter : 910
+ row_lenght > 20 at iter : 911
+ row_lenght > 20 at iter : 929
+ row_lenght > 20 at iter : 949
+ row_lenght > 20 at iter : 996
+ row_lenght > 20 at iter : 1026
+ row_lenght > 20 at iter : 1040
+ row_lenght > 20 at iter : 1043
+ row_lenght > 20 at iter : 1078
+ row_lenght > 20 at iter : 1122
+ row_lenght > 20 at iter : 1123
+ row_lenght > 20 at iter : 1184
+ row_lenght > 20 at iter : 1236
+ row_lenght > 20 at iter : 1299
+ row_lenght > 20 at iter : 1504
+ row_lenght > 20 at iter : 1855
+ row_lenght > 20 at iter : 5387
+ row_lenght > 20 at iter : 5514
+ row_lenght > 20 at iter : 5530
+ row_lenght > 20 at iter : 5570
+ row_lenght > 20 at iter : 5577
+ row_lenght > 20 at iter : 5597
+ row_lenght > 20 at iter : 5607
+ row_lenght > 20 at iter : 5625
+ row_lenght > 20 at iter : 5635
+ row_lenght > 20 at iter : 5803
+ row_lenght > 20 at iter : 6601
+ row_lenght > 20 at iter : 6602
+ row_lenght > 20 at iter : 6603
+ row_lenght > 20 at iter : 6626
+ row_lenght > 20 at iter : 6637
+ row_lenght > 20 at iter : 6680
+ row_lenght > 20 at iter : 6687
+ row_lenght > 20 at iter : 6688
+ row_lenght > 20 at iter : 6689
+ row_lenght > 20 at iter : 6697
+ row_lenght > 20 at iter : 6737
+ row_lenght > 20 at iter : 6759
+ row_lenght > 20 at iter : 6763
+ row_lenght > 20 at iter : 6891
+ row_lenght > 20 at iter : 6892
+ row_lenght > 20 at iter : 6909
+ row_lenght > 20 at iter : 6910
+ row_lenght > 20 at iter : 6911
+ row_lenght > 20 at iter : 6913
+ row_lenght > 20 at iter : 6914
+ row_lenght > 20 at iter : 6915
+ row_lenght > 20 at iter : 6919
+ row_lenght > 20 at iter : 6920
+ row_lenght > 20 at iter : 6921
+ row_lenght > 20 at iter : 6927
+ row_lenght > 20 at iter : 6959
+ row_lenght > 20 at iter : 6960
+ row_lenght > 20 at iter : 6969
+ row_lenght > 20 at iter : 6975
+ row_lenght > 20 at iter : 7040
+ row_lenght > 20 at iter : 7041
+ row_lenght > 20 at iter : 7043
+ row_lenght > 20 at iter : 7044
+ row_lenght > 20 at iter : 7046
+ row_lenght > 20 at iter : 7047
+ row_lenght > 20 at iter : 7048
+ row_lenght > 20 at iter : 7049
+ row_lenght > 20 at iter : 7050
+ row_lenght > 20 at iter : 7051
+ row_lenght > 20 at iter : 7054
+ row_lenght > 20 at iter : 7055
+ row_lenght > 20 at iter : 7059
+ row_lenght > 20 at iter : 7062
+ row_lenght > 20 at iter : 7080
+ row_lenght > 20 at iter : 7081
+ row_lenght > 20 at iter : 7082
+ row_lenght > 20 at iter : 7083
+ row_lenght > 20 at iter : 7114
+ row_lenght > 20 at iter : 7115
+ row_lenght > 20 at iter : 7117
+ row_lenght > 20 at iter : 7122
+ row_lenght > 20 at iter : 7142
+ row_lenght > 20 at iter : 7156
+ row_lenght > 20 at iter : 7171
+ row_lenght > 20 at iter : 7173
+ row_lenght > 20 at iter : 7180
+ row_lenght > 20 at iter : 7291
+ row_lenght > 20 at iter : 7301
+ row_lenght > 20 at iter : 7401
+ row_lenght > 20 at iter : 7403
+ row_lenght > 20 at iter : 7429
+ row_lenght > 20 at iter : 7440
+ row_lenght > 20 at iter : 7446
+ row_lenght > 20 at iter : 7447
+ row_lenght > 20 at iter : 7541
+ row_lenght > 20 at iter : 7555
+ row_lenght > 20 at iter : 7557
+ row_lenght > 20 at iter : 7558
+ row_lenght > 20 at iter : 7559
+ row_lenght > 20 at iter : 7560
+ row_lenght > 20 at iter : 7561
+ row_lenght > 20 at iter : 7562
+ row_lenght > 20 at iter : 7563
+ row_lenght > 20 at iter : 7564
+ row_lenght > 20 at iter : 7567
+ row_lenght > 20 at iter : 7568
+ row_lenght > 20 at iter : 7569
+ row_lenght > 20 at iter : 7570
+ row_lenght > 20 at iter : 7571
+ row_lenght > 20 at iter : 7572
+ row_lenght > 20 at iter : 7573
+ row_lenght > 20 at iter : 7574
+ row_lenght > 20 at iter : 7575
+ row_lenght > 20 at iter : 7576
+ row_lenght > 20 at iter : 7577
+ row_lenght > 20 at iter : 7578
+ row_lenght > 20 at iter : 7579
+ row_lenght > 20 at iter : 7580
+ row_lenght > 20 at iter : 7581
+ row_lenght > 20 at iter : 7582
+ row_lenght > 20 at iter : 7583
+ row_lenght > 20 at iter : 7585
+ row_lenght > 20 at iter : 7586
+ row_lenght > 20 at iter : 7587
+ row_lenght > 20 at iter : 7588
+ row_lenght > 20 at iter : 7589
+ row_lenght > 20 at iter : 7590
+ row_lenght > 20 at iter : 7591
+ row_lenght > 20 at iter : 7596
+ row_lenght > 20 at iter : 7609
+ row_lenght > 20 at iter : 7610
+ row_lenght > 20 at iter : 7642
+ row_lenght > 20 at iter : 7643
+ row_lenght > 20 at iter : 7644
+ row_lenght > 20 at iter : 7645
+ row_lenght > 20 at iter : 7646
+ row_lenght > 20 at iter : 7647
+ row_lenght > 20 at iter : 7648
+ row_lenght > 20 at iter : 7649
+ row_lenght > 20 at iter : 7650
+ row_lenght > 20 at iter : 7651
+ row_lenght > 20 at iter : 7655
+ row_lenght > 20 at iter : 7657
+ row_lenght > 20 at iter : 7667
+ row_lenght > 20 at iter : 7681
+ row_lenght > 20 at iter : 7682
+ row_lenght > 20 at iter : 7714
+ row_lenght > 20 at iter : 7727
+ row_lenght > 20 at iter : 7728
+ row_lenght > 20 at iter : 7729
+ row_lenght > 20 at iter : 7748
+ row_lenght > 20 at iter : 7749
+ row_lenght > 20 at iter : 7751
+ row_lenght > 20 at iter : 7755
+ row_lenght > 20 at iter : 7805
+ row_lenght > 20 at iter : 7879
+ row_lenght > 20 at iter : 7884
+ row_lenght > 20 at iter : 7885
+ row_lenght > 20 at iter : 7886
+ row_lenght > 20 at iter : 7887
+ row_lenght > 20 at iter : 7888
+ row_lenght > 20 at iter : 7889
+ row_lenght > 20 at iter : 7890
+ row_lenght > 20 at iter : 7891
+ row_lenght > 20 at iter : 7892
+ row_lenght > 20 at iter : 7893
+ row_lenght > 20 at iter : 7894
+ row_lenght > 20 at iter : 7895
+ row_lenght > 20 at iter : 7896
+ row_lenght > 20 at iter : 7897
+ row_lenght > 20 at iter : 7926
+ row_lenght > 20 at iter : 7946
+ row_lenght > 20 at iter : 8020
+ row_lenght > 20 at iter : 8021
+ row_lenght > 20 at iter : 8022
+ row_lenght > 20 at iter : 8023
+ row_lenght > 20 at iter : 8024
+ row_lenght > 20 at iter : 8026
+ row_lenght > 20 at iter : 8027
+ row_lenght > 20 at iter : 8028
+ row_lenght > 20 at iter : 8051
+ row_lenght > 20 at iter : 8052
+ row_lenght > 20 at iter : 8082
+ row_lenght > 20 at iter : 8083
+ row_lenght > 20 at iter : 8084
+ row_lenght > 20 at iter : 8085
+ row_lenght > 20 at iter : 8086
+ row_lenght > 20 at iter : 8087
+ row_lenght > 20 at iter : 8088
+ row_lenght > 20 at iter : 8144
+ row_lenght > 20 at iter : 8145
+ row_lenght > 20 at iter : 8146
+ row_lenght > 20 at iter : 8147
+ row_lenght > 20 at iter : 8163
+ row_lenght > 20 at iter : 8164
+ row_lenght > 20 at iter : 8165
+ row_lenght > 20 at iter : 8166
+ row_lenght > 20 at iter : 8167
+ row_lenght > 20 at iter : 8171
+ row_lenght > 20 at iter : 8302
+ row_lenght > 20 at iter : 8303
+ row_lenght > 20 at iter : 8304
+ row_lenght > 20 at iter : 8305
+ row_lenght > 20 at iter : 8306
+ row_lenght > 20 at iter : 8307
+ row_lenght > 20 at iter : 8308
+ row_lenght > 20 at iter : 8309
+ row_lenght > 20 at iter : 8312
+ row_lenght > 20 at iter : 8313
+ row_lenght > 20 at iter : 8364
+ row_lenght > 20 at iter : 8367
+ row_lenght > 20 at iter : 8444
+ row_lenght > 20 at iter : 8495
+ row_lenght > 20 at iter : 8498
+ row_lenght > 20 at iter : 8499
+ row_lenght > 20 at iter : 8512
+ row_lenght > 20 at iter : 8513
+ row_lenght > 20 at iter : 8514
+ row_lenght > 20 at iter : 8515
+ row_lenght > 20 at iter : 8516
+ row_lenght > 20 at iter : 8517
+ row_lenght > 20 at iter : 8549
+ row_lenght > 20 at iter : 8790
+ row_lenght > 20 at iter : 8792
+ row_lenght > 20 at iter : 8804
+ row_lenght > 20 at iter : 8806
+ row_lenght > 20 at iter : 8807
+ row_lenght > 20 at iter : 8808
+ row_lenght > 20 at iter : 8828
+ row_lenght > 20 at iter : 8830
+ row_lenght > 20 at iter : 8833
+ row_lenght > 20 at iter : 8882
+ row_lenght > 20 at iter : 8888
+ row_lenght > 20 at iter : 8889
+ row_lenght > 20 at iter : 8890
+ row_lenght > 20 at iter : 8891
+ row_lenght > 20 at iter : 8892
+ row_lenght > 20 at iter : 8893
+ row_lenght > 20 at iter : 8919
+ row_lenght > 20 at iter : 9015
+ row_lenght > 20 at iter : 9044
+ row_lenght > 20 at iter : 9045
+ row_lenght > 20 at iter : 9052
+ row_lenght > 20 at iter : 9587
+ row_lenght > 20 at iter : 9833
+ row_lenght > 20 at iter : 9904
+ row_lenght > 20 at iter : 9905
+ row_lenght > 20 at iter : 9908
+ row_lenght > 20 at iter : 9913
+ row_lenght > 20 at iter : 9914
+ row_lenght > 20 at iter : 9915
+ row_lenght > 20 at iter : 10044
+ row_lenght > 20 at iter : 10048
+ row_lenght > 20 at iter : 10058
+ row_lenght > 20 at iter : 10085
+ row_lenght > 20 at iter : 10132
+ row_lenght > 20 at iter : 10198
+ row_lenght > 20 at iter : 10369
+ row_lenght > 20 at iter : 10370
+ row_lenght > 20 at iter : 10377
+ row_lenght > 20 at iter : 10495
+ row_lenght > 20 at iter : 10506
+ row_lenght > 20 at iter : 10523
+ row_lenght > 20 at iter : 10525
+ row_lenght > 20 at iter : 10616
+ row_lenght > 20 at iter : 10636
+ row_lenght > 20 at iter : 10680
+ row_lenght > 20 at iter : 10682
+ row_lenght > 20 at iter : 10796
+ row_lenght > 20 at iter : 10798
+ row_lenght > 20 at iter : 24329
+ row_lenght > 20 at iter : 25488
+ row_lenght > 20 at iter : 35477
+ row_lenght > 20 at iter : 35944
+ row_lenght > 20 at iter : 48605
+ row_lenght > 20 at iter : 48608
+ row_lenght > 20 at iter : 72478
+ row_lenght > 20 at iter : 72482
+ row_lenght > 20 at iter : 72483
+ row_lenght > 20 at iter : 72521
+ row_lenght > 20 at iter : 100922
+ row_lenght > 20 at iter : 104802
+ row_lenght > 20 at iter : 149420
+ row_lenght > 20 at iter : 149426
+ row_lenght > 20 at iter : 156788
+ row_lenght > 20 at iter : 156810
+ row_lenght > 20 at iter : 167032
+ row_lenght > 20 at iter : 168979
+ row_lenght > 20 at iter : 169051
+ row_lenght > 20 at iter : 169052
+ row_lenght > 20 at iter : 169055
+ row_lenght > 20 at iter : 169060
+ row_lenght > 20 at iter : 169086
+ row_lenght > 20 at iter : 169094
+ row_lenght > 20 at iter : 169100
+ row_lenght > 20 at iter : 169104
+ row_lenght > 20 at iter : 169153
+ row_lenght > 20 at iter : 169168
+ row_lenght > 20 at iter : 169184
+ row_lenght > 20 at iter : 200482
+ row_lenght > 20 at iter : 206274
+ row_lenght > 20 at iter : 206301
+ row_lenght > 20 at iter : 208046
+ row_lenght > 20 at iter : 216773
+ row_lenght > 20 at iter : 216798
+ row_lenght > 20 at iter : 219097
+ row_lenght > 20 at iter : 221617
+ row_lenght > 20 at iter : 223602
+ row_lenght > 20 at iter : 227516
+ row_lenght > 20 at iter : 231090
+ row_lenght > 20 at iter : 231105
+ row_lenght > 20 at iter : 256228
+ row_lenght > 20 at iter : 257932
+ row_lenght > 20 at iter : 257945
+ row_lenght > 20 at iter : 257948
+ row_lenght > 20 at iter : 259036
+ row_lenght > 20 at iter : 270131
+ row_lenght > 20 at iter : 275294
+ row_lenght > 20 at iter : 275331
+ row_lenght > 20 at iter : 280645
+ row_lenght > 20 at iter : 280790
+ row_lenght > 20 at iter : 284445
+ row_lenght > 20 at iter : 284446
+ row_lenght > 20 at iter : 284447
+ row_lenght > 20 at iter : 285312
+ row_lenght > 20 at iter : 301347
+ row_lenght > 20 at iter : 318299
+ row_lenght > 20 at iter : 341517
+ row_lenght > 20 at iter : 344529
+ row_lenght > 20 at iter : 406739
+ row_lenght > 20 at iter : 416978
+ row_lenght > 20 at iter : 521790
+ row_lenght > 20 at iter : 522408
+ row_lenght > 20 at iter : 541793
+ row_lenght > 20 at iter : 542724
+ row_lenght > 20 at iter : 542884
+ row_lenght > 20 at iter : 542901
+ row_lenght > 20 at iter : 543018
+ row_lenght > 20 at iter : 550698
+ row_lenght > 20 at iter : 550699
+ row_lenght > 20 at iter : 550701
+ row_lenght > 20 at iter : 659625
+ row_lenght > 20 at iter : 659626
+ row_lenght > 20 at iter : 659630
+ row_lenght > 20 at iter : 750866
+ row_lenght > 20 at iter : 750880
+ row_lenght > 20 at iter : 907100
+ row_lenght > 20 at iter : 928044
+ row_lenght > 20 at iter : 929066
+ row_lenght > 20 at iter : 36
+ row_lenght > 20 at iter : 575
+ row_lenght > 20 at iter : 576
+ row_lenght > 20 at iter : 577
+ row_lenght > 20 at iter : 578
+ row_lenght > 20 at iter : 584
+ row_lenght > 20 at iter : 628
+ row_lenght > 20 at iter : 629
+ row_lenght > 20 at iter : 632
+ row_lenght > 20 at iter : 643
+ row_lenght > 20 at iter : 644
+ row_lenght > 20 at iter : 651
+ row_lenght > 20 at iter : 665
+ row_lenght > 20 at iter : 666
+ row_lenght > 20 at iter : 667
+ row_lenght > 20 at iter : 668
+ row_lenght > 20 at iter : 670
+ row_lenght > 20 at iter : 675
+ row_lenght > 20 at iter : 677
+ row_lenght > 20 at iter : 681
+ row_lenght > 20 at iter : 689
+ row_lenght > 20 at iter : 690
+ row_lenght > 20 at iter : 705
+ row_lenght > 20 at iter : 713
+ row_lenght > 20 at iter : 722
+ row_lenght > 20 at iter : 738
+ row_lenght > 20 at iter : 740
+ row_lenght > 20 at iter : 749
+ row_lenght > 20 at iter : 764
+ row_lenght > 20 at iter : 765
+ row_lenght > 20 at iter : 767
+ row_lenght > 20 at iter : 769
+ row_lenght > 20 at iter : 812
+ row_lenght > 20 at iter : 833
+ row_lenght > 20 at iter : 861
+ row_lenght > 20 at iter : 876
+ row_lenght > 20 at iter : 882
+ row_lenght > 20 at iter : 886
+ row_lenght > 20 at iter : 910
+ row_lenght > 20 at iter : 911
+ row_lenght > 20 at iter : 929
+ row_lenght > 20 at iter : 949
+ row_lenght > 20 at iter : 996
+ row_lenght > 20 at iter : 1026
+ row_lenght > 20 at iter : 1040
+ row_lenght > 20 at iter : 1043
+ row_lenght > 20 at iter : 1078
+ row_lenght > 20 at iter : 1122
+ row_lenght > 20 at iter : 1123
+ row_lenght > 20 at iter : 1184
+ row_lenght > 20 at iter : 1236
+ row_lenght > 20 at iter : 1299
+ row_lenght > 20 at iter : 1504
+ row_lenght > 20 at iter : 1855
+ row_lenght > 20 at iter : 5387
+ row_lenght > 20 at iter : 5514
+ row_lenght > 20 at iter : 5530
+ row_lenght > 20 at iter : 5570
+ row_lenght > 20 at iter : 5577
+ row_lenght > 20 at iter : 5597
+ row_lenght > 20 at iter : 5607
+ row_lenght > 20 at iter : 5625
+ row_lenght > 20 at iter : 5635
+ row_lenght > 20 at iter : 5803
+ row_lenght > 20 at iter : 6601
+ row_lenght > 20 at iter : 6602
+ row_lenght > 20 at iter : 6603
+ row_lenght > 20 at iter : 6626
+ row_lenght > 20 at iter : 6637
+ row_lenght > 20 at iter : 6680
+ row_lenght > 20 at iter : 6687
+ row_lenght > 20 at iter : 6688
+ row_lenght > 20 at iter : 6689
+ row_lenght > 20 at iter : 6697
+ row_lenght > 20 at iter : 6737
+ row_lenght > 20 at iter : 6759
+ row_lenght > 20 at iter : 6763
+ row_lenght > 20 at iter : 6891
+ row_lenght > 20 at iter : 6892
+ row_lenght > 20 at iter : 6909
+ row_lenght > 20 at iter : 6910
+ row_lenght > 20 at iter : 6911
+ row_lenght > 20 at iter : 6913
+ row_lenght > 20 at iter : 6914
+ row_lenght > 20 at iter : 6915
+ row_lenght > 20 at iter : 6919
+ row_lenght > 20 at iter : 6920
+ row_lenght > 20 at iter : 6921
+ row_lenght > 20 at iter : 6927
+ row_lenght > 20 at iter : 6959
+ row_lenght > 20 at iter : 6960
+ row_lenght > 20 at iter : 6969
+ row_lenght > 20 at iter : 6975
+ row_lenght > 20 at iter : 7040
+ row_lenght > 20 at iter : 7041
+ row_lenght > 20 at iter : 7043
+ row_lenght > 20 at iter : 7044
+ row_lenght > 20 at iter : 7046
+ row_lenght > 20 at iter : 7047
+ row_lenght > 20 at iter : 7048
+ row_lenght > 20 at iter : 7049
+ row_lenght > 20 at iter : 7050
+ row_lenght > 20 at iter : 7051
+ row_lenght > 20 at iter : 7054
+ row_lenght > 20 at iter : 7055
+ row_lenght > 20 at iter : 7059
+ row_lenght > 20 at iter : 7062
+ row_lenght > 20 at iter : 7080
+ row_lenght > 20 at iter : 7081
+ row_lenght > 20 at iter : 7082
+ row_lenght > 20 at iter : 7083
+ row_lenght > 20 at iter : 7114
+ row_lenght > 20 at iter : 7115
+ row_lenght > 20 at iter : 7117
+ row_lenght > 20 at iter : 7122
+ row_lenght > 20 at iter : 7142
+ row_lenght > 20 at iter : 7156
+ row_lenght > 20 at iter : 7171
+ row_lenght > 20 at iter : 7173
+ row_lenght > 20 at iter : 7180
+ row_lenght > 20 at iter : 7291
+ row_lenght > 20 at iter : 7301
+ row_lenght > 20 at iter : 7401
+ row_lenght > 20 at iter : 7403
+ row_lenght > 20 at iter : 7429
+ row_lenght > 20 at iter : 7440
+ row_lenght > 20 at iter : 7446
+ row_lenght > 20 at iter : 7447
+ row_lenght > 20 at iter : 7541
+ row_lenght > 20 at iter : 7555
+ row_lenght > 20 at iter : 7557
+ row_lenght > 20 at iter : 7558
+ row_lenght > 20 at iter : 7559
+ row_lenght > 20 at iter : 7560
+ row_lenght > 20 at iter : 7561
+ row_lenght > 20 at iter : 7562
+ row_lenght > 20 at iter : 7563
+ row_lenght > 20 at iter : 7564
+ row_lenght > 20 at iter : 7567
+ row_lenght > 20 at iter : 7568
+ row_lenght > 20 at iter : 7569
+ row_lenght > 20 at iter : 7570
+ row_lenght > 20 at iter : 7571
+ row_lenght > 20 at iter : 7572
+ row_lenght > 20 at iter : 7573
+ row_lenght > 20 at iter : 7574
+ row_lenght > 20 at iter : 7575
+ row_lenght > 20 at iter : 7576
+ row_lenght > 20 at iter : 7577
+ row_lenght > 20 at iter : 7578
+ row_lenght > 20 at iter : 7579
+ row_lenght > 20 at iter : 7580
+ row_lenght > 20 at iter : 7581
+ row_lenght > 20 at iter : 7582
+ row_lenght > 20 at iter : 7583
+ row_lenght > 20 at iter : 7585
+ row_lenght > 20 at iter : 7586
+ row_lenght > 20 at iter : 7587
+ row_lenght > 20 at iter : 7588
+ row_lenght > 20 at iter : 7589
+ row_lenght > 20 at iter : 7590
+ row_lenght > 20 at iter : 7591
+ row_lenght > 20 at iter : 7596
+ row_lenght > 20 at iter : 7609
+ row_lenght > 20 at iter : 7610
+ row_lenght > 20 at iter : 7642
+ row_lenght > 20 at iter : 7643
+ row_lenght > 20 at iter : 7644
+ row_lenght > 20 at iter : 7645
+ row_lenght > 20 at iter : 7646
+ row_lenght > 20 at iter : 7647
+ row_lenght > 20 at iter : 7648
+ row_lenght > 20 at iter : 7649
+ row_lenght > 20 at iter : 7650
+ row_lenght > 20 at iter : 7651
+ row_lenght > 20 at iter : 7655
+ row_lenght > 20 at iter : 7657
+ row_lenght > 20 at iter : 7667
+ row_lenght > 20 at iter : 7681
+ row_lenght > 20 at iter : 7682
+ row_lenght > 20 at iter : 7714
+ row_lenght > 20 at iter : 7727
+ row_lenght > 20 at iter : 7728
+ row_lenght > 20 at iter : 7729
+ row_lenght > 20 at iter : 7748
+ row_lenght > 20 at iter : 7749
+ row_lenght > 20 at iter : 7751
+ row_lenght > 20 at iter : 7755
+ row_lenght > 20 at iter : 7805
+ row_lenght > 20 at iter : 7879
+ row_lenght > 20 at iter : 7884
+ row_lenght > 20 at iter : 7885
+ row_lenght > 20 at iter : 7886
+ row_lenght > 20 at iter : 7887
+ row_lenght > 20 at iter : 7888
+ row_lenght > 20 at iter : 7889
+ row_lenght > 20 at iter : 7890
+ row_lenght > 20 at iter : 7891
+ row_lenght > 20 at iter : 7892
+ row_lenght > 20 at iter : 7893
+ row_lenght > 20 at iter : 7894
+ row_lenght > 20 at iter : 7895
+ row_lenght > 20 at iter : 7896
+ row_lenght > 20 at iter : 7897
+ row_lenght > 20 at iter : 7926
+ row_lenght > 20 at iter : 7946
+ row_lenght > 20 at iter : 8020
+ row_lenght > 20 at iter : 8021
+ row_lenght > 20 at iter : 8022
+ row_lenght > 20 at iter : 8023
+ row_lenght > 20 at iter : 8024
+ row_lenght > 20 at iter : 8026
+ row_lenght > 20 at iter : 8027
+ row_lenght > 20 at iter : 8028
+ row_lenght > 20 at iter : 8051
+ row_lenght > 20 at iter : 8052
+ row_lenght > 20 at iter : 8082
+ row_lenght > 20 at iter : 8083
+ row_lenght > 20 at iter : 8084
+ row_lenght > 20 at iter : 8085
+ row_lenght > 20 at iter : 8086
+ row_lenght > 20 at iter : 8087
+ row_lenght > 20 at iter : 8088
+ row_lenght > 20 at iter : 8144
+ row_lenght > 20 at iter : 8145
+ row_lenght > 20 at iter : 8146
+ row_lenght > 20 at iter : 8147
+ row_lenght > 20 at iter : 8163
+ row_lenght > 20 at iter : 8164
+ row_lenght > 20 at iter : 8165
+ row_lenght > 20 at iter : 8166
+ row_lenght > 20 at iter : 8167
+ row_lenght > 20 at iter : 8171
+ row_lenght > 20 at iter : 8302
+ row_lenght > 20 at iter : 8303
+ row_lenght > 20 at iter : 8304
+ row_lenght > 20 at iter : 8305
+ row_lenght > 20 at iter : 8306
+ row_lenght > 20 at iter : 8307
+ row_lenght > 20 at iter : 8308
+ row_lenght > 20 at iter : 8309
+ row_lenght > 20 at iter : 8312
+ row_lenght > 20 at iter : 8313
+ row_lenght > 20 at iter : 8364
+ row_lenght > 20 at iter : 8367
+ row_lenght > 20 at iter : 8444
+ row_lenght > 20 at iter : 8495
+ row_lenght > 20 at iter : 8498
+ row_lenght > 20 at iter : 8499
+ row_lenght > 20 at iter : 8512
+ row_lenght > 20 at iter : 8513
+ row_lenght > 20 at iter : 8514
+ row_lenght > 20 at iter : 8515
+ row_lenght > 20 at iter : 8516
+ row_lenght > 20 at iter : 8517
+ row_lenght > 20 at iter : 8549
+ row_lenght > 20 at iter : 8790
+ row_lenght > 20 at iter : 8792
+ row_lenght > 20 at iter : 8804
+ row_lenght > 20 at iter : 8806
+ row_lenght > 20 at iter : 8807
+ row_lenght > 20 at iter : 8808
+ row_lenght > 20 at iter : 8828
+ row_lenght > 20 at iter : 8830
+ row_lenght > 20 at iter : 8833
+ row_lenght > 20 at iter : 8882
+ row_lenght > 20 at iter : 8888
+ row_lenght > 20 at iter : 8889
+ row_lenght > 20 at iter : 8890
+ row_lenght > 20 at iter : 8891
+ row_lenght > 20 at iter : 8892
+ row_lenght > 20 at iter : 8893
+ row_lenght > 20 at iter : 8919
+ row_lenght > 20 at iter : 9015
+ row_lenght > 20 at iter : 9044
+ row_lenght > 20 at iter : 9045
+ row_lenght > 20 at iter : 9052
+ row_lenght > 20 at iter : 9587
+ row_lenght > 20 at iter : 9833
+ row_lenght > 20 at iter : 9904
+ row_lenght > 20 at iter : 9905
+ row_lenght > 20 at iter : 9908
+ row_lenght > 20 at iter : 9913
+ row_lenght > 20 at iter : 9914
+ row_lenght > 20 at iter : 9915
+ row_lenght > 20 at iter : 10044
+ row_lenght > 20 at iter : 10048
+ row_lenght > 20 at iter : 10058
+ row_lenght > 20 at iter : 10085
+ row_lenght > 20 at iter : 10132
+ row_lenght > 20 at iter : 10198
+ row_lenght > 20 at iter : 10369
+ row_lenght > 20 at iter : 10370
+ row_lenght > 20 at iter : 10377
+ row_lenght > 20 at iter : 10495
+ row_lenght > 20 at iter : 10506
+ row_lenght > 20 at iter : 10523
+ row_lenght > 20 at iter : 10525
+ row_lenght > 20 at iter : 10616
+ row_lenght > 20 at iter : 10636
+ row_lenght > 20 at iter : 10680
+ row_lenght > 20 at iter : 10682
+ row_lenght > 20 at iter : 10796
+ row_lenght > 20 at iter : 10798
+ row_lenght > 20 at iter : 24329
+ row_lenght > 20 at iter : 25488
+ row_lenght > 20 at iter : 35477
+ row_lenght > 20 at iter : 35944
+ row_lenght > 20 at iter : 48605
+ row_lenght > 20 at iter : 48608
+ row_lenght > 20 at iter : 72478
+ row_lenght > 20 at iter : 72482
+ row_lenght > 20 at iter : 72483
+ row_lenght > 20 at iter : 72521
+ row_lenght > 20 at iter : 100922
+ row_lenght > 20 at iter : 104802
+ row_lenght > 20 at iter : 149420
+ row_lenght > 20 at iter : 149426
+ row_lenght > 20 at iter : 156788
+ row_lenght > 20 at iter : 156810
+ row_lenght > 20 at iter : 167032
+ row_lenght > 20 at iter : 168979
+ row_lenght > 20 at iter : 169051
+ row_lenght > 20 at iter : 169052
+ row_lenght > 20 at iter : 169055
+ row_lenght > 20 at iter : 169060
+ row_lenght > 20 at iter : 169086
+ row_lenght > 20 at iter : 169094
+ row_lenght > 20 at iter : 169100
+ row_lenght > 20 at iter : 169104
+ row_lenght > 20 at iter : 169153
+ row_lenght > 20 at iter : 169168
+ row_lenght > 20 at iter : 169184
+ row_lenght > 20 at iter : 200482
+ row_lenght > 20 at iter : 206274
+ row_lenght > 20 at iter : 206301
+ row_lenght > 20 at iter : 208046
+ row_lenght > 20 at iter : 216773
+ row_lenght > 20 at iter : 216798
+ row_lenght > 20 at iter : 219097
+ row_lenght > 20 at iter : 221617
+ row_lenght > 20 at iter : 223602
+ row_lenght > 20 at iter : 227516
+ row_lenght > 20 at iter : 231090
+ row_lenght > 20 at iter : 231105
+ row_lenght > 20 at iter : 256228
+ row_lenght > 20 at iter : 257932
+ row_lenght > 20 at iter : 257945
+ row_lenght > 20 at iter : 257948
+ row_lenght > 20 at iter : 259036
+ row_lenght > 20 at iter : 270131
+ row_lenght > 20 at iter : 275294
+ row_lenght > 20 at iter : 275331
+ row_lenght > 20 at iter : 280645
+ row_lenght > 20 at iter : 280790
+ row_lenght > 20 at iter : 284445
+ row_lenght > 20 at iter : 284446
+ row_lenght > 20 at iter : 284447
+ row_lenght > 20 at iter : 285312
+ row_lenght > 20 at iter : 301347
+ row_lenght > 20 at iter : 318299
+ row_lenght > 20 at iter : 341517
+ row_lenght > 20 at iter : 344529
+ row_lenght > 20 at iter : 406739
+ row_lenght > 20 at iter : 416978
+ row_lenght > 20 at iter : 521790
+ row_lenght > 20 at iter : 522408
+ row_lenght > 20 at iter : 541793
+ row_lenght > 20 at iter : 542724
+ row_lenght > 20 at iter : 542884
+ row_lenght > 20 at iter : 542901
+ row_lenght > 20 at iter : 543018
+ row_lenght > 20 at iter : 550698
+ row_lenght > 20 at iter : 550699
+ row_lenght > 20 at iter : 550701
+ row_lenght > 20 at iter : 659625
+ row_lenght > 20 at iter : 659626
+ row_lenght > 20 at iter : 659630
+ row_lenght > 20 at iter : 750866
+ row_lenght > 20 at iter : 750880
+ row_lenght > 20 at iter : 907100
+ row_lenght > 20 at iter : 928044
+ row_lenght > 20 at iter : 929066
+rowBlockSize : 10715last row 0
+subsize : 128
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 84
+filename: as-Skitter.bin nVtx: 1696415 nonzero: 22190596 AvgTime: 0.308878 part1V: 7180 part1E: 1443240 part2V: 1689235 part2E: 20747356
+subzie 608
+number-blocks: 31
+filename: ca-AstroPh.bin nVtx: 18772 nonzero: 396160 AvgTime: 0.051961 part1V: 9728 part1E: 204758 part2V: 9044 part2E: 191402
+rowBlockSize : 198last row 0
+subsize : 64
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 4
+filename: ca-AstroPh.bin nVtx: 18772 nonzero: 396160 AvgTime: 0.145471 part1V: 12321 part1E: 261979 part2V: 6451 part2E: 134181
+subzie 736
+number-blocks: 32
+filename: ca-CondMat.bin nVtx: 23133 nonzero: 186936 AvgTime: 0.077584 part1V: 11776 part1E: 96115 part2V: 11357 part2E: 90821
+rowBlockSize : 93last row 0
+subsize : 0
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 94
+filename: ca-CondMat.bin nVtx: 23133 nonzero: 186936 AvgTime: 0.227512 part1V: 1073 part1E: 8198 part2V: 22060 part2E: 178738
+subzie 192
+number-blocks: 28
+filename: ca-GrQc.bin nVtx: 5242 nonzero: 28980 AvgTime: 0.120834 part1V: 2688 part1E: 14929 part2V: 2554 part2E: 14051
+rowBlockSize : 16last row 0
+subsize : 0
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 17
+filename: ca-GrQc.bin nVtx: 5242 nonzero: 28980 AvgTime: 0.169473 part1V: 3264 part1E: 18369 part2V: 1978 part2E: 10611
+subzie 384
+number-blocks: 32
+filename: ca-HepPh.bin nVtx: 12008 nonzero: 237010 AvgTime: 0.05403 part1V: 6144 part1E: 127808 part2V: 5864 part2E: 109202
+rowBlockSize : 120last row 0
+subsize : 0
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 121
+filename: ca-HepPh.bin nVtx: 12008 nonzero: 237010 AvgTime: 0.178234 part1V: 11842 part1E: 234053 part2V: 166 part2E: 2957
+subzie 320
+number-blocks: 31
+filename: ca-HepTh.bin nVtx: 9877 nonzero: 51971 AvgTime: 0.05035 part1V: 4800 part1E: 25691 part2V: 5077 part2E: 26280
+rowBlockSize : 27last row 0
+subsize : 0
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 28
+filename: ca-HepTh.bin nVtx: 9877 nonzero: 51971 AvgTime: 0.26374 part1V: 7742 part1E: 40853 part2V: 2135 part2E: 11118
+subzie 1088
+number-blocks: 32
+filename: cit-HepPh.bin nVtx: 34546 nonzero: 421578 AvgTime: 0.057768 part1V: 17408 part1E: 232455 part2V: 17138 part2E: 189123
+rowBlockSize : 209last row 0
+subsize : 64
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 4
+filename: cit-HepPh.bin nVtx: 34546 nonzero: 421578 AvgTime: 0.163007 part1V: 21734 part1E: 264284 part2V: 12812 part2E: 157294
+subzie 896
+number-blocks: 31
+filename: cit-HepTh.bin nVtx: 27770 nonzero: 352807 AvgTime: 0.061809 part1V: 13440 part1E: 191029 part2V: 14330 part2E: 161778
+rowBlockSize : 175last row 0
+subsize : 64
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 3
+filename: cit-HepTh.bin nVtx: 27770 nonzero: 352807 AvgTime: 0.063441 part1V: 7491 part1E: 131638 part2V: 20279 part2E: 221169
+subzie 117984
+number-blocks: 32
+filename: cit-Patents.bin nVtx: 3774768 nonzero: 16518948 AvgTime: 0.642616 part1V: 2831616 part1E: 7382506 part2V: 943152 part2E: 9136442
+rowBlockSize : 8101last row 0
+subsize : 64
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 125
+filename: cit-Patents.bin nVtx: 3774768 nonzero: 16518948 AvgTime: 0.582028 part1V: 3019706 part1E: 8896724 part2V: 755062 part2E: 7622224
+subzie 10496
+number-blocks: 32
+filename: com-amazon.ungraph.bin nVtx: 334863 nonzero: 1851744 AvgTime: 0.086229 part1V: 167936 part1E: 1179209 part2V: 166927 part2E: 672535
+rowBlockSize : 908last row 0
+subsize : 64
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 14
+filename: com-amazon.ungraph.bin nVtx: 334863 nonzero: 1851744 AvgTime: 0.202239 part1V: 146217 part1E: 1060822 part2V: 188646 part2E: 790922
+subzie 9920
+number-blocks: 32
+filename: com-dblp.ungraph.bin nVtx: 317080 nonzero: 2099732 AvgTime: 0.073119 part1V: 138880 part1E: 1337436 part2V: 178200 part2E: 762296
+rowBlockSize : 1032last row 0
+subsize : 64
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 16
+filename: com-dblp.ungraph.bin nVtx: 317080 nonzero: 2099732 AvgTime: 0.218381 part1V: 96402 part1E: 1056800 part2V: 220678 part2E: 1042932
+subzie 124960
+number-blocks: 32
+filename: com-lj.ungraph.bin nVtx: 3997962 nonzero: 69362378 AvgTime: 0.960739 part1V: 874720 part1E: 40194118 part2V: 3123242 part2E: 29168260
+ row_lenght > 20 at iter : 597
+ row_lenght > 20 at iter : 602
+ row_lenght > 20 at iter : 603
+ row_lenght > 20 at iter : 1267
+ row_lenght > 20 at iter : 3821
+ row_lenght > 20 at iter : 4704
+ row_lenght > 20 at iter : 5968
+ row_lenght > 20 at iter : 7166
+ row_lenght > 20 at iter : 7305
+ row_lenght > 20 at iter : 7430
+ row_lenght > 20 at iter : 7432
+ row_lenght > 20 at iter : 8809
+ row_lenght > 20 at iter : 8923
+ row_lenght > 20 at iter : 11486
+ row_lenght > 20 at iter : 18274
+ row_lenght > 20 at iter : 18276
+ row_lenght > 20 at iter : 18280
+ row_lenght > 20 at iter : 18281
+ row_lenght > 20 at iter : 18289
+ row_lenght > 20 at iter : 18309
+ row_lenght > 20 at iter : 18313
+ row_lenght > 20 at iter : 18491
+ row_lenght > 20 at iter : 19477
+ row_lenght > 20 at iter : 20122
+ row_lenght > 20 at iter : 20345
+ row_lenght > 20 at iter : 20885
+ row_lenght > 20 at iter : 20886
+ row_lenght > 20 at iter : 20888
+ row_lenght > 20 at iter : 20920
+ row_lenght > 20 at iter : 21273
+ row_lenght > 20 at iter : 21320
+ row_lenght > 20 at iter : 21496
+ row_lenght > 20 at iter : 22346
+ row_lenght > 20 at iter : 22853
+ row_lenght > 20 at iter : 23077
+ row_lenght > 20 at iter : 23238
+ row_lenght > 20 at iter : 23241
+ row_lenght > 20 at iter : 25085
+ row_lenght > 20 at iter : 25087
+ row_lenght > 20 at iter : 25280
+ row_lenght > 20 at iter : 25923
+ row_lenght > 20 at iter : 25928
+ row_lenght > 20 at iter : 25931
+ row_lenght > 20 at iter : 26297
+ row_lenght > 20 at iter : 27333
+ row_lenght > 20 at iter : 28418
+ row_lenght > 20 at iter : 28956
+ row_lenght > 20 at iter : 29325
+ row_lenght > 20 at iter : 29326
+ row_lenght > 20 at iter : 29327
+ row_lenght > 20 at iter : 30252
+ row_lenght > 20 at iter : 31845
+ row_lenght > 20 at iter : 31864
+ row_lenght > 20 at iter : 32165
+ row_lenght > 20 at iter : 34105
+ row_lenght > 20 at iter : 34437
+ row_lenght > 20 at iter : 35408
+ row_lenght > 20 at iter : 36651
+ row_lenght > 20 at iter : 38751
+ row_lenght > 20 at iter : 39108
+ row_lenght > 20 at iter : 39952
+ row_lenght > 20 at iter : 41463
+ row_lenght > 20 at iter : 43968
+ row_lenght > 20 at iter : 45880
+ row_lenght > 20 at iter : 46569
+ row_lenght > 20 at iter : 49872
+ row_lenght > 20 at iter : 51387
+ row_lenght > 20 at iter : 51389
+ row_lenght > 20 at iter : 58645
+ row_lenght > 20 at iter : 60535
+ row_lenght > 20 at iter : 75093
+ row_lenght > 20 at iter : 75107
+ row_lenght > 20 at iter : 82961
+ row_lenght > 20 at iter : 83713
+ row_lenght > 20 at iter : 86775
+ row_lenght > 20 at iter : 128886
+ row_lenght > 20 at iter : 131006
+ row_lenght > 20 at iter : 185916
+ row_lenght > 20 at iter : 186106
+ row_lenght > 20 at iter : 186125
+ row_lenght > 20 at iter : 186318
+ row_lenght > 20 at iter : 218638
+ row_lenght > 20 at iter : 219431
+ row_lenght > 20 at iter : 219676
+ row_lenght > 20 at iter : 219990
+ row_lenght > 20 at iter : 219995
+ row_lenght > 20 at iter : 220003
+ row_lenght > 20 at iter : 220009
+ row_lenght > 20 at iter : 220157
+ row_lenght > 20 at iter : 220162
+ row_lenght > 20 at iter : 220167
+ row_lenght > 20 at iter : 220229
+ row_lenght > 20 at iter : 220240
+ row_lenght > 20 at iter : 220285
+ row_lenght > 20 at iter : 220290
+ row_lenght > 20 at iter : 220428
+ row_lenght > 20 at iter : 220491
+ row_lenght > 20 at iter : 220598
+ row_lenght > 20 at iter : 227248
+ row_lenght > 20 at iter : 227397
+ row_lenght > 20 at iter : 229885
+ row_lenght > 20 at iter : 229893
+ row_lenght > 20 at iter : 230671
+ row_lenght > 20 at iter : 232316
+ row_lenght > 20 at iter : 233358
+ row_lenght > 20 at iter : 235269
+ row_lenght > 20 at iter : 263226
+ row_lenght > 20 at iter : 597
+ row_lenght > 20 at iter : 602
+ row_lenght > 20 at iter : 603
+ row_lenght > 20 at iter : 1267
+ row_lenght > 20 at iter : 3821
+ row_lenght > 20 at iter : 4704
+ row_lenght > 20 at iter : 5968
+ row_lenght > 20 at iter : 7166
+ row_lenght > 20 at iter : 7305
+ row_lenght > 20 at iter : 7430
+ row_lenght > 20 at iter : 7432
+ row_lenght > 20 at iter : 8809
+ row_lenght > 20 at iter : 8923
+ row_lenght > 20 at iter : 11486
+ row_lenght > 20 at iter : 18274
+ row_lenght > 20 at iter : 18276
+ row_lenght > 20 at iter : 18280
+ row_lenght > 20 at iter : 18281
+ row_lenght > 20 at iter : 18289
+ row_lenght > 20 at iter : 18309
+ row_lenght > 20 at iter : 18313
+ row_lenght > 20 at iter : 18491
+ row_lenght > 20 at iter : 19477
+ row_lenght > 20 at iter : 20122
+ row_lenght > 20 at iter : 20345
+ row_lenght > 20 at iter : 20885
+ row_lenght > 20 at iter : 20886
+ row_lenght > 20 at iter : 20888
+ row_lenght > 20 at iter : 20920
+ row_lenght > 20 at iter : 21273
+ row_lenght > 20 at iter : 21320
+ row_lenght > 20 at iter : 21496
+ row_lenght > 20 at iter : 22346
+ row_lenght > 20 at iter : 22853
+ row_lenght > 20 at iter : 23077
+ row_lenght > 20 at iter : 23238
+ row_lenght > 20 at iter : 23241
+ row_lenght > 20 at iter : 25085
+ row_lenght > 20 at iter : 25087
+ row_lenght > 20 at iter : 25280
+ row_lenght > 20 at iter : 25923
+ row_lenght > 20 at iter : 25928
+ row_lenght > 20 at iter : 25931
+ row_lenght > 20 at iter : 26297
+ row_lenght > 20 at iter : 27333
+ row_lenght > 20 at iter : 28418
+ row_lenght > 20 at iter : 28956
+ row_lenght > 20 at iter : 29325
+ row_lenght > 20 at iter : 29326
+ row_lenght > 20 at iter : 29327
+ row_lenght > 20 at iter : 30252
+ row_lenght > 20 at iter : 31845
+ row_lenght > 20 at iter : 31864
+ row_lenght > 20 at iter : 32165
+ row_lenght > 20 at iter : 34105
+ row_lenght > 20 at iter : 34437
+ row_lenght > 20 at iter : 35408
+ row_lenght > 20 at iter : 36651
+ row_lenght > 20 at iter : 38751
+ row_lenght > 20 at iter : 39108
+ row_lenght > 20 at iter : 39952
+ row_lenght > 20 at iter : 41463
+ row_lenght > 20 at iter : 43968
+ row_lenght > 20 at iter : 45880
+ row_lenght > 20 at iter : 46569
+ row_lenght > 20 at iter : 49872
+ row_lenght > 20 at iter : 51387
+ row_lenght > 20 at iter : 51389
+ row_lenght > 20 at iter : 58645
+ row_lenght > 20 at iter : 60535
+ row_lenght > 20 at iter : 75093
+ row_lenght > 20 at iter : 75107
+ row_lenght > 20 at iter : 82961
+ row_lenght > 20 at iter : 83713
+ row_lenght > 20 at iter : 86775
+ row_lenght > 20 at iter : 128886
+ row_lenght > 20 at iter : 131006
+ row_lenght > 20 at iter : 185916
+ row_lenght > 20 at iter : 186106
+ row_lenght > 20 at iter : 186125
+ row_lenght > 20 at iter : 186318
+ row_lenght > 20 at iter : 218638
+ row_lenght > 20 at iter : 219431
+ row_lenght > 20 at iter : 219676
+ row_lenght > 20 at iter : 219990
+ row_lenght > 20 at iter : 219995
+ row_lenght > 20 at iter : 220003
+ row_lenght > 20 at iter : 220009
+ row_lenght > 20 at iter : 220157
+ row_lenght > 20 at iter : 220162
+ row_lenght > 20 at iter : 220167
+ row_lenght > 20 at iter : 220229
+ row_lenght > 20 at iter : 220240
+ row_lenght > 20 at iter : 220285
+ row_lenght > 20 at iter : 220290
+ row_lenght > 20 at iter : 220428
+ row_lenght > 20 at iter : 220491
+ row_lenght > 20 at iter : 220598
+ row_lenght > 20 at iter : 227248
+ row_lenght > 20 at iter : 227397
+ row_lenght > 20 at iter : 229885
+ row_lenght > 20 at iter : 229893
+ row_lenght > 20 at iter : 230671
+ row_lenght > 20 at iter : 232316
+ row_lenght > 20 at iter : 233358
+ row_lenght > 20 at iter : 235269
+ row_lenght > 20 at iter : 263226
+rowBlockSize : 34762last row 0
+subsize : 320
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 109
+filename: com-lj.ungraph.bin nVtx: 3997962 nonzero: 69362378 AvgTime: 0.661137 part1V: 163727 part1E: 11854662 part2V: 3834235 part2E: 57507716
+subzie 96032
+number-blocks: 32
+filename: com-orkut.ungraph.bin nVtx: 3072441 nonzero: 234370166 AvgTime: 2.7107 part1V: 1344448 part1E: 121837106 part2V: 1727993 part2E: 112533060
+ row_lenght > 20 at iter : 665
+ row_lenght > 20 at iter : 963
+ row_lenght > 20 at iter : 2768
+ row_lenght > 20 at iter : 2987
+ row_lenght > 20 at iter : 8228
+ row_lenght > 20 at iter : 12701
+ row_lenght > 20 at iter : 18021
+ row_lenght > 20 at iter : 21175
+ row_lenght > 20 at iter : 23734
+ row_lenght > 20 at iter : 26262
+ row_lenght > 20 at iter : 26263
+ row_lenght > 20 at iter : 26679
+ row_lenght > 20 at iter : 35573
+ row_lenght > 20 at iter : 44596
+ row_lenght > 20 at iter : 52848
+ row_lenght > 20 at iter : 57330
+ row_lenght > 20 at iter : 64569
+ row_lenght > 20 at iter : 69639
+ row_lenght > 20 at iter : 69644
+ row_lenght > 20 at iter : 69812
+ row_lenght > 20 at iter : 70067
+ row_lenght > 20 at iter : 70330
+ row_lenght > 20 at iter : 70554
+ row_lenght > 20 at iter : 92482
+ row_lenght > 20 at iter : 92659
+ row_lenght > 20 at iter : 92799
+ row_lenght > 20 at iter : 110979
+ row_lenght > 20 at iter : 111961
+ row_lenght > 20 at iter : 120450
+ row_lenght > 20 at iter : 120723
+ row_lenght > 20 at iter : 121152
+ row_lenght > 20 at iter : 124452
+ row_lenght > 20 at iter : 142456
+ row_lenght > 20 at iter : 151201
+ row_lenght > 20 at iter : 156803
+ row_lenght > 20 at iter : 159826
+ row_lenght > 20 at iter : 168215
+ row_lenght > 20 at iter : 169662
+ row_lenght > 20 at iter : 169734
+ row_lenght > 20 at iter : 169780
+ row_lenght > 20 at iter : 177461
+ row_lenght > 20 at iter : 180268
+ row_lenght > 20 at iter : 180748
+ row_lenght > 20 at iter : 207867
+ row_lenght > 20 at iter : 217488
+ row_lenght > 20 at iter : 218105
+ row_lenght > 20 at iter : 218106
+ row_lenght > 20 at iter : 228626
+ row_lenght > 20 at iter : 230137
+ row_lenght > 20 at iter : 233453
+ row_lenght > 20 at iter : 236324
+ row_lenght > 20 at iter : 236325
+ row_lenght > 20 at iter : 236326
+ row_lenght > 20 at iter : 236327
+ row_lenght > 20 at iter : 236606
+ row_lenght > 20 at iter : 236747
+ row_lenght > 20 at iter : 236755
+ row_lenght > 20 at iter : 236795
+ row_lenght > 20 at iter : 236867
+ row_lenght > 20 at iter : 236870
+ row_lenght > 20 at iter : 236874
+ row_lenght > 20 at iter : 236876
+ row_lenght > 20 at iter : 236877
+ row_lenght > 20 at iter : 236878
+ row_lenght > 20 at iter : 236880
+ row_lenght > 20 at iter : 236882
+ row_lenght > 20 at iter : 236884
+ row_lenght > 20 at iter : 236885
+ row_lenght > 20 at iter : 236888
+ row_lenght > 20 at iter : 236889
+ row_lenght > 20 at iter : 236892
+ row_lenght > 20 at iter : 236893
+ row_lenght > 20 at iter : 236894
+ row_lenght > 20 at iter : 236899
+ row_lenght > 20 at iter : 236900
+ row_lenght > 20 at iter : 236901
+ row_lenght > 20 at iter : 236903
+ row_lenght > 20 at iter : 236905
+ row_lenght > 20 at iter : 236907
+ row_lenght > 20 at iter : 236909
+ row_lenght > 20 at iter : 236933
+ row_lenght > 20 at iter : 237343
+ row_lenght > 20 at iter : 237359
+ row_lenght > 20 at iter : 237410
+ row_lenght > 20 at iter : 237526
+ row_lenght > 20 at iter : 237553
+ row_lenght > 20 at iter : 237580
+ row_lenght > 20 at iter : 237591
+ row_lenght > 20 at iter : 237820
+ row_lenght > 20 at iter : 237849
+ row_lenght > 20 at iter : 238052
+ row_lenght > 20 at iter : 238069
+ row_lenght > 20 at iter : 238116
+ row_lenght > 20 at iter : 238227
+ row_lenght > 20 at iter : 238247
+ row_lenght > 20 at iter : 238332
+ row_lenght > 20 at iter : 239260
+ row_lenght > 20 at iter : 245873
+ row_lenght > 20 at iter : 248483
+ row_lenght > 20 at iter : 252836
+ row_lenght > 20 at iter : 252890
+ row_lenght > 20 at iter : 253027
+ row_lenght > 20 at iter : 254336
+ row_lenght > 20 at iter : 259200
+ row_lenght > 20 at iter : 272466
+ row_lenght > 20 at iter : 272467
+ row_lenght > 20 at iter : 272468
+ row_lenght > 20 at iter : 272615
+ row_lenght > 20 at iter : 273166
+ row_lenght > 20 at iter : 273401
+ row_lenght > 20 at iter : 273410
+ row_lenght > 20 at iter : 273445
+ row_lenght > 20 at iter : 273472
+ row_lenght > 20 at iter : 273537
+ row_lenght > 20 at iter : 273550
+ row_lenght > 20 at iter : 273563
+ row_lenght > 20 at iter : 273572
+ row_lenght > 20 at iter : 273575
+ row_lenght > 20 at iter : 273593
+ row_lenght > 20 at iter : 273600
+ row_lenght > 20 at iter : 273603
+ row_lenght > 20 at iter : 273613
+ row_lenght > 20 at iter : 273614
+ row_lenght > 20 at iter : 273618
+ row_lenght > 20 at iter : 273625
+ row_lenght > 20 at iter : 273628
+ row_lenght > 20 at iter : 273632
+ row_lenght > 20 at iter : 273634
+ row_lenght > 20 at iter : 273650
+ row_lenght > 20 at iter : 273656
+ row_lenght > 20 at iter : 273659
+ row_lenght > 20 at iter : 273661
+ row_lenght > 20 at iter : 273668
+ row_lenght > 20 at iter : 273686
+ row_lenght > 20 at iter : 273690
+ row_lenght > 20 at iter : 273693
+ row_lenght > 20 at iter : 273702
+ row_lenght > 20 at iter : 273719
+ row_lenght > 20 at iter : 273722
+ row_lenght > 20 at iter : 273757
+ row_lenght > 20 at iter : 273760
+ row_lenght > 20 at iter : 273768
+ row_lenght > 20 at iter : 273770
+ row_lenght > 20 at iter : 273794
+ row_lenght > 20 at iter : 273796
+ row_lenght > 20 at iter : 273798
+ row_lenght > 20 at iter : 273803
+ row_lenght > 20 at iter : 273804
+ row_lenght > 20 at iter : 273807
+ row_lenght > 20 at iter : 273810
+ row_lenght > 20 at iter : 273811
+ row_lenght > 20 at iter : 273819
+ row_lenght > 20 at iter : 273821
+ row_lenght > 20 at iter : 273826
+ row_lenght > 20 at iter : 273856
+ row_lenght > 20 at iter : 273860
+ row_lenght > 20 at iter : 273863
+ row_lenght > 20 at iter : 273866
+ row_lenght > 20 at iter : 273869
+ row_lenght > 20 at iter : 273878
+ row_lenght > 20 at iter : 273879
+ row_lenght > 20 at iter : 273882
+ row_lenght > 20 at iter : 273886
+ row_lenght > 20 at iter : 273897
+ row_lenght > 20 at iter : 273900
+ row_lenght > 20 at iter : 273902
+ row_lenght > 20 at iter : 273917
+ row_lenght > 20 at iter : 273920
+ row_lenght > 20 at iter : 273921
+ row_lenght > 20 at iter : 273922
+ row_lenght > 20 at iter : 273924
+ row_lenght > 20 at iter : 273926
+ row_lenght > 20 at iter : 273927
+ row_lenght > 20 at iter : 273932
+ row_lenght > 20 at iter : 273933
+ row_lenght > 20 at iter : 273943
+ row_lenght > 20 at iter : 273945
+ row_lenght > 20 at iter : 273952
+ row_lenght > 20 at iter : 273958
+ row_lenght > 20 at iter : 273960
+ row_lenght > 20 at iter : 273965
+ row_lenght > 20 at iter : 273966
+ row_lenght > 20 at iter : 273973
+ row_lenght > 20 at iter : 273974
+ row_lenght > 20 at iter : 273976
+ row_lenght > 20 at iter : 273977
+ row_lenght > 20 at iter : 273983
+ row_lenght > 20 at iter : 273995
+ row_lenght > 20 at iter : 273996
+ row_lenght > 20 at iter : 274008
+ row_lenght > 20 at iter : 274010
+ row_lenght > 20 at iter : 274014
+ row_lenght > 20 at iter : 274017
+ row_lenght > 20 at iter : 274020
+ row_lenght > 20 at iter : 274027
+ row_lenght > 20 at iter : 274059
+ row_lenght > 20 at iter : 274062
+ row_lenght > 20 at iter : 274068
+ row_lenght > 20 at iter : 274070
+ row_lenght > 20 at iter : 274075
+ row_lenght > 20 at iter : 274089
+ row_lenght > 20 at iter : 274117
+ row_lenght > 20 at iter : 274167
+ row_lenght > 20 at iter : 274168
+ row_lenght > 20 at iter : 274178
+ row_lenght > 20 at iter : 274183
+ row_lenght > 20 at iter : 274186
+ row_lenght > 20 at iter : 274207
+ row_lenght > 20 at iter : 274235
+ row_lenght > 20 at iter : 274242
+ row_lenght > 20 at iter : 274254
+ row_lenght > 20 at iter : 274267
+ row_lenght > 20 at iter : 274268
+ row_lenght > 20 at iter : 274281
+ row_lenght > 20 at iter : 274284
+ row_lenght > 20 at iter : 274287
+ row_lenght > 20 at iter : 274288
+ row_lenght > 20 at iter : 274294
+ row_lenght > 20 at iter : 274305
+ row_lenght > 20 at iter : 274318
+ row_lenght > 20 at iter : 274320
+ row_lenght > 20 at iter : 274331
+ row_lenght > 20 at iter : 274339
+ row_lenght > 20 at iter : 274341
+ row_lenght > 20 at iter : 274355
+ row_lenght > 20 at iter : 274384
+ row_lenght > 20 at iter : 274393
+ row_lenght > 20 at iter : 274396
+ row_lenght > 20 at iter : 274399
+ row_lenght > 20 at iter : 274401
+ row_lenght > 20 at iter : 274402
+ row_lenght > 20 at iter : 274406
+ row_lenght > 20 at iter : 274413
+ row_lenght > 20 at iter : 274430
+ row_lenght > 20 at iter : 274438
+ row_lenght > 20 at iter : 274448
+ row_lenght > 20 at iter : 274456
+ row_lenght > 20 at iter : 274457
+ row_lenght > 20 at iter : 274477
+ row_lenght > 20 at iter : 274480
+ row_lenght > 20 at iter : 274484
+ row_lenght > 20 at iter : 274485
+ row_lenght > 20 at iter : 274494
+ row_lenght > 20 at iter : 274512
+ row_lenght > 20 at iter : 274517
+ row_lenght > 20 at iter : 274521
+ row_lenght > 20 at iter : 274522
+ row_lenght > 20 at iter : 274533
+ row_lenght > 20 at iter : 274539
+ row_lenght > 20 at iter : 274541
+ row_lenght > 20 at iter : 274546
+ row_lenght > 20 at iter : 274554
+ row_lenght > 20 at iter : 274556
+ row_lenght > 20 at iter : 274562
+ row_lenght > 20 at iter : 274571
+ row_lenght > 20 at iter : 274573
+ row_lenght > 20 at iter : 274579
+ row_lenght > 20 at iter : 274580
+ row_lenght > 20 at iter : 274593
+ row_lenght > 20 at iter : 274594
+ row_lenght > 20 at iter : 274603
+ row_lenght > 20 at iter : 274604
+ row_lenght > 20 at iter : 274626
+ row_lenght > 20 at iter : 274633
+ row_lenght > 20 at iter : 274650
+ row_lenght > 20 at iter : 274652
+ row_lenght > 20 at iter : 274661
+ row_lenght > 20 at iter : 274663
+ row_lenght > 20 at iter : 274693
+ row_lenght > 20 at iter : 274697
+ row_lenght > 20 at iter : 274701
+ row_lenght > 20 at iter : 274702
+ row_lenght > 20 at iter : 274704
+ row_lenght > 20 at iter : 274711
+ row_lenght > 20 at iter : 274723
+ row_lenght > 20 at iter : 274727
+ row_lenght > 20 at iter : 274734
+ row_lenght > 20 at iter : 274739
+ row_lenght > 20 at iter : 274740
+ row_lenght > 20 at iter : 274741
+ row_lenght > 20 at iter : 274745
+ row_lenght > 20 at iter : 274747
+ row_lenght > 20 at iter : 274754
+ row_lenght > 20 at iter : 274755
+ row_lenght > 20 at iter : 274763
+ row_lenght > 20 at iter : 274764
+ row_lenght > 20 at iter : 274766
+ row_lenght > 20 at iter : 274769
+ row_lenght > 20 at iter : 274771
+ row_lenght > 20 at iter : 274772
+ row_lenght > 20 at iter : 274773
+ row_lenght > 20 at iter : 274774
+ row_lenght > 20 at iter : 274783
+ row_lenght > 20 at iter : 274798
+ row_lenght > 20 at iter : 274799
+ row_lenght > 20 at iter : 274805
+ row_lenght > 20 at iter : 274808
+ row_lenght > 20 at iter : 274819
+ row_lenght > 20 at iter : 274820
+ row_lenght > 20 at iter : 274823
+ row_lenght > 20 at iter : 274837
+ row_lenght > 20 at iter : 274839
+ row_lenght > 20 at iter : 274845
+ row_lenght > 20 at iter : 274846
+ row_lenght > 20 at iter : 274848
+ row_lenght > 20 at iter : 274856
+ row_lenght > 20 at iter : 274859
+ row_lenght > 20 at iter : 274865
+ row_lenght > 20 at iter : 274867
+ row_lenght > 20 at iter : 274870
+ row_lenght > 20 at iter : 274871
+ row_lenght > 20 at iter : 274876
+ row_lenght > 20 at iter : 274884
+ row_lenght > 20 at iter : 274889
+ row_lenght > 20 at iter : 274899
+ row_lenght > 20 at iter : 274901
+ row_lenght > 20 at iter : 274927
+ row_lenght > 20 at iter : 274944
+ row_lenght > 20 at iter : 274946
+ row_lenght > 20 at iter : 274948
+ row_lenght > 20 at iter : 274952
+ row_lenght > 20 at iter : 274966
+ row_lenght > 20 at iter : 274970
+ row_lenght > 20 at iter : 274975
+ row_lenght > 20 at iter : 274976
+ row_lenght > 20 at iter : 274982
+ row_lenght > 20 at iter : 274983
+ row_lenght > 20 at iter : 274985
+ row_lenght > 20 at iter : 274988
+ row_lenght > 20 at iter : 274990
+ row_lenght > 20 at iter : 275004
+ row_lenght > 20 at iter : 275019
+ row_lenght > 20 at iter : 275032
+ row_lenght > 20 at iter : 275044
+ row_lenght > 20 at iter : 275051
+ row_lenght > 20 at iter : 275055
+ row_lenght > 20 at iter : 275066
+ row_lenght > 20 at iter : 275073
+ row_lenght > 20 at iter : 275086
+ row_lenght > 20 at iter : 275087
+ row_lenght > 20 at iter : 275088
+ row_lenght > 20 at iter : 275100
+ row_lenght > 20 at iter : 275103
+ row_lenght > 20 at iter : 275106
+ row_lenght > 20 at iter : 275111
+ row_lenght > 20 at iter : 275115
+ row_lenght > 20 at iter : 275131
+ row_lenght > 20 at iter : 275132
+ row_lenght > 20 at iter : 275141
+ row_lenght > 20 at iter : 275149
+ row_lenght > 20 at iter : 275150
+ row_lenght > 20 at iter : 275151
+ row_lenght > 20 at iter : 275158
+ row_lenght > 20 at iter : 275163
+ row_lenght > 20 at iter : 275166
+ row_lenght > 20 at iter : 275171
+ row_lenght > 20 at iter : 275173
+ row_lenght > 20 at iter : 275175
+ row_lenght > 20 at iter : 275180
+ row_lenght > 20 at iter : 275186
+ row_lenght > 20 at iter : 275187
+ row_lenght > 20 at iter : 275208
+ row_lenght > 20 at iter : 275209
+ row_lenght > 20 at iter : 275231
+ row_lenght > 20 at iter : 275232
+ row_lenght > 20 at iter : 275235
+ row_lenght > 20 at iter : 275240
+ row_lenght > 20 at iter : 275243
+ row_lenght > 20 at iter : 275250
+ row_lenght > 20 at iter : 275252
+ row_lenght > 20 at iter : 275257
+ row_lenght > 20 at iter : 275263
+ row_lenght > 20 at iter : 275264
+ row_lenght > 20 at iter : 275272
+ row_lenght > 20 at iter : 275273
+ row_lenght > 20 at iter : 275276
+ row_lenght > 20 at iter : 275286
+ row_lenght > 20 at iter : 275304
+ row_lenght > 20 at iter : 275309
+ row_lenght > 20 at iter : 275332
+ row_lenght > 20 at iter : 275347
+ row_lenght > 20 at iter : 275354
+ row_lenght > 20 at iter : 275370
+ row_lenght > 20 at iter : 275377
+ row_lenght > 20 at iter : 275380
+ row_lenght > 20 at iter : 275383
+ row_lenght > 20 at iter : 275384
+ row_lenght > 20 at iter : 275390
+ row_lenght > 20 at iter : 275402
+ row_lenght > 20 at iter : 275411
+ row_lenght > 20 at iter : 275414
+ row_lenght > 20 at iter : 275435
+ row_lenght > 20 at iter : 275444
+ row_lenght > 20 at iter : 275447
+ row_lenght > 20 at iter : 275476
+ row_lenght > 20 at iter : 275492
+ row_lenght > 20 at iter : 275526
+ row_lenght > 20 at iter : 275528
+ row_lenght > 20 at iter : 275532
+ row_lenght > 20 at iter : 275538
+ row_lenght > 20 at iter : 275544
+ row_lenght > 20 at iter : 275565
+ row_lenght > 20 at iter : 275569
+ row_lenght > 20 at iter : 275604
+ row_lenght > 20 at iter : 275611
+ row_lenght > 20 at iter : 275638
+ row_lenght > 20 at iter : 275642
+ row_lenght > 20 at iter : 275665
+ row_lenght > 20 at iter : 275871
+ row_lenght > 20 at iter : 275874
+ row_lenght > 20 at iter : 275876
+ row_lenght > 20 at iter : 299976
+ row_lenght > 20 at iter : 300166
+ row_lenght > 20 at iter : 303467
+ row_lenght > 20 at iter : 388920
+ row_lenght > 20 at iter : 396272
+ row_lenght > 20 at iter : 396288
+ row_lenght > 20 at iter : 396290
+ row_lenght > 20 at iter : 396292
+ row_lenght > 20 at iter : 396295
+ row_lenght > 20 at iter : 396319
+ row_lenght > 20 at iter : 396375
+ row_lenght > 20 at iter : 396487
+ row_lenght > 20 at iter : 396538
+ row_lenght > 20 at iter : 396578
+ row_lenght > 20 at iter : 396604
+ row_lenght > 20 at iter : 396674
+ row_lenght > 20 at iter : 396692
+ row_lenght > 20 at iter : 396697
+ row_lenght > 20 at iter : 396714
+ row_lenght > 20 at iter : 396805
+ row_lenght > 20 at iter : 396831
+ row_lenght > 20 at iter : 396861
+ row_lenght > 20 at iter : 396883
+ row_lenght > 20 at iter : 404525
+ row_lenght > 20 at iter : 406396
+ row_lenght > 20 at iter : 452659
+ row_lenght > 20 at iter : 452750
+ row_lenght > 20 at iter : 454260
+ row_lenght > 20 at iter : 454261
+ row_lenght > 20 at iter : 454262
+ row_lenght > 20 at iter : 454265
+ row_lenght > 20 at iter : 454271
+ row_lenght > 20 at iter : 454459
+ row_lenght > 20 at iter : 454464
+ row_lenght > 20 at iter : 454737
+ row_lenght > 20 at iter : 454739
+ row_lenght > 20 at iter : 454744
+ row_lenght > 20 at iter : 454748
+ row_lenght > 20 at iter : 454801
+ row_lenght > 20 at iter : 474430
+ row_lenght > 20 at iter : 484030
+ row_lenght > 20 at iter : 490828
+ row_lenght > 20 at iter : 490980
+ row_lenght > 20 at iter : 490988
+ row_lenght > 20 at iter : 491055
+ row_lenght > 20 at iter : 491173
+ row_lenght > 20 at iter : 491208
+ row_lenght > 20 at iter : 491241
+ row_lenght > 20 at iter : 491424
+ row_lenght > 20 at iter : 491694
+ row_lenght > 20 at iter : 491770
+ row_lenght > 20 at iter : 491975
+ row_lenght > 20 at iter : 492032
+ row_lenght > 20 at iter : 492166
+ row_lenght > 20 at iter : 492189
+ row_lenght > 20 at iter : 492371
+ row_lenght > 20 at iter : 492544
+ row_lenght > 20 at iter : 492556
+ row_lenght > 20 at iter : 492783
+ row_lenght > 20 at iter : 492792
+ row_lenght > 20 at iter : 492799
+ row_lenght > 20 at iter : 492840
+ row_lenght > 20 at iter : 493110
+ row_lenght > 20 at iter : 493143
+ row_lenght > 20 at iter : 493247
+ row_lenght > 20 at iter : 493452
+ row_lenght > 20 at iter : 493603
+ row_lenght > 20 at iter : 493753
+ row_lenght > 20 at iter : 493883
+ row_lenght > 20 at iter : 493912
+ row_lenght > 20 at iter : 493960
+ row_lenght > 20 at iter : 494152
+ row_lenght > 20 at iter : 494209
+ row_lenght > 20 at iter : 494216
+ row_lenght > 20 at iter : 494638
+ row_lenght > 20 at iter : 494756
+ row_lenght > 20 at iter : 494867
+ row_lenght > 20 at iter : 495174
+ row_lenght > 20 at iter : 495362
+ row_lenght > 20 at iter : 495531
+ row_lenght > 20 at iter : 495789
+ row_lenght > 20 at iter : 495848
+ row_lenght > 20 at iter : 496024
+ row_lenght > 20 at iter : 496077
+ row_lenght > 20 at iter : 496178
+ row_lenght > 20 at iter : 496224
+ row_lenght > 20 at iter : 496311
+ row_lenght > 20 at iter : 496475
+ row_lenght > 20 at iter : 496568
+ row_lenght > 20 at iter : 496603
+ row_lenght > 20 at iter : 496646
+ row_lenght > 20 at iter : 496668
+ row_lenght > 20 at iter : 496721
+ row_lenght > 20 at iter : 496762
+ row_lenght > 20 at iter : 496805
+ row_lenght > 20 at iter : 496854
+ row_lenght > 20 at iter : 496985
+ row_lenght > 20 at iter : 497445
+ row_lenght > 20 at iter : 497631
+ row_lenght > 20 at iter : 497804
+ row_lenght > 20 at iter : 497966
+ row_lenght > 20 at iter : 498186
+ row_lenght > 20 at iter : 498227
+ row_lenght > 20 at iter : 498231
+ row_lenght > 20 at iter : 498293
+ row_lenght > 20 at iter : 498381
+ row_lenght > 20 at iter : 498459
+ row_lenght > 20 at iter : 498542
+ row_lenght > 20 at iter : 498561
+ row_lenght > 20 at iter : 498784
+ row_lenght > 20 at iter : 499077
+ row_lenght > 20 at iter : 499104
+ row_lenght > 20 at iter : 499355
+ row_lenght > 20 at iter : 499452
+ row_lenght > 20 at iter : 499498
+ row_lenght > 20 at iter : 499671
+ row_lenght > 20 at iter : 499728
+ row_lenght > 20 at iter : 500002
+ row_lenght > 20 at iter : 500023
+ row_lenght > 20 at iter : 500089
+ row_lenght > 20 at iter : 500243
+ row_lenght > 20 at iter : 500540
+ row_lenght > 20 at iter : 500593
+ row_lenght > 20 at iter : 500685
+ row_lenght > 20 at iter : 500763
+ row_lenght > 20 at iter : 501178
+ row_lenght > 20 at iter : 501521
+ row_lenght > 20 at iter : 501619
+ row_lenght > 20 at iter : 501743
+ row_lenght > 20 at iter : 502919
+ row_lenght > 20 at iter : 502968
+ row_lenght > 20 at iter : 506801
+ row_lenght > 20 at iter : 506902
+ row_lenght > 20 at iter : 513229
+ row_lenght > 20 at iter : 531273
+ row_lenght > 20 at iter : 539030
+ row_lenght > 20 at iter : 544152
+ row_lenght > 20 at iter : 551613
+ row_lenght > 20 at iter : 551683
+ row_lenght > 20 at iter : 552001
+ row_lenght > 20 at iter : 552075
+ row_lenght > 20 at iter : 552491
+ row_lenght > 20 at iter : 552541
+ row_lenght > 20 at iter : 552554
+ row_lenght > 20 at iter : 558341
+ row_lenght > 20 at iter : 561865
+ row_lenght > 20 at iter : 562733
+ row_lenght > 20 at iter : 563539
+ row_lenght > 20 at iter : 563661
+ row_lenght > 20 at iter : 563763
+ row_lenght > 20 at iter : 563811
+ row_lenght > 20 at iter : 563858
+ row_lenght > 20 at iter : 563869
+ row_lenght > 20 at iter : 563891
+ row_lenght > 20 at iter : 563928
+ row_lenght > 20 at iter : 563964
+ row_lenght > 20 at iter : 563973
+ row_lenght > 20 at iter : 564097
+ row_lenght > 20 at iter : 564208
+ row_lenght > 20 at iter : 564950
+ row_lenght > 20 at iter : 564953
+ row_lenght > 20 at iter : 564971
+ row_lenght > 20 at iter : 566364
+ row_lenght > 20 at iter : 566465
+ row_lenght > 20 at iter : 567705
+ row_lenght > 20 at iter : 570469
+ row_lenght > 20 at iter : 573536
+ row_lenght > 20 at iter : 574167
+ row_lenght > 20 at iter : 574235
+ row_lenght > 20 at iter : 574252
+ row_lenght > 20 at iter : 574263
+ row_lenght > 20 at iter : 574277
+ row_lenght > 20 at iter : 574288
+ row_lenght > 20 at iter : 574310
+ row_lenght > 20 at iter : 574362
+ row_lenght > 20 at iter : 574380
+ row_lenght > 20 at iter : 574426
+ row_lenght > 20 at iter : 574510
+ row_lenght > 20 at iter : 574518
+ row_lenght > 20 at iter : 574544
+ row_lenght > 20 at iter : 574552
+ row_lenght > 20 at iter : 574570
+ row_lenght > 20 at iter : 574575
+ row_lenght > 20 at iter : 574597
+ row_lenght > 20 at iter : 574603
+ row_lenght > 20 at iter : 574615
+ row_lenght > 20 at iter : 574623
+ row_lenght > 20 at iter : 574626
+ row_lenght > 20 at iter : 575835
+ row_lenght > 20 at iter : 576929
+ row_lenght > 20 at iter : 578534
+ row_lenght > 20 at iter : 578566
+ row_lenght > 20 at iter : 578803
+ row_lenght > 20 at iter : 578819
+ row_lenght > 20 at iter : 580962
+ row_lenght > 20 at iter : 582233
+ row_lenght > 20 at iter : 582239
+ row_lenght > 20 at iter : 582304
+ row_lenght > 20 at iter : 582419
+ row_lenght > 20 at iter : 582440
+ row_lenght > 20 at iter : 582449
+ row_lenght > 20 at iter : 582493
+ row_lenght > 20 at iter : 582529
+ row_lenght > 20 at iter : 582792
+ row_lenght > 20 at iter : 630763
+ row_lenght > 20 at iter : 630919
+ row_lenght > 20 at iter : 632833
+ row_lenght > 20 at iter : 648400
+ row_lenght > 20 at iter : 655486
+ row_lenght > 20 at iter : 656706
+ row_lenght > 20 at iter : 677050
+ row_lenght > 20 at iter : 696859
+ row_lenght > 20 at iter : 714487
+ row_lenght > 20 at iter : 736730
+ row_lenght > 20 at iter : 737301
+ row_lenght > 20 at iter : 737330
+ row_lenght > 20 at iter : 740293
+ row_lenght > 20 at iter : 745403
+ row_lenght > 20 at iter : 797578
+ row_lenght > 20 at iter : 807032
+ row_lenght > 20 at iter : 825629
+ row_lenght > 20 at iter : 868515
+ row_lenght > 20 at iter : 959385
+ row_lenght > 20 at iter : 971774
+ row_lenght > 20 at iter : 972291
+ row_lenght > 20 at iter : 976682
+ row_lenght > 20 at iter : 976685
+ row_lenght > 20 at iter : 1004422
+ row_lenght > 20 at iter : 1018781
+ row_lenght > 20 at iter : 1050229
+ row_lenght > 20 at iter : 1072874
+ row_lenght > 20 at iter : 1072915
+ row_lenght > 20 at iter : 1072916
+ row_lenght > 20 at iter : 1072919
+ row_lenght > 20 at iter : 1072921
+ row_lenght > 20 at iter : 1072931
+ row_lenght > 20 at iter : 1072935
+ row_lenght > 20 at iter : 1072957
+ row_lenght > 20 at iter : 1072973
+ row_lenght > 20 at iter : 1072978
+ row_lenght > 20 at iter : 1072982
+ row_lenght > 20 at iter : 1072985
+ row_lenght > 20 at iter : 1072994
+ row_lenght > 20 at iter : 1072995
+ row_lenght > 20 at iter : 1073004
+ row_lenght > 20 at iter : 1073179
+ row_lenght > 20 at iter : 1073196
+ row_lenght > 20 at iter : 1073207
+ row_lenght > 20 at iter : 1073216
+ row_lenght > 20 at iter : 1073340
+ row_lenght > 20 at iter : 1073591
+ row_lenght > 20 at iter : 1073704
+ row_lenght > 20 at iter : 1073718
+ row_lenght > 20 at iter : 1073719
+ row_lenght > 20 at iter : 1075079
+ row_lenght > 20 at iter : 1097155
+ row_lenght > 20 at iter : 1097166
+ row_lenght > 20 at iter : 1097169
+ row_lenght > 20 at iter : 1097170
+ row_lenght > 20 at iter : 1097174
+ row_lenght > 20 at iter : 1097176
+ row_lenght > 20 at iter : 1097192
+ row_lenght > 20 at iter : 1097212
+ row_lenght > 20 at iter : 1097219
+ row_lenght > 20 at iter : 1097245
+ row_lenght > 20 at iter : 1097247
+ row_lenght > 20 at iter : 1097385
+ row_lenght > 20 at iter : 1097463
+ row_lenght > 20 at iter : 1097915
+ row_lenght > 20 at iter : 1098670
+ row_lenght > 20 at iter : 1098698
+ row_lenght > 20 at iter : 1099724
+ row_lenght > 20 at iter : 1100825
+ row_lenght > 20 at iter : 1100835
+ row_lenght > 20 at iter : 1100843
+ row_lenght > 20 at iter : 1100848
+ row_lenght > 20 at iter : 1100884
+ row_lenght > 20 at iter : 1100893
+ row_lenght > 20 at iter : 1100925
+ row_lenght > 20 at iter : 1100929
+ row_lenght > 20 at iter : 1100939
+ row_lenght > 20 at iter : 1100941
+ row_lenght > 20 at iter : 1100947
+ row_lenght > 20 at iter : 1100953
+ row_lenght > 20 at iter : 1100956
+ row_lenght > 20 at iter : 1100963
+ row_lenght > 20 at iter : 1100965
+ row_lenght > 20 at iter : 1100973
+ row_lenght > 20 at iter : 1100984
+ row_lenght > 20 at iter : 1101010
+ row_lenght > 20 at iter : 1101017
+ row_lenght > 20 at iter : 1101030
+ row_lenght > 20 at iter : 1101036
+ row_lenght > 20 at iter : 1101037
+ row_lenght > 20 at iter : 1101085
+ row_lenght > 20 at iter : 1101131
+ row_lenght > 20 at iter : 1101157
+ row_lenght > 20 at iter : 1101174
+ row_lenght > 20 at iter : 1101178
+ row_lenght > 20 at iter : 1101210
+ row_lenght > 20 at iter : 1101218
+ row_lenght > 20 at iter : 1101235
+ row_lenght > 20 at iter : 1101306
+ row_lenght > 20 at iter : 1101345
+ row_lenght > 20 at iter : 1101347
+ row_lenght > 20 at iter : 1101348
+ row_lenght > 20 at iter : 1101352
+ row_lenght > 20 at iter : 1101375
+ row_lenght > 20 at iter : 1101379
+ row_lenght > 20 at iter : 1101388
+ row_lenght > 20 at iter : 1101389
+ row_lenght > 20 at iter : 1101399
+ row_lenght > 20 at iter : 1101407
+ row_lenght > 20 at iter : 1101409
+ row_lenght > 20 at iter : 1101416
+ row_lenght > 20 at iter : 1101447
+ row_lenght > 20 at iter : 1101511
+ row_lenght > 20 at iter : 1101514
+ row_lenght > 20 at iter : 1101530
+ row_lenght > 20 at iter : 1101549
+ row_lenght > 20 at iter : 1101638
+ row_lenght > 20 at iter : 1101674
+ row_lenght > 20 at iter : 1101707
+ row_lenght > 20 at iter : 1101753
+ row_lenght > 20 at iter : 1101785
+ row_lenght > 20 at iter : 1101834
+ row_lenght > 20 at iter : 1102043
+ row_lenght > 20 at iter : 1102070
+ row_lenght > 20 at iter : 1102149
+ row_lenght > 20 at iter : 1102793
+ row_lenght > 20 at iter : 1102903
+ row_lenght > 20 at iter : 1102944
+ row_lenght > 20 at iter : 1102953
+ row_lenght > 20 at iter : 1102973
+ row_lenght > 20 at iter : 1103008
+ row_lenght > 20 at iter : 1103017
+ row_lenght > 20 at iter : 1103038
+ row_lenght > 20 at iter : 1103047
+ row_lenght > 20 at iter : 1103091
+ row_lenght > 20 at iter : 1103092
+ row_lenght > 20 at iter : 1103093
+ row_lenght > 20 at iter : 1103145
+ row_lenght > 20 at iter : 1103167
+ row_lenght > 20 at iter : 1103216
+ row_lenght > 20 at iter : 1103218
+ row_lenght > 20 at iter : 1103259
+ row_lenght > 20 at iter : 1103271
+ row_lenght > 20 at iter : 1103289
+ row_lenght > 20 at iter : 1103290
+ row_lenght > 20 at iter : 1104146
+ row_lenght > 20 at iter : 1104450
+ row_lenght > 20 at iter : 1104472
+ row_lenght > 20 at iter : 1104811
+ row_lenght > 20 at iter : 1104966
+ row_lenght > 20 at iter : 1104989
+ row_lenght > 20 at iter : 1105789
+ row_lenght > 20 at iter : 1105843
+ row_lenght > 20 at iter : 1106215
+ row_lenght > 20 at iter : 1106226
+ row_lenght > 20 at iter : 1107092
+ row_lenght > 20 at iter : 1107333
+ row_lenght > 20 at iter : 1121181
+ row_lenght > 20 at iter : 1121182
+ row_lenght > 20 at iter : 1121187
+ row_lenght > 20 at iter : 1121215
+ row_lenght > 20 at iter : 1121219
+ row_lenght > 20 at iter : 1121221
+ row_lenght > 20 at iter : 1121222
+ row_lenght > 20 at iter : 1121225
+ row_lenght > 20 at iter : 1121230
+ row_lenght > 20 at iter : 1121237
+ row_lenght > 20 at iter : 1121249
+ row_lenght > 20 at iter : 1121283
+ row_lenght > 20 at iter : 1121297
+ row_lenght > 20 at iter : 1121332
+ row_lenght > 20 at iter : 1121485
+ row_lenght > 20 at iter : 1121490
+ row_lenght > 20 at iter : 1121511
+ row_lenght > 20 at iter : 1121518
+ row_lenght > 20 at iter : 1121534
+ row_lenght > 20 at iter : 1121565
+ row_lenght > 20 at iter : 1122185
+ row_lenght > 20 at iter : 1122227
+ row_lenght > 20 at iter : 1128301
+ row_lenght > 20 at iter : 1141768
+ row_lenght > 20 at iter : 1141774
+ row_lenght > 20 at iter : 1158753
+ row_lenght > 20 at iter : 1158799
+ row_lenght > 20 at iter : 1160057
+ row_lenght > 20 at iter : 1160064
+ row_lenght > 20 at iter : 1160085
+ row_lenght > 20 at iter : 1160457
+ row_lenght > 20 at iter : 1160464
+ row_lenght > 20 at iter : 1160474
+ row_lenght > 20 at iter : 1160475
+ row_lenght > 20 at iter : 1160486
+ row_lenght > 20 at iter : 1160514
+ row_lenght > 20 at iter : 1161998
+ row_lenght > 20 at iter : 1162391
+ row_lenght > 20 at iter : 1162892
+ row_lenght > 20 at iter : 1163681
+ row_lenght > 20 at iter : 1164310
+ row_lenght > 20 at iter : 1164434
+ row_lenght > 20 at iter : 1164438
+ row_lenght > 20 at iter : 1164439
+ row_lenght > 20 at iter : 1169973
+ row_lenght > 20 at iter : 1169977
+ row_lenght > 20 at iter : 1169985
+ row_lenght > 20 at iter : 1170063
+ row_lenght > 20 at iter : 1170066
+ row_lenght > 20 at iter : 1170069
+ row_lenght > 20 at iter : 1170128
+ row_lenght > 20 at iter : 1170276
+ row_lenght > 20 at iter : 1171110
+ row_lenght > 20 at iter : 1171508
+ row_lenght > 20 at iter : 1171520
+ row_lenght > 20 at iter : 1171524
+ row_lenght > 20 at iter : 1171533
+ row_lenght > 20 at iter : 1171535
+ row_lenght > 20 at iter : 1171537
+ row_lenght > 20 at iter : 1171538
+ row_lenght > 20 at iter : 1171549
+ row_lenght > 20 at iter : 1171571
+ row_lenght > 20 at iter : 1171579
+ row_lenght > 20 at iter : 1171603
+ row_lenght > 20 at iter : 1171611
+ row_lenght > 20 at iter : 1171618
+ row_lenght > 20 at iter : 1171670
+ row_lenght > 20 at iter : 1171682
+ row_lenght > 20 at iter : 1172035
+ row_lenght > 20 at iter : 1172068
+ row_lenght > 20 at iter : 1172099
+ row_lenght > 20 at iter : 1174706
+ row_lenght > 20 at iter : 1174712
+ row_lenght > 20 at iter : 1174713
+ row_lenght > 20 at iter : 1174729
+ row_lenght > 20 at iter : 1174737
+ row_lenght > 20 at iter : 1176180
+ row_lenght > 20 at iter : 1176195
+ row_lenght > 20 at iter : 1178116
+ row_lenght > 20 at iter : 1178117
+ row_lenght > 20 at iter : 1178119
+ row_lenght > 20 at iter : 1195976
+ row_lenght > 20 at iter : 1196042
+ row_lenght > 20 at iter : 1196052
+ row_lenght > 20 at iter : 1196065
+ row_lenght > 20 at iter : 1196113
+ row_lenght > 20 at iter : 1196178
+ row_lenght > 20 at iter : 1196225
+ row_lenght > 20 at iter : 1196274
+ row_lenght > 20 at iter : 1196293
+ row_lenght > 20 at iter : 1196321
+ row_lenght > 20 at iter : 1196325
+ row_lenght > 20 at iter : 1196343
+ row_lenght > 20 at iter : 1196393
+ row_lenght > 20 at iter : 1196466
+ row_lenght > 20 at iter : 1196732
+ row_lenght > 20 at iter : 1196787
+ row_lenght > 20 at iter : 1196874
+ row_lenght > 20 at iter : 1196926
+ row_lenght > 20 at iter : 1197335
+ row_lenght > 20 at iter : 1197587
+ row_lenght > 20 at iter : 1209552
+ row_lenght > 20 at iter : 1213081
+ row_lenght > 20 at iter : 1215472
+ row_lenght > 20 at iter : 1217297
+ row_lenght > 20 at iter : 1217418
+ row_lenght > 20 at iter : 1222352
+ row_lenght > 20 at iter : 1222397
+ row_lenght > 20 at iter : 1222400
+ row_lenght > 20 at iter : 1222561
+ row_lenght > 20 at iter : 1222562
+ row_lenght > 20 at iter : 1222607
+ row_lenght > 20 at iter : 1222679
+ row_lenght > 20 at iter : 1222742
+ row_lenght > 20 at iter : 1222792
+ row_lenght > 20 at iter : 1222797
+ row_lenght > 20 at iter : 1222825
+ row_lenght > 20 at iter : 1223117
+ row_lenght > 20 at iter : 1223279
+ row_lenght > 20 at iter : 1223283
+ row_lenght > 20 at iter : 1223970
+ row_lenght > 20 at iter : 1225000
+ row_lenght > 20 at iter : 1225535
+ row_lenght > 20 at iter : 1226534
+ row_lenght > 20 at iter : 1237029
+ row_lenght > 20 at iter : 1237099
+ row_lenght > 20 at iter : 1237125
+ row_lenght > 20 at iter : 1237144
+ row_lenght > 20 at iter : 1237145
+ row_lenght > 20 at iter : 1237196
+ row_lenght > 20 at iter : 1237201
+ row_lenght > 20 at iter : 1237206
+ row_lenght > 20 at iter : 1237238
+ row_lenght > 20 at iter : 1237256
+ row_lenght > 20 at iter : 1237276
+ row_lenght > 20 at iter : 1237291
+ row_lenght > 20 at iter : 1237309
+ row_lenght > 20 at iter : 1237317
+ row_lenght > 20 at iter : 1237331
+ row_lenght > 20 at iter : 1237335
+ row_lenght > 20 at iter : 1237344
+ row_lenght > 20 at iter : 1237348
+ row_lenght > 20 at iter : 1237350
+ row_lenght > 20 at iter : 1237353
+ row_lenght > 20 at iter : 1237368
+ row_lenght > 20 at iter : 1237385
+ row_lenght > 20 at iter : 1237387
+ row_lenght > 20 at iter : 1237451
+ row_lenght > 20 at iter : 1237455
+ row_lenght > 20 at iter : 1237496
+ row_lenght > 20 at iter : 1237511
+ row_lenght > 20 at iter : 1237520
+ row_lenght > 20 at iter : 1237551
+ row_lenght > 20 at iter : 1237676
+ row_lenght > 20 at iter : 1237746
+ row_lenght > 20 at iter : 1237750
+ row_lenght > 20 at iter : 1237759
+ row_lenght > 20 at iter : 1237770
+ row_lenght > 20 at iter : 1237870
+ row_lenght > 20 at iter : 1237884
+ row_lenght > 20 at iter : 1237928
+ row_lenght > 20 at iter : 1238031
+ row_lenght > 20 at iter : 1238104
+ row_lenght > 20 at iter : 1238219
+ row_lenght > 20 at iter : 1238225
+ row_lenght > 20 at iter : 1238251
+ row_lenght > 20 at iter : 1238377
+ row_lenght > 20 at iter : 1238417
+ row_lenght > 20 at iter : 1238481
+ row_lenght > 20 at iter : 1238542
+ row_lenght > 20 at iter : 1238549
+ row_lenght > 20 at iter : 1238552
+ row_lenght > 20 at iter : 1238618
+ row_lenght > 20 at iter : 1238662
+ row_lenght > 20 at iter : 1238753
+ row_lenght > 20 at iter : 1238970
+ row_lenght > 20 at iter : 1238996
+ row_lenght > 20 at iter : 1239288
+ row_lenght > 20 at iter : 1239367
+ row_lenght > 20 at iter : 1239373
+ row_lenght > 20 at iter : 1239901
+ row_lenght > 20 at iter : 1239964
+ row_lenght > 20 at iter : 1240316
+ row_lenght > 20 at iter : 1240368
+ row_lenght > 20 at iter : 1240410
+ row_lenght > 20 at iter : 1255331
+ row_lenght > 20 at iter : 1255433
+ row_lenght > 20 at iter : 1255437
+ row_lenght > 20 at iter : 1255483
+ row_lenght > 20 at iter : 1255564
+ row_lenght > 20 at iter : 1256248
+ row_lenght > 20 at iter : 1261583
+ row_lenght > 20 at iter : 1273152
+ row_lenght > 20 at iter : 1273748
+ row_lenght > 20 at iter : 1277876
+ row_lenght > 20 at iter : 1279900
+ row_lenght > 20 at iter : 1280982
+ row_lenght > 20 at iter : 1283450
+ row_lenght > 20 at iter : 1283456
+ row_lenght > 20 at iter : 1287125
+ row_lenght > 20 at iter : 1288324
+ row_lenght > 20 at iter : 1289383
+ row_lenght > 20 at iter : 1289595
+ row_lenght > 20 at iter : 1290377
+ row_lenght > 20 at iter : 1291188
+ row_lenght > 20 at iter : 1292122
+ row_lenght > 20 at iter : 1293170
+ row_lenght > 20 at iter : 1293201
+ row_lenght > 20 at iter : 1295346
+ row_lenght > 20 at iter : 1297556
+ row_lenght > 20 at iter : 1298206
+ row_lenght > 20 at iter : 1302974
+ row_lenght > 20 at iter : 1304399
+ row_lenght > 20 at iter : 1306021
+ row_lenght > 20 at iter : 1306022
+ row_lenght > 20 at iter : 1306023
+ row_lenght > 20 at iter : 1306025
+ row_lenght > 20 at iter : 1312630
+ row_lenght > 20 at iter : 1312691
+ row_lenght > 20 at iter : 1315691
+ row_lenght > 20 at iter : 1316927
+ row_lenght > 20 at iter : 1318808
+ row_lenght > 20 at iter : 1318809
+ row_lenght > 20 at iter : 1322692
+ row_lenght > 20 at iter : 1326031
+ row_lenght > 20 at iter : 1326316
+ row_lenght > 20 at iter : 1327603
+ row_lenght > 20 at iter : 1332920
+ row_lenght > 20 at iter : 1336892
+ row_lenght > 20 at iter : 1339137
+ row_lenght > 20 at iter : 1339166
+ row_lenght > 20 at iter : 1339181
+ row_lenght > 20 at iter : 1339250
+ row_lenght > 20 at iter : 1339264
+ row_lenght > 20 at iter : 1339292
+ row_lenght > 20 at iter : 1339302
+ row_lenght > 20 at iter : 1341106
+ row_lenght > 20 at iter : 1348825
+ row_lenght > 20 at iter : 1348835
+ row_lenght > 20 at iter : 1353829
+ row_lenght > 20 at iter : 1353888
+ row_lenght > 20 at iter : 1353893
+ row_lenght > 20 at iter : 1353935
+ row_lenght > 20 at iter : 1354011
+ row_lenght > 20 at iter : 1362075
+ row_lenght > 20 at iter : 1362084
+ row_lenght > 20 at iter : 1364006
+ row_lenght > 20 at iter : 1364254
+ row_lenght > 20 at iter : 1364831
+ row_lenght > 20 at iter : 1372321
+ row_lenght > 20 at iter : 1374809
+ row_lenght > 20 at iter : 1374843
+ row_lenght > 20 at iter : 1374862
+ row_lenght > 20 at iter : 1375025
+ row_lenght > 20 at iter : 1382739
+ row_lenght > 20 at iter : 1383402
+ row_lenght > 20 at iter : 1383694
+ row_lenght > 20 at iter : 1384441
+ row_lenght > 20 at iter : 1384445
+ row_lenght > 20 at iter : 1384478
+ row_lenght > 20 at iter : 1385554
+ row_lenght > 20 at iter : 1385578
+ row_lenght > 20 at iter : 1386075
+ row_lenght > 20 at iter : 1386135
+ row_lenght > 20 at iter : 1386152
+ row_lenght > 20 at iter : 1386178
+ row_lenght > 20 at iter : 1386279
+ row_lenght > 20 at iter : 1386363
+ row_lenght > 20 at iter : 1386391
+ row_lenght > 20 at iter : 1389852
+ row_lenght > 20 at iter : 1390132
+ row_lenght > 20 at iter : 1390455
+ row_lenght > 20 at iter : 1390727
+ row_lenght > 20 at iter : 1391921
+ row_lenght > 20 at iter : 1391941
+ row_lenght > 20 at iter : 1391950
+ row_lenght > 20 at iter : 1391994
+ row_lenght > 20 at iter : 1392000
+ row_lenght > 20 at iter : 1392051
+ row_lenght > 20 at iter : 1392258
+ row_lenght > 20 at iter : 1393610
+ row_lenght > 20 at iter : 1393805
+ row_lenght > 20 at iter : 1393974
+ row_lenght > 20 at iter : 1394043
+ row_lenght > 20 at iter : 1394215
+ row_lenght > 20 at iter : 1394305
+ row_lenght > 20 at iter : 1394970
+ row_lenght > 20 at iter : 1397384
+ row_lenght > 20 at iter : 1397422
+ row_lenght > 20 at iter : 1397426
+ row_lenght > 20 at iter : 1399075
+ row_lenght > 20 at iter : 1399273
+ row_lenght > 20 at iter : 1399313
+ row_lenght > 20 at iter : 1399585
+ row_lenght > 20 at iter : 1399778
+ row_lenght > 20 at iter : 1400186
+ row_lenght > 20 at iter : 1404691
+ row_lenght > 20 at iter : 1406510
+ row_lenght > 20 at iter : 1406560
+ row_lenght > 20 at iter : 1410719
+ row_lenght > 20 at iter : 1415737
+ row_lenght > 20 at iter : 1416740
+ row_lenght > 20 at iter : 1416860
+ row_lenght > 20 at iter : 1416880
+ row_lenght > 20 at iter : 1419607
+ row_lenght > 20 at iter : 1419629
+ row_lenght > 20 at iter : 1420114
+ row_lenght > 20 at iter : 1420677
+ row_lenght > 20 at iter : 1427863
+ row_lenght > 20 at iter : 1429956
+ row_lenght > 20 at iter : 1429958
+ row_lenght > 20 at iter : 1430144
+ row_lenght > 20 at iter : 1430197
+ row_lenght > 20 at iter : 1432812
+ row_lenght > 20 at iter : 1432869
+ row_lenght > 20 at iter : 1432947
+ row_lenght > 20 at iter : 1432950
+ row_lenght > 20 at iter : 1433282
+ row_lenght > 20 at iter : 1436421
+ row_lenght > 20 at iter : 1442027
+ row_lenght > 20 at iter : 1443188
+ row_lenght > 20 at iter : 1446376
+ row_lenght > 20 at iter : 1446467
+ row_lenght > 20 at iter : 1450242
+ row_lenght > 20 at iter : 1454919
+ row_lenght > 20 at iter : 1457455
+ row_lenght > 20 at iter : 1458931
+ row_lenght > 20 at iter : 1460062
+ row_lenght > 20 at iter : 1462872
+ row_lenght > 20 at iter : 1465188
+ row_lenght > 20 at iter : 1470687
+ row_lenght > 20 at iter : 1489068
+ row_lenght > 20 at iter : 1495543
+ row_lenght > 20 at iter : 1519631
+ row_lenght > 20 at iter : 1543546
+ row_lenght > 20 at iter : 1572306
+ row_lenght > 20 at iter : 1721023
+ row_lenght > 20 at iter : 1988212
+ row_lenght > 20 at iter : 665
+ row_lenght > 20 at iter : 963
+ row_lenght > 20 at iter : 2768
+ row_lenght > 20 at iter : 2987
+ row_lenght > 20 at iter : 8228
+ row_lenght > 20 at iter : 12701
+ row_lenght > 20 at iter : 18021
+ row_lenght > 20 at iter : 21175
+ row_lenght > 20 at iter : 23734
+ row_lenght > 20 at iter : 26262
+ row_lenght > 20 at iter : 26263
+ row_lenght > 20 at iter : 26679
+ row_lenght > 20 at iter : 35573
+ row_lenght > 20 at iter : 44596
+ row_lenght > 20 at iter : 52848
+ row_lenght > 20 at iter : 57330
+ row_lenght > 20 at iter : 64569
+ row_lenght > 20 at iter : 69639
+ row_lenght > 20 at iter : 69644
+ row_lenght > 20 at iter : 69812
+ row_lenght > 20 at iter : 70067
+ row_lenght > 20 at iter : 70330
+ row_lenght > 20 at iter : 70554
+ row_lenght > 20 at iter : 92482
+ row_lenght > 20 at iter : 92659
+ row_lenght > 20 at iter : 92799
+ row_lenght > 20 at iter : 110979
+ row_lenght > 20 at iter : 111961
+ row_lenght > 20 at iter : 120450
+ row_lenght > 20 at iter : 120723
+ row_lenght > 20 at iter : 121152
+ row_lenght > 20 at iter : 124452
+ row_lenght > 20 at iter : 142456
+ row_lenght > 20 at iter : 151201
+ row_lenght > 20 at iter : 156803
+ row_lenght > 20 at iter : 159826
+ row_lenght > 20 at iter : 168215
+ row_lenght > 20 at iter : 169662
+ row_lenght > 20 at iter : 169734
+ row_lenght > 20 at iter : 169780
+ row_lenght > 20 at iter : 177461
+ row_lenght > 20 at iter : 180268
+ row_lenght > 20 at iter : 180748
+ row_lenght > 20 at iter : 207867
+ row_lenght > 20 at iter : 217488
+ row_lenght > 20 at iter : 218105
+ row_lenght > 20 at iter : 218106
+ row_lenght > 20 at iter : 228626
+ row_lenght > 20 at iter : 230137
+ row_lenght > 20 at iter : 233453
+ row_lenght > 20 at iter : 236324
+ row_lenght > 20 at iter : 236325
+ row_lenght > 20 at iter : 236326
+ row_lenght > 20 at iter : 236327
+ row_lenght > 20 at iter : 236606
+ row_lenght > 20 at iter : 236747
+ row_lenght > 20 at iter : 236755
+ row_lenght > 20 at iter : 236795
+ row_lenght > 20 at iter : 236867
+ row_lenght > 20 at iter : 236870
+ row_lenght > 20 at iter : 236874
+ row_lenght > 20 at iter : 236876
+ row_lenght > 20 at iter : 236877
+ row_lenght > 20 at iter : 236878
+ row_lenght > 20 at iter : 236880
+ row_lenght > 20 at iter : 236882
+ row_lenght > 20 at iter : 236884
+ row_lenght > 20 at iter : 236885
+ row_lenght > 20 at iter : 236888
+ row_lenght > 20 at iter : 236889
+ row_lenght > 20 at iter : 236892
+ row_lenght > 20 at iter : 236893
+ row_lenght > 20 at iter : 236894
+ row_lenght > 20 at iter : 236899
+ row_lenght > 20 at iter : 236900
+ row_lenght > 20 at iter : 236901
+ row_lenght > 20 at iter : 236903
+ row_lenght > 20 at iter : 236905
+ row_lenght > 20 at iter : 236907
+ row_lenght > 20 at iter : 236909
+ row_lenght > 20 at iter : 236933
+ row_lenght > 20 at iter : 237343
+ row_lenght > 20 at iter : 237359
+ row_lenght > 20 at iter : 237410
+ row_lenght > 20 at iter : 237526
+ row_lenght > 20 at iter : 237553
+ row_lenght > 20 at iter : 237580
+ row_lenght > 20 at iter : 237591
+ row_lenght > 20 at iter : 237820
+ row_lenght > 20 at iter : 237849
+ row_lenght > 20 at iter : 238052
+ row_lenght > 20 at iter : 238069
+ row_lenght > 20 at iter : 238116
+ row_lenght > 20 at iter : 238227
+ row_lenght > 20 at iter : 238247
+ row_lenght > 20 at iter : 238332
+ row_lenght > 20 at iter : 239260
+ row_lenght > 20 at iter : 245873
+ row_lenght > 20 at iter : 248483
+ row_lenght > 20 at iter : 252836
+ row_lenght > 20 at iter : 252890
+ row_lenght > 20 at iter : 253027
+ row_lenght > 20 at iter : 254336
+ row_lenght > 20 at iter : 259200
+ row_lenght > 20 at iter : 272466
+ row_lenght > 20 at iter : 272467
+ row_lenght > 20 at iter : 272468
+ row_lenght > 20 at iter : 272615
+ row_lenght > 20 at iter : 273166
+ row_lenght > 20 at iter : 273401
+ row_lenght > 20 at iter : 273410
+ row_lenght > 20 at iter : 273445
+ row_lenght > 20 at iter : 273472
+ row_lenght > 20 at iter : 273537
+ row_lenght > 20 at iter : 273550
+ row_lenght > 20 at iter : 273563
+ row_lenght > 20 at iter : 273572
+ row_lenght > 20 at iter : 273575
+ row_lenght > 20 at iter : 273593
+ row_lenght > 20 at iter : 273600
+ row_lenght > 20 at iter : 273603
+ row_lenght > 20 at iter : 273613
+ row_lenght > 20 at iter : 273614
+ row_lenght > 20 at iter : 273618
+ row_lenght > 20 at iter : 273625
+ row_lenght > 20 at iter : 273628
+ row_lenght > 20 at iter : 273632
+ row_lenght > 20 at iter : 273634
+ row_lenght > 20 at iter : 273650
+ row_lenght > 20 at iter : 273656
+ row_lenght > 20 at iter : 273659
+ row_lenght > 20 at iter : 273661
+ row_lenght > 20 at iter : 273668
+ row_lenght > 20 at iter : 273686
+ row_lenght > 20 at iter : 273690
+ row_lenght > 20 at iter : 273693
+ row_lenght > 20 at iter : 273702
+ row_lenght > 20 at iter : 273719
+ row_lenght > 20 at iter : 273722
+ row_lenght > 20 at iter : 273757
+ row_lenght > 20 at iter : 273760
+ row_lenght > 20 at iter : 273768
+ row_lenght > 20 at iter : 273770
+ row_lenght > 20 at iter : 273794
+ row_lenght > 20 at iter : 273796
+ row_lenght > 20 at iter : 273798
+ row_lenght > 20 at iter : 273803
+ row_lenght > 20 at iter : 273804
+ row_lenght > 20 at iter : 273807
+ row_lenght > 20 at iter : 273810
+ row_lenght > 20 at iter : 273811
+ row_lenght > 20 at iter : 273819
+ row_lenght > 20 at iter : 273821
+ row_lenght > 20 at iter : 273826
+ row_lenght > 20 at iter : 273856
+ row_lenght > 20 at iter : 273860
+ row_lenght > 20 at iter : 273863
+ row_lenght > 20 at iter : 273866
+ row_lenght > 20 at iter : 273869
+ row_lenght > 20 at iter : 273878
+ row_lenght > 20 at iter : 273879
+ row_lenght > 20 at iter : 273882
+ row_lenght > 20 at iter : 273886
+ row_lenght > 20 at iter : 273897
+ row_lenght > 20 at iter : 273900
+ row_lenght > 20 at iter : 273902
+ row_lenght > 20 at iter : 273917
+ row_lenght > 20 at iter : 273920
+ row_lenght > 20 at iter : 273921
+ row_lenght > 20 at iter : 273922
+ row_lenght > 20 at iter : 273924
+ row_lenght > 20 at iter : 273926
+ row_lenght > 20 at iter : 273927
+ row_lenght > 20 at iter : 273932
+ row_lenght > 20 at iter : 273933
+ row_lenght > 20 at iter : 273943
+ row_lenght > 20 at iter : 273945
+ row_lenght > 20 at iter : 273952
+ row_lenght > 20 at iter : 273958
+ row_lenght > 20 at iter : 273960
+ row_lenght > 20 at iter : 273965
+ row_lenght > 20 at iter : 273966
+ row_lenght > 20 at iter : 273973
+ row_lenght > 20 at iter : 273974
+ row_lenght > 20 at iter : 273976
+ row_lenght > 20 at iter : 273977
+ row_lenght > 20 at iter : 273983
+ row_lenght > 20 at iter : 273995
+ row_lenght > 20 at iter : 273996
+ row_lenght > 20 at iter : 274008
+ row_lenght > 20 at iter : 274010
+ row_lenght > 20 at iter : 274014
+ row_lenght > 20 at iter : 274017
+ row_lenght > 20 at iter : 274020
+ row_lenght > 20 at iter : 274027
+ row_lenght > 20 at iter : 274059
+ row_lenght > 20 at iter : 274062
+ row_lenght > 20 at iter : 274068
+ row_lenght > 20 at iter : 274070
+ row_lenght > 20 at iter : 274075
+ row_lenght > 20 at iter : 274089
+ row_lenght > 20 at iter : 274117
+ row_lenght > 20 at iter : 274167
+ row_lenght > 20 at iter : 274168
+ row_lenght > 20 at iter : 274178
+ row_lenght > 20 at iter : 274183
+ row_lenght > 20 at iter : 274186
+ row_lenght > 20 at iter : 274207
+ row_lenght > 20 at iter : 274235
+ row_lenght > 20 at iter : 274242
+ row_lenght > 20 at iter : 274254
+ row_lenght > 20 at iter : 274267
+ row_lenght > 20 at iter : 274268
+ row_lenght > 20 at iter : 274281
+ row_lenght > 20 at iter : 274284
+ row_lenght > 20 at iter : 274287
+ row_lenght > 20 at iter : 274288
+ row_lenght > 20 at iter : 274294
+ row_lenght > 20 at iter : 274305
+ row_lenght > 20 at iter : 274318
+ row_lenght > 20 at iter : 274320
+ row_lenght > 20 at iter : 274331
+ row_lenght > 20 at iter : 274339
+ row_lenght > 20 at iter : 274341
+ row_lenght > 20 at iter : 274355
+ row_lenght > 20 at iter : 274384
+ row_lenght > 20 at iter : 274393
+ row_lenght > 20 at iter : 274396
+ row_lenght > 20 at iter : 274399
+ row_lenght > 20 at iter : 274401
+ row_lenght > 20 at iter : 274402
+ row_lenght > 20 at iter : 274406
+ row_lenght > 20 at iter : 274413
+ row_lenght > 20 at iter : 274430
+ row_lenght > 20 at iter : 274438
+ row_lenght > 20 at iter : 274448
+ row_lenght > 20 at iter : 274456
+ row_lenght > 20 at iter : 274457
+ row_lenght > 20 at iter : 274477
+ row_lenght > 20 at iter : 274480
+ row_lenght > 20 at iter : 274484
+ row_lenght > 20 at iter : 274485
+ row_lenght > 20 at iter : 274494
+ row_lenght > 20 at iter : 274512
+ row_lenght > 20 at iter : 274517
+ row_lenght > 20 at iter : 274521
+ row_lenght > 20 at iter : 274522
+ row_lenght > 20 at iter : 274533
+ row_lenght > 20 at iter : 274539
+ row_lenght > 20 at iter : 274541
+ row_lenght > 20 at iter : 274546
+ row_lenght > 20 at iter : 274554
+ row_lenght > 20 at iter : 274556
+ row_lenght > 20 at iter : 274562
+ row_lenght > 20 at iter : 274571
+ row_lenght > 20 at iter : 274573
+ row_lenght > 20 at iter : 274579
+ row_lenght > 20 at iter : 274580
+ row_lenght > 20 at iter : 274593
+ row_lenght > 20 at iter : 274594
+ row_lenght > 20 at iter : 274603
+ row_lenght > 20 at iter : 274604
+ row_lenght > 20 at iter : 274626
+ row_lenght > 20 at iter : 274633
+ row_lenght > 20 at iter : 274650
+ row_lenght > 20 at iter : 274652
+ row_lenght > 20 at iter : 274661
+ row_lenght > 20 at iter : 274663
+ row_lenght > 20 at iter : 274693
+ row_lenght > 20 at iter : 274697
+ row_lenght > 20 at iter : 274701
+ row_lenght > 20 at iter : 274702
+ row_lenght > 20 at iter : 274704
+ row_lenght > 20 at iter : 274711
+ row_lenght > 20 at iter : 274723
+ row_lenght > 20 at iter : 274727
+ row_lenght > 20 at iter : 274734
+ row_lenght > 20 at iter : 274739
+ row_lenght > 20 at iter : 274740
+ row_lenght > 20 at iter : 274741
+ row_lenght > 20 at iter : 274745
+ row_lenght > 20 at iter : 274747
+ row_lenght > 20 at iter : 274754
+ row_lenght > 20 at iter : 274755
+ row_lenght > 20 at iter : 274763
+ row_lenght > 20 at iter : 274764
+ row_lenght > 20 at iter : 274766
+ row_lenght > 20 at iter : 274769
+ row_lenght > 20 at iter : 274771
+ row_lenght > 20 at iter : 274772
+ row_lenght > 20 at iter : 274773
+ row_lenght > 20 at iter : 274774
+ row_lenght > 20 at iter : 274783
+ row_lenght > 20 at iter : 274798
+ row_lenght > 20 at iter : 274799
+ row_lenght > 20 at iter : 274805
+ row_lenght > 20 at iter : 274808
+ row_lenght > 20 at iter : 274819
+ row_lenght > 20 at iter : 274820
+ row_lenght > 20 at iter : 274823
+ row_lenght > 20 at iter : 274837
+ row_lenght > 20 at iter : 274839
+ row_lenght > 20 at iter : 274845
+ row_lenght > 20 at iter : 274846
+ row_lenght > 20 at iter : 274848
+ row_lenght > 20 at iter : 274856
+ row_lenght > 20 at iter : 274859
+ row_lenght > 20 at iter : 274865
+ row_lenght > 20 at iter : 274867
+ row_lenght > 20 at iter : 274870
+ row_lenght > 20 at iter : 274871
+ row_lenght > 20 at iter : 274876
+ row_lenght > 20 at iter : 274884
+ row_lenght > 20 at iter : 274889
+ row_lenght > 20 at iter : 274899
+ row_lenght > 20 at iter : 274901
+ row_lenght > 20 at iter : 274927
+ row_lenght > 20 at iter : 274944
+ row_lenght > 20 at iter : 274946
+ row_lenght > 20 at iter : 274948
+ row_lenght > 20 at iter : 274952
+ row_lenght > 20 at iter : 274966
+ row_lenght > 20 at iter : 274970
+ row_lenght > 20 at iter : 274975
+ row_lenght > 20 at iter : 274976
+ row_lenght > 20 at iter : 274982
+ row_lenght > 20 at iter : 274983
+ row_lenght > 20 at iter : 274985
+ row_lenght > 20 at iter : 274988
+ row_lenght > 20 at iter : 274990
+ row_lenght > 20 at iter : 275004
+ row_lenght > 20 at iter : 275019
+ row_lenght > 20 at iter : 275032
+ row_lenght > 20 at iter : 275044
+ row_lenght > 20 at iter : 275051
+ row_lenght > 20 at iter : 275055
+ row_lenght > 20 at iter : 275066
+ row_lenght > 20 at iter : 275073
+ row_lenght > 20 at iter : 275086
+ row_lenght > 20 at iter : 275087
+ row_lenght > 20 at iter : 275088
+ row_lenght > 20 at iter : 275100
+ row_lenght > 20 at iter : 275103
+ row_lenght > 20 at iter : 275106
+ row_lenght > 20 at iter : 275111
+ row_lenght > 20 at iter : 275115
+ row_lenght > 20 at iter : 275131
+ row_lenght > 20 at iter : 275132
+ row_lenght > 20 at iter : 275141
+ row_lenght > 20 at iter : 275149
+ row_lenght > 20 at iter : 275150
+ row_lenght > 20 at iter : 275151
+ row_lenght > 20 at iter : 275158
+ row_lenght > 20 at iter : 275163
+ row_lenght > 20 at iter : 275166
+ row_lenght > 20 at iter : 275171
+ row_lenght > 20 at iter : 275173
+ row_lenght > 20 at iter : 275175
+ row_lenght > 20 at iter : 275180
+ row_lenght > 20 at iter : 275186
+ row_lenght > 20 at iter : 275187
+ row_lenght > 20 at iter : 275208
+ row_lenght > 20 at iter : 275209
+ row_lenght > 20 at iter : 275231
+ row_lenght > 20 at iter : 275232
+ row_lenght > 20 at iter : 275235
+ row_lenght > 20 at iter : 275240
+ row_lenght > 20 at iter : 275243
+ row_lenght > 20 at iter : 275250
+ row_lenght > 20 at iter : 275252
+ row_lenght > 20 at iter : 275257
+ row_lenght > 20 at iter : 275263
+ row_lenght > 20 at iter : 275264
+ row_lenght > 20 at iter : 275272
+ row_lenght > 20 at iter : 275273
+ row_lenght > 20 at iter : 275276
+ row_lenght > 20 at iter : 275286
+ row_lenght > 20 at iter : 275304
+ row_lenght > 20 at iter : 275309
+ row_lenght > 20 at iter : 275332
+ row_lenght > 20 at iter : 275347
+ row_lenght > 20 at iter : 275354
+ row_lenght > 20 at iter : 275370
+ row_lenght > 20 at iter : 275377
+ row_lenght > 20 at iter : 275380
+ row_lenght > 20 at iter : 275383
+ row_lenght > 20 at iter : 275384
+ row_lenght > 20 at iter : 275390
+ row_lenght > 20 at iter : 275402
+ row_lenght > 20 at iter : 275411
+ row_lenght > 20 at iter : 275414
+ row_lenght > 20 at iter : 275435
+ row_lenght > 20 at iter : 275444
+ row_lenght > 20 at iter : 275447
+ row_lenght > 20 at iter : 275476
+ row_lenght > 20 at iter : 275492
+ row_lenght > 20 at iter : 275526
+ row_lenght > 20 at iter : 275528
+ row_lenght > 20 at iter : 275532
+ row_lenght > 20 at iter : 275538
+ row_lenght > 20 at iter : 275544
+ row_lenght > 20 at iter : 275565
+ row_lenght > 20 at iter : 275569
+ row_lenght > 20 at iter : 275604
+ row_lenght > 20 at iter : 275611
+ row_lenght > 20 at iter : 275638
+ row_lenght > 20 at iter : 275642
+ row_lenght > 20 at iter : 275665
+ row_lenght > 20 at iter : 275871
+ row_lenght > 20 at iter : 275874
+ row_lenght > 20 at iter : 275876
+ row_lenght > 20 at iter : 299976
+ row_lenght > 20 at iter : 300166
+ row_lenght > 20 at iter : 303467
+ row_lenght > 20 at iter : 388920
+ row_lenght > 20 at iter : 396272
+ row_lenght > 20 at iter : 396288
+ row_lenght > 20 at iter : 396290
+ row_lenght > 20 at iter : 396292
+ row_lenght > 20 at iter : 396295
+ row_lenght > 20 at iter : 396319
+ row_lenght > 20 at iter : 396375
+ row_lenght > 20 at iter : 396487
+ row_lenght > 20 at iter : 396538
+ row_lenght > 20 at iter : 396578
+ row_lenght > 20 at iter : 396604
+ row_lenght > 20 at iter : 396674
+ row_lenght > 20 at iter : 396692
+ row_lenght > 20 at iter : 396697
+ row_lenght > 20 at iter : 396714
+ row_lenght > 20 at iter : 396805
+ row_lenght > 20 at iter : 396831
+ row_lenght > 20 at iter : 396861
+ row_lenght > 20 at iter : 396883
+ row_lenght > 20 at iter : 404525
+ row_lenght > 20 at iter : 406396
+ row_lenght > 20 at iter : 452659
+ row_lenght > 20 at iter : 452750
+ row_lenght > 20 at iter : 454260
+ row_lenght > 20 at iter : 454261
+ row_lenght > 20 at iter : 454262
+ row_lenght > 20 at iter : 454265
+ row_lenght > 20 at iter : 454271
+ row_lenght > 20 at iter : 454459
+ row_lenght > 20 at iter : 454464
+ row_lenght > 20 at iter : 454737
+ row_lenght > 20 at iter : 454739
+ row_lenght > 20 at iter : 454744
+ row_lenght > 20 at iter : 454748
+ row_lenght > 20 at iter : 454801
+ row_lenght > 20 at iter : 474430
+ row_lenght > 20 at iter : 484030
+ row_lenght > 20 at iter : 490828
+ row_lenght > 20 at iter : 490980
+ row_lenght > 20 at iter : 490988
+ row_lenght > 20 at iter : 491055
+ row_lenght > 20 at iter : 491173
+ row_lenght > 20 at iter : 491208
+ row_lenght > 20 at iter : 491241
+ row_lenght > 20 at iter : 491424
+ row_lenght > 20 at iter : 491694
+ row_lenght > 20 at iter : 491770
+ row_lenght > 20 at iter : 491975
+ row_lenght > 20 at iter : 492032
+ row_lenght > 20 at iter : 492166
+ row_lenght > 20 at iter : 492189
+ row_lenght > 20 at iter : 492371
+ row_lenght > 20 at iter : 492544
+ row_lenght > 20 at iter : 492556
+ row_lenght > 20 at iter : 492783
+ row_lenght > 20 at iter : 492792
+ row_lenght > 20 at iter : 492799
+ row_lenght > 20 at iter : 492840
+ row_lenght > 20 at iter : 493110
+ row_lenght > 20 at iter : 493143
+ row_lenght > 20 at iter : 493247
+ row_lenght > 20 at iter : 493452
+ row_lenght > 20 at iter : 493603
+ row_lenght > 20 at iter : 493753
+ row_lenght > 20 at iter : 493883
+ row_lenght > 20 at iter : 493912
+ row_lenght > 20 at iter : 493960
+ row_lenght > 20 at iter : 494152
+ row_lenght > 20 at iter : 494209
+ row_lenght > 20 at iter : 494216
+ row_lenght > 20 at iter : 494638
+ row_lenght > 20 at iter : 494756
+ row_lenght > 20 at iter : 494867
+ row_lenght > 20 at iter : 495174
+ row_lenght > 20 at iter : 495362
+ row_lenght > 20 at iter : 495531
+ row_lenght > 20 at iter : 495789
+ row_lenght > 20 at iter : 495848
+ row_lenght > 20 at iter : 496024
+ row_lenght > 20 at iter : 496077
+ row_lenght > 20 at iter : 496178
+ row_lenght > 20 at iter : 496224
+ row_lenght > 20 at iter : 496311
+ row_lenght > 20 at iter : 496475
+ row_lenght > 20 at iter : 496568
+ row_lenght > 20 at iter : 496603
+ row_lenght > 20 at iter : 496646
+ row_lenght > 20 at iter : 496668
+ row_lenght > 20 at iter : 496721
+ row_lenght > 20 at iter : 496762
+ row_lenght > 20 at iter : 496805
+ row_lenght > 20 at iter : 496854
+ row_lenght > 20 at iter : 496985
+ row_lenght > 20 at iter : 497445
+ row_lenght > 20 at iter : 497631
+ row_lenght > 20 at iter : 497804
+ row_lenght > 20 at iter : 497966
+ row_lenght > 20 at iter : 498186
+ row_lenght > 20 at iter : 498227
+ row_lenght > 20 at iter : 498231
+ row_lenght > 20 at iter : 498293
+ row_lenght > 20 at iter : 498381
+ row_lenght > 20 at iter : 498459
+ row_lenght > 20 at iter : 498542
+ row_lenght > 20 at iter : 498561
+ row_lenght > 20 at iter : 498784
+ row_lenght > 20 at iter : 499077
+ row_lenght > 20 at iter : 499104
+ row_lenght > 20 at iter : 499355
+ row_lenght > 20 at iter : 499452
+ row_lenght > 20 at iter : 499498
+ row_lenght > 20 at iter : 499671
+ row_lenght > 20 at iter : 499728
+ row_lenght > 20 at iter : 500002
+ row_lenght > 20 at iter : 500023
+ row_lenght > 20 at iter : 500089
+ row_lenght > 20 at iter : 500243
+ row_lenght > 20 at iter : 500540
+ row_lenght > 20 at iter : 500593
+ row_lenght > 20 at iter : 500685
+ row_lenght > 20 at iter : 500763
+ row_lenght > 20 at iter : 501178
+ row_lenght > 20 at iter : 501521
+ row_lenght > 20 at iter : 501619
+ row_lenght > 20 at iter : 501743
+ row_lenght > 20 at iter : 502919
+ row_lenght > 20 at iter : 502968
+ row_lenght > 20 at iter : 506801
+ row_lenght > 20 at iter : 506902
+ row_lenght > 20 at iter : 513229
+ row_lenght > 20 at iter : 531273
+ row_lenght > 20 at iter : 539030
+ row_lenght > 20 at iter : 544152
+ row_lenght > 20 at iter : 551613
+ row_lenght > 20 at iter : 551683
+ row_lenght > 20 at iter : 552001
+ row_lenght > 20 at iter : 552075
+ row_lenght > 20 at iter : 552491
+ row_lenght > 20 at iter : 552541
+ row_lenght > 20 at iter : 552554
+ row_lenght > 20 at iter : 558341
+ row_lenght > 20 at iter : 561865
+ row_lenght > 20 at iter : 562733
+ row_lenght > 20 at iter : 563539
+ row_lenght > 20 at iter : 563661
+ row_lenght > 20 at iter : 563763
+ row_lenght > 20 at iter : 563811
+ row_lenght > 20 at iter : 563858
+ row_lenght > 20 at iter : 563869
+ row_lenght > 20 at iter : 563891
+ row_lenght > 20 at iter : 563928
+ row_lenght > 20 at iter : 563964
+ row_lenght > 20 at iter : 563973
+ row_lenght > 20 at iter : 564097
+ row_lenght > 20 at iter : 564208
+ row_lenght > 20 at iter : 564950
+ row_lenght > 20 at iter : 564953
+ row_lenght > 20 at iter : 564971
+ row_lenght > 20 at iter : 566364
+ row_lenght > 20 at iter : 566465
+ row_lenght > 20 at iter : 567705
+ row_lenght > 20 at iter : 570469
+ row_lenght > 20 at iter : 573536
+ row_lenght > 20 at iter : 574167
+ row_lenght > 20 at iter : 574235
+ row_lenght > 20 at iter : 574252
+ row_lenght > 20 at iter : 574263
+ row_lenght > 20 at iter : 574277
+ row_lenght > 20 at iter : 574288
+ row_lenght > 20 at iter : 574310
+ row_lenght > 20 at iter : 574362
+ row_lenght > 20 at iter : 574380
+ row_lenght > 20 at iter : 574426
+ row_lenght > 20 at iter : 574510
+ row_lenght > 20 at iter : 574518
+ row_lenght > 20 at iter : 574544
+ row_lenght > 20 at iter : 574552
+ row_lenght > 20 at iter : 574570
+ row_lenght > 20 at iter : 574575
+ row_lenght > 20 at iter : 574597
+ row_lenght > 20 at iter : 574603
+ row_lenght > 20 at iter : 574615
+ row_lenght > 20 at iter : 574623
+ row_lenght > 20 at iter : 574626
+ row_lenght > 20 at iter : 575835
+ row_lenght > 20 at iter : 576929
+ row_lenght > 20 at iter : 578534
+ row_lenght > 20 at iter : 578566
+ row_lenght > 20 at iter : 578803
+ row_lenght > 20 at iter : 578819
+ row_lenght > 20 at iter : 580962
+ row_lenght > 20 at iter : 582233
+ row_lenght > 20 at iter : 582239
+ row_lenght > 20 at iter : 582304
+ row_lenght > 20 at iter : 582419
+ row_lenght > 20 at iter : 582440
+ row_lenght > 20 at iter : 582449
+ row_lenght > 20 at iter : 582493
+ row_lenght > 20 at iter : 582529
+ row_lenght > 20 at iter : 582792
+ row_lenght > 20 at iter : 630763
+ row_lenght > 20 at iter : 630919
+ row_lenght > 20 at iter : 632833
+ row_lenght > 20 at iter : 648400
+ row_lenght > 20 at iter : 655486
+ row_lenght > 20 at iter : 656706
+ row_lenght > 20 at iter : 677050
+ row_lenght > 20 at iter : 696859
+ row_lenght > 20 at iter : 714487
+ row_lenght > 20 at iter : 736730
+ row_lenght > 20 at iter : 737301
+ row_lenght > 20 at iter : 737330
+ row_lenght > 20 at iter : 740293
+ row_lenght > 20 at iter : 745403
+ row_lenght > 20 at iter : 797578
+ row_lenght > 20 at iter : 807032
+ row_lenght > 20 at iter : 825629
+ row_lenght > 20 at iter : 868515
+ row_lenght > 20 at iter : 959385
+ row_lenght > 20 at iter : 971774
+ row_lenght > 20 at iter : 972291
+ row_lenght > 20 at iter : 976682
+ row_lenght > 20 at iter : 976685
+ row_lenght > 20 at iter : 1004422
+ row_lenght > 20 at iter : 1018781
+ row_lenght > 20 at iter : 1050229
+ row_lenght > 20 at iter : 1072874
+ row_lenght > 20 at iter : 1072915
+ row_lenght > 20 at iter : 1072916
+ row_lenght > 20 at iter : 1072919
+ row_lenght > 20 at iter : 1072921
+ row_lenght > 20 at iter : 1072931
+ row_lenght > 20 at iter : 1072935
+ row_lenght > 20 at iter : 1072957
+ row_lenght > 20 at iter : 1072973
+ row_lenght > 20 at iter : 1072978
+ row_lenght > 20 at iter : 1072982
+ row_lenght > 20 at iter : 1072985
+ row_lenght > 20 at iter : 1072994
+ row_lenght > 20 at iter : 1072995
+ row_lenght > 20 at iter : 1073004
+ row_lenght > 20 at iter : 1073179
+ row_lenght > 20 at iter : 1073196
+ row_lenght > 20 at iter : 1073207
+ row_lenght > 20 at iter : 1073216
+ row_lenght > 20 at iter : 1073340
+ row_lenght > 20 at iter : 1073591
+ row_lenght > 20 at iter : 1073704
+ row_lenght > 20 at iter : 1073718
+ row_lenght > 20 at iter : 1073719
+ row_lenght > 20 at iter : 1075079
+ row_lenght > 20 at iter : 1097155
+ row_lenght > 20 at iter : 1097166
+ row_lenght > 20 at iter : 1097169
+ row_lenght > 20 at iter : 1097170
+ row_lenght > 20 at iter : 1097174
+ row_lenght > 20 at iter : 1097176
+ row_lenght > 20 at iter : 1097192
+ row_lenght > 20 at iter : 1097212
+ row_lenght > 20 at iter : 1097219
+ row_lenght > 20 at iter : 1097245
+ row_lenght > 20 at iter : 1097247
+ row_lenght > 20 at iter : 1097385
+ row_lenght > 20 at iter : 1097463
+ row_lenght > 20 at iter : 1097915
+ row_lenght > 20 at iter : 1098670
+ row_lenght > 20 at iter : 1098698
+ row_lenght > 20 at iter : 1099724
+ row_lenght > 20 at iter : 1100825
+ row_lenght > 20 at iter : 1100835
+ row_lenght > 20 at iter : 1100843
+ row_lenght > 20 at iter : 1100848
+ row_lenght > 20 at iter : 1100884
+ row_lenght > 20 at iter : 1100893
+ row_lenght > 20 at iter : 1100925
+ row_lenght > 20 at iter : 1100929
+ row_lenght > 20 at iter : 1100939
+ row_lenght > 20 at iter : 1100941
+ row_lenght > 20 at iter : 1100947
+ row_lenght > 20 at iter : 1100953
+ row_lenght > 20 at iter : 1100956
+ row_lenght > 20 at iter : 1100963
+ row_lenght > 20 at iter : 1100965
+ row_lenght > 20 at iter : 1100973
+ row_lenght > 20 at iter : 1100984
+ row_lenght > 20 at iter : 1101010
+ row_lenght > 20 at iter : 1101017
+ row_lenght > 20 at iter : 1101030
+ row_lenght > 20 at iter : 1101036
+ row_lenght > 20 at iter : 1101037
+ row_lenght > 20 at iter : 1101085
+ row_lenght > 20 at iter : 1101131
+ row_lenght > 20 at iter : 1101157
+ row_lenght > 20 at iter : 1101174
+ row_lenght > 20 at iter : 1101178
+ row_lenght > 20 at iter : 1101210
+ row_lenght > 20 at iter : 1101218
+ row_lenght > 20 at iter : 1101235
+ row_lenght > 20 at iter : 1101306
+ row_lenght > 20 at iter : 1101345
+ row_lenght > 20 at iter : 1101347
+ row_lenght > 20 at iter : 1101348
+ row_lenght > 20 at iter : 1101352
+ row_lenght > 20 at iter : 1101375
+ row_lenght > 20 at iter : 1101379
+ row_lenght > 20 at iter : 1101388
+ row_lenght > 20 at iter : 1101389
+ row_lenght > 20 at iter : 1101399
+ row_lenght > 20 at iter : 1101407
+ row_lenght > 20 at iter : 1101409
+ row_lenght > 20 at iter : 1101416
+ row_lenght > 20 at iter : 1101447
+ row_lenght > 20 at iter : 1101511
+ row_lenght > 20 at iter : 1101514
+ row_lenght > 20 at iter : 1101530
+ row_lenght > 20 at iter : 1101549
+ row_lenght > 20 at iter : 1101638
+ row_lenght > 20 at iter : 1101674
+ row_lenght > 20 at iter : 1101707
+ row_lenght > 20 at iter : 1101753
+ row_lenght > 20 at iter : 1101785
+ row_lenght > 20 at iter : 1101834
+ row_lenght > 20 at iter : 1102043
+ row_lenght > 20 at iter : 1102070
+ row_lenght > 20 at iter : 1102149
+ row_lenght > 20 at iter : 1102793
+ row_lenght > 20 at iter : 1102903
+ row_lenght > 20 at iter : 1102944
+ row_lenght > 20 at iter : 1102953
+ row_lenght > 20 at iter : 1102973
+ row_lenght > 20 at iter : 1103008
+ row_lenght > 20 at iter : 1103017
+ row_lenght > 20 at iter : 1103038
+ row_lenght > 20 at iter : 1103047
+ row_lenght > 20 at iter : 1103091
+ row_lenght > 20 at iter : 1103092
+ row_lenght > 20 at iter : 1103093
+ row_lenght > 20 at iter : 1103145
+ row_lenght > 20 at iter : 1103167
+ row_lenght > 20 at iter : 1103216
+ row_lenght > 20 at iter : 1103218
+ row_lenght > 20 at iter : 1103259
+ row_lenght > 20 at iter : 1103271
+ row_lenght > 20 at iter : 1103289
+ row_lenght > 20 at iter : 1103290
+ row_lenght > 20 at iter : 1104146
+ row_lenght > 20 at iter : 1104450
+ row_lenght > 20 at iter : 1104472
+ row_lenght > 20 at iter : 1104811
+ row_lenght > 20 at iter : 1104966
+ row_lenght > 20 at iter : 1104989
+ row_lenght > 20 at iter : 1105789
+ row_lenght > 20 at iter : 1105843
+ row_lenght > 20 at iter : 1106215
+ row_lenght > 20 at iter : 1106226
+ row_lenght > 20 at iter : 1107092
+ row_lenght > 20 at iter : 1107333
+ row_lenght > 20 at iter : 1121181
+ row_lenght > 20 at iter : 1121182
+ row_lenght > 20 at iter : 1121187
+ row_lenght > 20 at iter : 1121215
+ row_lenght > 20 at iter : 1121219
+ row_lenght > 20 at iter : 1121221
+ row_lenght > 20 at iter : 1121222
+ row_lenght > 20 at iter : 1121225
+ row_lenght > 20 at iter : 1121230
+ row_lenght > 20 at iter : 1121237
+ row_lenght > 20 at iter : 1121249
+ row_lenght > 20 at iter : 1121283
+ row_lenght > 20 at iter : 1121297
+ row_lenght > 20 at iter : 1121332
+ row_lenght > 20 at iter : 1121485
+ row_lenght > 20 at iter : 1121490
+ row_lenght > 20 at iter : 1121511
+ row_lenght > 20 at iter : 1121518
+ row_lenght > 20 at iter : 1121534
+ row_lenght > 20 at iter : 1121565
+ row_lenght > 20 at iter : 1122185
+ row_lenght > 20 at iter : 1122227
+ row_lenght > 20 at iter : 1128301
+ row_lenght > 20 at iter : 1141768
+ row_lenght > 20 at iter : 1141774
+ row_lenght > 20 at iter : 1158753
+ row_lenght > 20 at iter : 1158799
+ row_lenght > 20 at iter : 1160057
+ row_lenght > 20 at iter : 1160064
+ row_lenght > 20 at iter : 1160085
+ row_lenght > 20 at iter : 1160457
+ row_lenght > 20 at iter : 1160464
+ row_lenght > 20 at iter : 1160474
+ row_lenght > 20 at iter : 1160475
+ row_lenght > 20 at iter : 1160486
+ row_lenght > 20 at iter : 1160514
+ row_lenght > 20 at iter : 1161998
+ row_lenght > 20 at iter : 1162391
+ row_lenght > 20 at iter : 1162892
+ row_lenght > 20 at iter : 1163681
+ row_lenght > 20 at iter : 1164310
+ row_lenght > 20 at iter : 1164434
+ row_lenght > 20 at iter : 1164438
+ row_lenght > 20 at iter : 1164439
+ row_lenght > 20 at iter : 1169973
+ row_lenght > 20 at iter : 1169977
+ row_lenght > 20 at iter : 1169985
+ row_lenght > 20 at iter : 1170063
+ row_lenght > 20 at iter : 1170066
+ row_lenght > 20 at iter : 1170069
+ row_lenght > 20 at iter : 1170128
+ row_lenght > 20 at iter : 1170276
+ row_lenght > 20 at iter : 1171110
+ row_lenght > 20 at iter : 1171508
+ row_lenght > 20 at iter : 1171520
+ row_lenght > 20 at iter : 1171524
+ row_lenght > 20 at iter : 1171533
+ row_lenght > 20 at iter : 1171535
+ row_lenght > 20 at iter : 1171537
+ row_lenght > 20 at iter : 1171538
+ row_lenght > 20 at iter : 1171549
+ row_lenght > 20 at iter : 1171571
+ row_lenght > 20 at iter : 1171579
+ row_lenght > 20 at iter : 1171603
+ row_lenght > 20 at iter : 1171611
+ row_lenght > 20 at iter : 1171618
+ row_lenght > 20 at iter : 1171670
+ row_lenght > 20 at iter : 1171682
+ row_lenght > 20 at iter : 1172035
+ row_lenght > 20 at iter : 1172068
+ row_lenght > 20 at iter : 1172099
+ row_lenght > 20 at iter : 1174706
+ row_lenght > 20 at iter : 1174712
+ row_lenght > 20 at iter : 1174713
+ row_lenght > 20 at iter : 1174729
+ row_lenght > 20 at iter : 1174737
+ row_lenght > 20 at iter : 1176180
+ row_lenght > 20 at iter : 1176195
+ row_lenght > 20 at iter : 1178116
+ row_lenght > 20 at iter : 1178117
+ row_lenght > 20 at iter : 1178119
+ row_lenght > 20 at iter : 1195976
+ row_lenght > 20 at iter : 1196042
+ row_lenght > 20 at iter : 1196052
+ row_lenght > 20 at iter : 1196065
+ row_lenght > 20 at iter : 1196113
+ row_lenght > 20 at iter : 1196178
+ row_lenght > 20 at iter : 1196225
+ row_lenght > 20 at iter : 1196274
+ row_lenght > 20 at iter : 1196293
+ row_lenght > 20 at iter : 1196321
+ row_lenght > 20 at iter : 1196325
+ row_lenght > 20 at iter : 1196343
+ row_lenght > 20 at iter : 1196393
+ row_lenght > 20 at iter : 1196466
+ row_lenght > 20 at iter : 1196732
+ row_lenght > 20 at iter : 1196787
+ row_lenght > 20 at iter : 1196874
+ row_lenght > 20 at iter : 1196926
+ row_lenght > 20 at iter : 1197335
+ row_lenght > 20 at iter : 1197587
+ row_lenght > 20 at iter : 1209552
+ row_lenght > 20 at iter : 1213081
+ row_lenght > 20 at iter : 1215472
+ row_lenght > 20 at iter : 1217297
+ row_lenght > 20 at iter : 1217418
+ row_lenght > 20 at iter : 1222352
+ row_lenght > 20 at iter : 1222397
+ row_lenght > 20 at iter : 1222400
+ row_lenght > 20 at iter : 1222561
+ row_lenght > 20 at iter : 1222562
+ row_lenght > 20 at iter : 1222607
+ row_lenght > 20 at iter : 1222679
+ row_lenght > 20 at iter : 1222742
+ row_lenght > 20 at iter : 1222792
+ row_lenght > 20 at iter : 1222797
+ row_lenght > 20 at iter : 1222825
+ row_lenght > 20 at iter : 1223117
+ row_lenght > 20 at iter : 1223279
+ row_lenght > 20 at iter : 1223283
+ row_lenght > 20 at iter : 1223970
+ row_lenght > 20 at iter : 1225000
+ row_lenght > 20 at iter : 1225535
+ row_lenght > 20 at iter : 1226534
+ row_lenght > 20 at iter : 1237029
+ row_lenght > 20 at iter : 1237099
+ row_lenght > 20 at iter : 1237125
+ row_lenght > 20 at iter : 1237144
+ row_lenght > 20 at iter : 1237145
+ row_lenght > 20 at iter : 1237196
+ row_lenght > 20 at iter : 1237201
+ row_lenght > 20 at iter : 1237206
+ row_lenght > 20 at iter : 1237238
+ row_lenght > 20 at iter : 1237256
+ row_lenght > 20 at iter : 1237276
+ row_lenght > 20 at iter : 1237291
+ row_lenght > 20 at iter : 1237309
+ row_lenght > 20 at iter : 1237317
+ row_lenght > 20 at iter : 1237331
+ row_lenght > 20 at iter : 1237335
+ row_lenght > 20 at iter : 1237344
+ row_lenght > 20 at iter : 1237348
+ row_lenght > 20 at iter : 1237350
+ row_lenght > 20 at iter : 1237353
+ row_lenght > 20 at iter : 1237368
+ row_lenght > 20 at iter : 1237385
+ row_lenght > 20 at iter : 1237387
+ row_lenght > 20 at iter : 1237451
+ row_lenght > 20 at iter : 1237455
+ row_lenght > 20 at iter : 1237496
+ row_lenght > 20 at iter : 1237511
+ row_lenght > 20 at iter : 1237520
+ row_lenght > 20 at iter : 1237551
+ row_lenght > 20 at iter : 1237676
+ row_lenght > 20 at iter : 1237746
+ row_lenght > 20 at iter : 1237750
+ row_lenght > 20 at iter : 1237759
+ row_lenght > 20 at iter : 1237770
+ row_lenght > 20 at iter : 1237870
+ row_lenght > 20 at iter : 1237884
+ row_lenght > 20 at iter : 1237928
+ row_lenght > 20 at iter : 1238031
+ row_lenght > 20 at iter : 1238104
+ row_lenght > 20 at iter : 1238219
+ row_lenght > 20 at iter : 1238225
+ row_lenght > 20 at iter : 1238251
+ row_lenght > 20 at iter : 1238377
+ row_lenght > 20 at iter : 1238417
+ row_lenght > 20 at iter : 1238481
+ row_lenght > 20 at iter : 1238542
+ row_lenght > 20 at iter : 1238549
+ row_lenght > 20 at iter : 1238552
+ row_lenght > 20 at iter : 1238618
+ row_lenght > 20 at iter : 1238662
+ row_lenght > 20 at iter : 1238753
+ row_lenght > 20 at iter : 1238970
+ row_lenght > 20 at iter : 1238996
+ row_lenght > 20 at iter : 1239288
+ row_lenght > 20 at iter : 1239367
+ row_lenght > 20 at iter : 1239373
+ row_lenght > 20 at iter : 1239901
+ row_lenght > 20 at iter : 1239964
+ row_lenght > 20 at iter : 1240316
+ row_lenght > 20 at iter : 1240368
+ row_lenght > 20 at iter : 1240410
+ row_lenght > 20 at iter : 1255331
+ row_lenght > 20 at iter : 1255433
+ row_lenght > 20 at iter : 1255437
+ row_lenght > 20 at iter : 1255483
+ row_lenght > 20 at iter : 1255564
+ row_lenght > 20 at iter : 1256248
+ row_lenght > 20 at iter : 1261583
+ row_lenght > 20 at iter : 1273152
+ row_lenght > 20 at iter : 1273748
+ row_lenght > 20 at iter : 1277876
+ row_lenght > 20 at iter : 1279900
+ row_lenght > 20 at iter : 1280982
+ row_lenght > 20 at iter : 1283450
+ row_lenght > 20 at iter : 1283456
+ row_lenght > 20 at iter : 1287125
+ row_lenght > 20 at iter : 1288324
+ row_lenght > 20 at iter : 1289383
+ row_lenght > 20 at iter : 1289595
+ row_lenght > 20 at iter : 1290377
+ row_lenght > 20 at iter : 1291188
+ row_lenght > 20 at iter : 1292122
+ row_lenght > 20 at iter : 1293170
+ row_lenght > 20 at iter : 1293201
+ row_lenght > 20 at iter : 1295346
+ row_lenght > 20 at iter : 1297556
+ row_lenght > 20 at iter : 1298206
+ row_lenght > 20 at iter : 1302974
+ row_lenght > 20 at iter : 1304399
+ row_lenght > 20 at iter : 1306021
+ row_lenght > 20 at iter : 1306022
+ row_lenght > 20 at iter : 1306023
+ row_lenght > 20 at iter : 1306025
+ row_lenght > 20 at iter : 1312630
+ row_lenght > 20 at iter : 1312691
+ row_lenght > 20 at iter : 1315691
+ row_lenght > 20 at iter : 1316927
+ row_lenght > 20 at iter : 1318808
+ row_lenght > 20 at iter : 1318809
+ row_lenght > 20 at iter : 1322692
+ row_lenght > 20 at iter : 1326031
+ row_lenght > 20 at iter : 1326316
+ row_lenght > 20 at iter : 1327603
+ row_lenght > 20 at iter : 1332920
+ row_lenght > 20 at iter : 1336892
+ row_lenght > 20 at iter : 1339137
+ row_lenght > 20 at iter : 1339166
+ row_lenght > 20 at iter : 1339181
+ row_lenght > 20 at iter : 1339250
+ row_lenght > 20 at iter : 1339264
+ row_lenght > 20 at iter : 1339292
+ row_lenght > 20 at iter : 1339302
+ row_lenght > 20 at iter : 1341106
+ row_lenght > 20 at iter : 1348825
+ row_lenght > 20 at iter : 1348835
+ row_lenght > 20 at iter : 1353829
+ row_lenght > 20 at iter : 1353888
+ row_lenght > 20 at iter : 1353893
+ row_lenght > 20 at iter : 1353935
+ row_lenght > 20 at iter : 1354011
+ row_lenght > 20 at iter : 1362075
+ row_lenght > 20 at iter : 1362084
+ row_lenght > 20 at iter : 1364006
+ row_lenght > 20 at iter : 1364254
+ row_lenght > 20 at iter : 1364831
+ row_lenght > 20 at iter : 1372321
+ row_lenght > 20 at iter : 1374809
+ row_lenght > 20 at iter : 1374843
+ row_lenght > 20 at iter : 1374862
+ row_lenght > 20 at iter : 1375025
+ row_lenght > 20 at iter : 1382739
+ row_lenght > 20 at iter : 1383402
+ row_lenght > 20 at iter : 1383694
+ row_lenght > 20 at iter : 1384441
+ row_lenght > 20 at iter : 1384445
+ row_lenght > 20 at iter : 1384478
+ row_lenght > 20 at iter : 1385554
+ row_lenght > 20 at iter : 1385578
+ row_lenght > 20 at iter : 1386075
+ row_lenght > 20 at iter : 1386135
+ row_lenght > 20 at iter : 1386152
+ row_lenght > 20 at iter : 1386178
+ row_lenght > 20 at iter : 1386279
+ row_lenght > 20 at iter : 1386363
+ row_lenght > 20 at iter : 1386391
+ row_lenght > 20 at iter : 1389852
+ row_lenght > 20 at iter : 1390132
+ row_lenght > 20 at iter : 1390455
+ row_lenght > 20 at iter : 1390727
+ row_lenght > 20 at iter : 1391921
+ row_lenght > 20 at iter : 1391941
+ row_lenght > 20 at iter : 1391950
+ row_lenght > 20 at iter : 1391994
+ row_lenght > 20 at iter : 1392000
+ row_lenght > 20 at iter : 1392051
+ row_lenght > 20 at iter : 1392258
+ row_lenght > 20 at iter : 1393610
+ row_lenght > 20 at iter : 1393805
+ row_lenght > 20 at iter : 1393974
+ row_lenght > 20 at iter : 1394043
+ row_lenght > 20 at iter : 1394215
+ row_lenght > 20 at iter : 1394305
+ row_lenght > 20 at iter : 1394970
+ row_lenght > 20 at iter : 1397384
+ row_lenght > 20 at iter : 1397422
+ row_lenght > 20 at iter : 1397426
+ row_lenght > 20 at iter : 1399075
+ row_lenght > 20 at iter : 1399273
+ row_lenght > 20 at iter : 1399313
+ row_lenght > 20 at iter : 1399585
+ row_lenght > 20 at iter : 1399778
+ row_lenght > 20 at iter : 1400186
+ row_lenght > 20 at iter : 1404691
+ row_lenght > 20 at iter : 1406510
+ row_lenght > 20 at iter : 1406560
+ row_lenght > 20 at iter : 1410719
+ row_lenght > 20 at iter : 1415737
+ row_lenght > 20 at iter : 1416740
+ row_lenght > 20 at iter : 1416860
+ row_lenght > 20 at iter : 1416880
+ row_lenght > 20 at iter : 1419607
+ row_lenght > 20 at iter : 1419629
+ row_lenght > 20 at iter : 1420114
+ row_lenght > 20 at iter : 1420677
+ row_lenght > 20 at iter : 1427863
+ row_lenght > 20 at iter : 1429956
+ row_lenght > 20 at iter : 1429958
+ row_lenght > 20 at iter : 1430144
+ row_lenght > 20 at iter : 1430197
+ row_lenght > 20 at iter : 1432812
+ row_lenght > 20 at iter : 1432869
+ row_lenght > 20 at iter : 1432947
+ row_lenght > 20 at iter : 1432950
+ row_lenght > 20 at iter : 1433282
+ row_lenght > 20 at iter : 1436421
+ row_lenght > 20 at iter : 1442027
+ row_lenght > 20 at iter : 1443188
+ row_lenght > 20 at iter : 1446376
+ row_lenght > 20 at iter : 1446467
+ row_lenght > 20 at iter : 1450242
+ row_lenght > 20 at iter : 1454919
+ row_lenght > 20 at iter : 1457455
+ row_lenght > 20 at iter : 1458931
+ row_lenght > 20 at iter : 1460062
+ row_lenght > 20 at iter : 1462872
+ row_lenght > 20 at iter : 1465188
+ row_lenght > 20 at iter : 1470687
+ row_lenght > 20 at iter : 1489068
+ row_lenght > 20 at iter : 1495543
+ row_lenght > 20 at iter : 1519631
+ row_lenght > 20 at iter : 1543546
+ row_lenght > 20 at iter : 1572306
+ row_lenght > 20 at iter : 1721023
+ row_lenght > 20 at iter : 1988212
+rowBlockSize : 120173last row 0
+subsize : 960
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 126
+filename: com-orkut.ungraph.bin nVtx: 3072441 nonzero: 234370166 AvgTime: 0.532683 part1V: 188768 part1E: 22509212 part2V: 2883673 part2E: 211860954
+subzie 35488
+number-blocks: 32
+filename: com-youtube.ungraph.bin nVtx: 1134890 nonzero: 5975248 AvgTime: 0.215416 part1V: 212928 part1E: 3671494 part2V: 921962 part2E: 2303754
+ row_lenght > 20 at iter : 4
+ row_lenght > 20 at iter : 32
+ row_lenght > 20 at iter : 40
+ row_lenght > 20 at iter : 41
+ row_lenght > 20 at iter : 47
+ row_lenght > 20 at iter : 51
+ row_lenght > 20 at iter : 58
+ row_lenght > 20 at iter : 171
+ row_lenght > 20 at iter : 304
+ row_lenght > 20 at iter : 316
+ row_lenght > 20 at iter : 323
+ row_lenght > 20 at iter : 326
+ row_lenght > 20 at iter : 354
+ row_lenght > 20 at iter : 355
+ row_lenght > 20 at iter : 359
+ row_lenght > 20 at iter : 375
+ row_lenght > 20 at iter : 381
+ row_lenght > 20 at iter : 382
+ row_lenght > 20 at iter : 393
+ row_lenght > 20 at iter : 405
+ row_lenght > 20 at iter : 409
+ row_lenght > 20 at iter : 410
+ row_lenght > 20 at iter : 411
+ row_lenght > 20 at iter : 459
+ row_lenght > 20 at iter : 489
+ row_lenght > 20 at iter : 540
+ row_lenght > 20 at iter : 2142
+ row_lenght > 20 at iter : 2399
+ row_lenght > 20 at iter : 2400
+ row_lenght > 20 at iter : 2607
+ row_lenght > 20 at iter : 2933
+ row_lenght > 20 at iter : 3162
+ row_lenght > 20 at iter : 3163
+ row_lenght > 20 at iter : 3243
+ row_lenght > 20 at iter : 3878
+ row_lenght > 20 at iter : 5110
+ row_lenght > 20 at iter : 6066
+ row_lenght > 20 at iter : 6251
+ row_lenght > 20 at iter : 6257
+ row_lenght > 20 at iter : 6510
+ row_lenght > 20 at iter : 6520
+ row_lenght > 20 at iter : 6602
+ row_lenght > 20 at iter : 6642
+ row_lenght > 20 at iter : 6655
+ row_lenght > 20 at iter : 6747
+ row_lenght > 20 at iter : 6773
+ row_lenght > 20 at iter : 6786
+ row_lenght > 20 at iter : 7872
+ row_lenght > 20 at iter : 9684
+ row_lenght > 20 at iter : 24576
+ row_lenght > 20 at iter : 27554
+ row_lenght > 20 at iter : 30641
+ row_lenght > 20 at iter : 32193
+ row_lenght > 20 at iter : 32323
+ row_lenght > 20 at iter : 32327
+ row_lenght > 20 at iter : 32330
+ row_lenght > 20 at iter : 32332
+ row_lenght > 20 at iter : 32334
+ row_lenght > 20 at iter : 32367
+ row_lenght > 20 at iter : 33778
+ row_lenght > 20 at iter : 34518
+ row_lenght > 20 at iter : 34547
+ row_lenght > 20 at iter : 41258
+ row_lenght > 20 at iter : 42268
+ row_lenght > 20 at iter : 43507
+ row_lenght > 20 at iter : 43534
+ row_lenght > 20 at iter : 43897
+ row_lenght > 20 at iter : 44304
+ row_lenght > 20 at iter : 44387
+ row_lenght > 20 at iter : 44586
+ row_lenght > 20 at iter : 47162
+ row_lenght > 20 at iter : 48903
+ row_lenght > 20 at iter : 59037
+ row_lenght > 20 at iter : 94527
+ row_lenght > 20 at iter : 101035
+ row_lenght > 20 at iter : 133039
+ row_lenght > 20 at iter : 143182
+ row_lenght > 20 at iter : 159649
+ row_lenght > 20 at iter : 4
+ row_lenght > 20 at iter : 32
+ row_lenght > 20 at iter : 40
+ row_lenght > 20 at iter : 41
+ row_lenght > 20 at iter : 47
+ row_lenght > 20 at iter : 51
+ row_lenght > 20 at iter : 58
+ row_lenght > 20 at iter : 171
+ row_lenght > 20 at iter : 304
+ row_lenght > 20 at iter : 316
+ row_lenght > 20 at iter : 323
+ row_lenght > 20 at iter : 326
+ row_lenght > 20 at iter : 354
+ row_lenght > 20 at iter : 355
+ row_lenght > 20 at iter : 359
+ row_lenght > 20 at iter : 375
+ row_lenght > 20 at iter : 381
+ row_lenght > 20 at iter : 382
+ row_lenght > 20 at iter : 393
+ row_lenght > 20 at iter : 405
+ row_lenght > 20 at iter : 409
+ row_lenght > 20 at iter : 410
+ row_lenght > 20 at iter : 411
+ row_lenght > 20 at iter : 459
+ row_lenght > 20 at iter : 489
+ row_lenght > 20 at iter : 540
+ row_lenght > 20 at iter : 2142
+ row_lenght > 20 at iter : 2399
+ row_lenght > 20 at iter : 2400
+ row_lenght > 20 at iter : 2607
+ row_lenght > 20 at iter : 2933
+ row_lenght > 20 at iter : 3162
+ row_lenght > 20 at iter : 3163
+ row_lenght > 20 at iter : 3243
+ row_lenght > 20 at iter : 3878
+ row_lenght > 20 at iter : 5110
+ row_lenght > 20 at iter : 6066
+ row_lenght > 20 at iter : 6251
+ row_lenght > 20 at iter : 6257
+ row_lenght > 20 at iter : 6510
+ row_lenght > 20 at iter : 6520
+ row_lenght > 20 at iter : 6602
+ row_lenght > 20 at iter : 6642
+ row_lenght > 20 at iter : 6655
+ row_lenght > 20 at iter : 6747
+ row_lenght > 20 at iter : 6773
+ row_lenght > 20 at iter : 6786
+ row_lenght > 20 at iter : 7872
+ row_lenght > 20 at iter : 9684
+ row_lenght > 20 at iter : 24576
+ row_lenght > 20 at iter : 27554
+ row_lenght > 20 at iter : 30641
+ row_lenght > 20 at iter : 32193
+ row_lenght > 20 at iter : 32323
+ row_lenght > 20 at iter : 32327
+ row_lenght > 20 at iter : 32330
+ row_lenght > 20 at iter : 32332
+ row_lenght > 20 at iter : 32334
+ row_lenght > 20 at iter : 32367
+ row_lenght > 20 at iter : 33778
+ row_lenght > 20 at iter : 34518
+ row_lenght > 20 at iter : 34547
+ row_lenght > 20 at iter : 41258
+ row_lenght > 20 at iter : 42268
+ row_lenght > 20 at iter : 43507
+ row_lenght > 20 at iter : 43534
+ row_lenght > 20 at iter : 43897
+ row_lenght > 20 at iter : 44304
+ row_lenght > 20 at iter : 44387
+ row_lenght > 20 at iter : 44586
+ row_lenght > 20 at iter : 47162
+ row_lenght > 20 at iter : 48903
+ row_lenght > 20 at iter : 59037
+ row_lenght > 20 at iter : 94527
+ row_lenght > 20 at iter : 101035
+ row_lenght > 20 at iter : 133039
+ row_lenght > 20 at iter : 143182
+ row_lenght > 20 at iter : 159649
+rowBlockSize : 2992last row 0
+subsize : 64
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 47
+filename: com-youtube.ungraph.bin nVtx: 1134890 nonzero: 5975248 AvgTime: 0.326976 part1V: 12082 part1E: 904362 part2V: 1122808 part2E: 5070886
+subzie 1152
+number-blocks: 32
+filename: email-Enron.bin nVtx: 36692 nonzero: 367662 AvgTime: 0.058936 part1V: 17280 part1E: 302511 part2V: 19412 part2E: 65151
+rowBlockSize : 189last row 0
+subsize : 64
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 3
+filename: email-Enron.bin nVtx: 36692 nonzero: 367662 AvgTime: 0.058953 part1V: 8092 part1E: 249453 part2V: 28600 part2E: 118209
+subzie 8288
+number-blocks: 32
+filename: email-EuAll.bin nVtx: 265214 nonzero: 420045 AvgTime: 0.117978 part1V: 99456 part1E: 242165 part2V: 165758 part2E: 177880
+rowBlockSize : 210last row 0
+subsize : 64
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 4
+filename: email-EuAll.bin nVtx: 265214 nonzero: 420045 AvgTime: 0.039337 part1V: 116252 part1E: 259988 part2V: 148962 part2E: 160057
+subzie 14272
+number-blocks: 32
+filename: higgs-social_network.bin nVtx: 456626 nonzero: 14855842 AvgTime: 0.239971 part1V: 142720 part1E: 8911434 part2V: 313906 part2E: 5944408
+rowBlockSize : 7454last row 0
+subsize : 64
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 115
+filename: higgs-social_network.bin nVtx: 456626 nonzero: 14855842 AvgTime: 0.27965 part1V: 397875 part1E: 14372547 part2V: 58751 part2E: 483295
+subzie 384
+number-blocks: 30
+filename: Oregon-1.bin nVtx: 11492 nonzero: 46818 AvgTime: 0.057819 part1V: 5376 part1E: 34518 part2V: 6116 part2E: 12300
+ row_lenght > 20 at iter : 194
+ row_lenght > 20 at iter : 194
+rowBlockSize : 26last row 0
+subsize : 0
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 27
+filename: Oregon-1.bin nVtx: 11492 nonzero: 46818 AvgTime: 0.231142 part1V: 2174 part1E: 23024 part2V: 9318 part2E: 23794
+subzie 384
+number-blocks: 31
+filename: Oregon-2.bin nVtx: 11806 nonzero: 65460 AvgTime: 0.053356 part1V: 5376 part1E: 48270 part2V: 6430 part2E: 17190
+ row_lenght > 20 at iter : 197
+ row_lenght > 20 at iter : 197
+rowBlockSize : 35last row 0
+subsize : 0
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 36
+filename: Oregon-2.bin nVtx: 11806 nonzero: 65460 AvgTime: 0.180008 part1V: 2670 part1E: 34011 part2V: 9136 part2E: 31449
+subzie 352
+number-blocks: 31
+filename: p2p-Gnutella04.bin nVtx: 10879 nonzero: 39994 AvgTime: 0.052214 part1V: 5632 part1E: 22517 part2V: 5247 part2E: 17477
+rowBlockSize : 21last row 0
+subsize : 0
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 22
+filename: p2p-Gnutella04.bin nVtx: 10879 nonzero: 39994 AvgTime: 0.223144 part1V: 1887 part1E: 8178 part2V: 8992 part2E: 31816
+subzie 288
+number-blocks: 31
+filename: p2p-Gnutella05.bin nVtx: 8846 nonzero: 31839 AvgTime: 0.125666 part1V: 4608 part1E: 17994 part2V: 4238 part2E: 13845
+rowBlockSize : 17last row 0
+subsize : 0
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 18
+filename: p2p-Gnutella05.bin nVtx: 8846 nonzero: 31839 AvgTime: 0.211194 part1V: 2994 part1E: 12280 part2V: 5852 part2E: 19559
+subzie 288
+number-blocks: 31
+filename: p2p-Gnutella06.bin nVtx: 8717 nonzero: 31525 AvgTime: 0.050142 part1V: 4608 part1E: 18428 part2V: 4109 part2E: 13097
+rowBlockSize : 17last row 0
+subsize : 0
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 18
+filename: p2p-Gnutella06.bin nVtx: 8717 nonzero: 31525 AvgTime: 0.221038 part1V: 1800 part1E: 8184 part2V: 6917 part2E: 23341
+subzie 224
+number-blocks: 29
+filename: p2p-Gnutella08.bin nVtx: 6301 nonzero: 20777 AvgTime: 0.04719 part1V: 3136 part1E: 11767 part2V: 3165 part2E: 9010
+rowBlockSize : 12last row 0
+subsize : 0
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 13
+filename: p2p-Gnutella08.bin nVtx: 6301 nonzero: 20777 AvgTime: 0.234739 part1V: 1999 part1E: 8187 part2V: 4302 part2E: 12590
+subzie 256
+number-blocks: 32
+filename: p2p-Gnutella09.bin nVtx: 8114 nonzero: 26013 AvgTime: 0.051994 part1V: 4096 part1E: 15030 part2V: 4018 part2E: 10983
+rowBlockSize : 14last row 0
+subsize : 0
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 15
+filename: p2p-Gnutella09.bin nVtx: 8114 nonzero: 26013 AvgTime: 0.231475 part1V: 3208 part1E: 12265 part2V: 4906 part2E: 13748
+subzie 832
+number-blocks: 32
+filename: p2p-Gnutella24.bin nVtx: 26518 nonzero: 65369 AvgTime: 0.06559 part1V: 13312 part1E: 35705 part2V: 13206 part2E: 29664
+rowBlockSize : 33last row 0
+subsize : 0
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 34
+filename: p2p-Gnutella24.bin nVtx: 26518 nonzero: 65369 AvgTime: 0.116844 part1V: 12807 part1E: 34746 part2V: 13711 part2E: 30623
+subzie 736
+number-blocks: 31
+filename: p2p-Gnutella25.bin nVtx: 22687 nonzero: 54705 AvgTime: 0.227645 part1V: 11776 part1E: 30606 part2V: 10911 part2E: 24099
+rowBlockSize : 28last row 0
+subsize : 0
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 29
+filename: p2p-Gnutella25.bin nVtx: 22687 nonzero: 54705 AvgTime: 0.118783 part1V: 11800 part1E: 30676 part2V: 10887 part2E: 24029
+subzie 1152
+number-blocks: 32
+filename: p2p-Gnutella30.bin nVtx: 36682 nonzero: 88328 AvgTime: 0.053613 part1V: 18432 part1E: 46656 part2V: 18250 part2E: 41672
+rowBlockSize : 45last row 0
+subsize : 0
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 46
+filename: p2p-Gnutella30.bin nVtx: 36682 nonzero: 88328 AvgTime: 0.245669 part1V: 2592 part1E: 8188 part2V: 34090 part2E: 80140
+subzie 1984
+number-blocks: 32
+filename: p2p-Gnutella31.bin nVtx: 62586 nonzero: 147892 AvgTime: 0.054865 part1V: 31744 part1E: 69794 part2V: 30842 part2E: 78098
+rowBlockSize : 74last row 0
+subsize : 0
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 75
+filename: p2p-Gnutella31.bin nVtx: 62586 nonzero: 147892 AvgTime: 0.2066 part1V: 34335 part1E: 75614 part2V: 28251 part2E: 72278
+subzie 61632
+number-blocks: 32
+filename: roadNet-CA.bin nVtx: 1971281 nonzero: 5533214 AvgTime: 0.182279 part1V: 986112 part1E: 2789924 part2V: 985169 part2E: 2743290
+rowBlockSize : 2705last row 0
+subsize : 64
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 42
+filename: roadNet-CA.bin nVtx: 1971281 nonzero: 5533214 AvgTime: 0.318181 part1V: 1798267 part1E: 5055894 part2V: 173014 part2E: 477320
+subzie 34112
+number-blocks: 32
+filename: roadNet-PA.bin nVtx: 1090920 nonzero: 3083796 AvgTime: 0.203104 part1V: 614016 part1E: 1739561 part2V: 476904 part2E: 1344235
+rowBlockSize : 1508last row 0
+subsize : 64
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 24
+filename: roadNet-PA.bin nVtx: 1090920 nonzero: 3083796 AvgTime: 0.204686 part1V: 797148 part1E: 2261898 part2V: 293772 part2E: 821898
+subzie 43552
+number-blocks: 32
+filename: roadNet-TX.bin nVtx: 1393383 nonzero: 3843320 AvgTime: 0.153338 part1V: 696832 part1E: 1928781 part2V: 696551 part2E: 1914539
+rowBlockSize : 1879last row 0
+subsize : 64
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 29
+filename: roadNet-TX.bin nVtx: 1393383 nonzero: 3843320 AvgTime: 0.284885 part1V: 193350 part1E: 532188 part2V: 1200033 part2E: 3311132
+subzie 2400
+number-blocks: 32
+filename: soc-Epinions1.bin nVtx: 75888 nonzero: 508837 AvgTime: 0.096333 part1V: 33600 part1E: 456027 part2V: 42288 part2E: 52810
+rowBlockSize : 257last row 0
+subsize : 64
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 4
+filename: soc-Epinions1.bin nVtx: 75888 nonzero: 508837 AvgTime: 0.12581 part1V: 5232 part1E: 254754 part2V: 70656 part2E: 254083
+subzie 151488
+number-blocks: 32
+filename: soc-LiveJournal1.bin nVtx: 4847571 nonzero: 68993773 AvgTime: 1.01179 part1V: 1060416 part1E: 39855178 part2V: 3787155 part2E: 29138595
+ row_lenght > 20 at iter : 88
+ row_lenght > 20 at iter : 8860
+ row_lenght > 20 at iter : 10010
+ row_lenght > 20 at iter : 37189
+ row_lenght > 20 at iter : 37357
+ row_lenght > 20 at iter : 39334
+ row_lenght > 20 at iter : 39370
+ row_lenght > 20 at iter : 39371
+ row_lenght > 20 at iter : 40749
+ row_lenght > 20 at iter : 91342
+ row_lenght > 20 at iter : 92216
+ row_lenght > 20 at iter : 92625
+ row_lenght > 20 at iter : 92962
+ row_lenght > 20 at iter : 94902
+ row_lenght > 20 at iter : 102294
+ row_lenght > 20 at iter : 2392553
+ row_lenght > 20 at iter : 88
+ row_lenght > 20 at iter : 8860
+ row_lenght > 20 at iter : 10010
+ row_lenght > 20 at iter : 37189
+ row_lenght > 20 at iter : 37357
+ row_lenght > 20 at iter : 39334
+ row_lenght > 20 at iter : 39370
+ row_lenght > 20 at iter : 39371
+ row_lenght > 20 at iter : 40749
+ row_lenght > 20 at iter : 91342
+ row_lenght > 20 at iter : 92216
+ row_lenght > 20 at iter : 92625
+ row_lenght > 20 at iter : 92962
+ row_lenght > 20 at iter : 94902
+ row_lenght > 20 at iter : 102294
+ row_lenght > 20 at iter : 2392553
+rowBlockSize : 34427last row 0
+subsize : 320
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 108
+filename: soc-LiveJournal1.bin nVtx: 4847571 nonzero: 68993773 AvgTime: 0.627125 part1V: 95063 part1E: 5691313 part2V: 4752508 part2E: 63302460
+subzie 51040
+number-blocks: 32
+filename: soc-pokec-relationships.bin nVtx: 1632803 nonzero: 30622564 AvgTime: 0.505458 part1V: 459360 part1E: 16960124 part2V: 1173443 part2E: 13662440
+ row_lenght > 20 at iter : 2855
+ row_lenght > 20 at iter : 3908
+ row_lenght > 20 at iter : 3913
+ row_lenght > 20 at iter : 5440
+ row_lenght > 20 at iter : 5484
+ row_lenght > 20 at iter : 15134
+ row_lenght > 20 at iter : 26515
+ row_lenght > 20 at iter : 184495
+ row_lenght > 20 at iter : 2855
+ row_lenght > 20 at iter : 3908
+ row_lenght > 20 at iter : 3913
+ row_lenght > 20 at iter : 5440
+ row_lenght > 20 at iter : 5484
+ row_lenght > 20 at iter : 15134
+ row_lenght > 20 at iter : 26515
+ row_lenght > 20 at iter : 184495
+rowBlockSize : 15196last row 0
+subsize : 128
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 118
+filename: soc-pokec-relationships.bin nVtx: 1632803 nonzero: 30622564 AvgTime: 0.327189 part1V: 1219383 part1E: 29097896 part2V: 413420 part2E: 1524668
+subzie 4128
+number-blocks: 32
+filename: soc-sign-epinions.bin nVtx: 131828 nonzero: 841372 AvgTime: 0.154954 part1V: 41280 part1E: 580394 part2V: 90548 part2E: 260978
+ row_lenght > 20 at iter : 12169
+ row_lenght > 20 at iter : 68215
+ row_lenght > 20 at iter : 112587
+ row_lenght > 20 at iter : 12169
+ row_lenght > 20 at iter : 68215
+ row_lenght > 20 at iter : 112587
+rowBlockSize : 430last row 0
+subsize : 64
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 7
+filename: soc-sign-epinions.bin nVtx: 131828 nonzero: 841372 AvgTime: 0.110399 part1V: 7558 part1E: 249904 part2V: 124270 part2E: 591468
+subzie 2432
+number-blocks: 32
+filename: soc-sign-Slashdot081106.bin nVtx: 77357 nonzero: 516575 AvgTime: 0.066566 part1V: 31616 part1E: 417109 part2V: 45741 part2E: 99466
+rowBlockSize : 259last row 0
+subsize : 64
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 4
+filename: soc-sign-Slashdot081106.bin nVtx: 77357 nonzero: 516575 AvgTime: 0.132706 part1V: 11708 part1E: 258445 part2V: 65649 part2E: 258130
+subzie 2560
+number-blocks: 32
+filename: soc-sign-Slashdot090216.bin nVtx: 81871 nonzero: 545671 AvgTime: 0.053155 part1V: 30720 part1E: 423826 part2V: 51151 part2E: 121845
+rowBlockSize : 274last row 0
+subsize : 64
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 5
+filename: soc-sign-Slashdot090216.bin nVtx: 81871 nonzero: 545671 AvgTime: 0.141734 part1V: 25489 part1E: 388371 part2V: 56382 part2E: 157300
+subzie 2592
+number-blocks: 32
+filename: soc-sign-Slashdot090221.bin nVtx: 82144 nonzero: 549202 AvgTime: 0.059516 part1V: 33696 part1E: 440667 part2V: 48448 part2E: 108535
+rowBlockSize : 276last row 0
+subsize : 64
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 5
+filename: soc-sign-Slashdot090221.bin nVtx: 82144 nonzero: 549202 AvgTime: 0.091923 part1V: 25032 part1E: 387907 part2V: 57112 part2E: 161295
+subzie 2432
+number-blocks: 32
+filename: soc-Slashdot0811.bin nVtx: 77360 nonzero: 905468 AvgTime: 0.058764 part1V: 29184 part1E: 731694 part2V: 48176 part2E: 173774
+ row_lenght > 20 at iter : 395
+ row_lenght > 20 at iter : 2482
+ row_lenght > 20 at iter : 4676
+ row_lenght > 20 at iter : 395
+ row_lenght > 20 at iter : 2482
+ row_lenght > 20 at iter : 4676
+rowBlockSize : 456last row 0
+subsize : 64
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 8
+filename: soc-Slashdot0811.bin nVtx: 77360 nonzero: 905468 AvgTime: 0.210408 part1V: 12464 part1E: 509992 part2V: 64896 part2E: 395476
+subzie 2592
+number-blocks: 32
+filename: soc-Slashdot0902.bin nVtx: 82168 nonzero: 948464 AvgTime: 0.074487 part1V: 25920 part1E: 724663 part2V: 56248 part2E: 223801
+ row_lenght > 20 at iter : 399
+ row_lenght > 20 at iter : 2495
+ row_lenght > 20 at iter : 4806
+ row_lenght > 20 at iter : 399
+ row_lenght > 20 at iter : 2495
+ row_lenght > 20 at iter : 4806
+rowBlockSize : 478last row 0
+subsize : 64
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 8
+filename: soc-Slashdot0902.bin nVtx: 82168 nonzero: 948464 AvgTime: 0.175981 part1V: 11836 part1E: 508492 part2V: 70332 part2E: 439972
+subzie 21440
+number-blocks: 32
+filename: web-BerkStan.bin nVtx: 685230 nonzero: 7600595 AvgTime: 0.174603 part1V: 364480 part1E: 4001184 part2V: 320750 part2E: 3599411
+rowBlockSize : 3742last row 0
+subsize : 64
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 58
+filename: web-BerkStan.bin nVtx: 685230 nonzero: 7600595 AvgTime: 0.291076 part1V: 76400 part1E: 1191252 part2V: 608830 part2E: 6409343
+subzie 28640
+number-blocks: 32
+filename: web-Google.bin nVtx: 916428 nonzero: 5105039 AvgTime: 0.232977 part1V: 458240 part1E: 2560001 part2V: 458188 part2E: 2545038
+rowBlockSize : 2502last row 0
+subsize : 64
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 39
+filename: web-Google.bin nVtx: 916428 nonzero: 5105039 AvgTime: 0.319846 part1V: 94775 part1E: 531074 part2V: 821653 part2E: 4573965
+subzie 10208
+number-blocks: 32
+filename: web-NotreDame.bin nVtx: 325729 nonzero: 1497134 AvgTime: 0.118317 part1V: 193952 part1E: 573216 part2V: 131777 part2E: 923918
+ row_lenght > 20 at iter : 7138
+ row_lenght > 20 at iter : 289126
+ row_lenght > 20 at iter : 289129
+ row_lenght > 20 at iter : 7138
+ row_lenght > 20 at iter : 289126
+ row_lenght > 20 at iter : 289129
+rowBlockSize : 745last row 0
+subsize : 64
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 12
+filename: web-NotreDame.bin nVtx: 325729 nonzero: 1497134 AvgTime: 0.278524 part1V: 177616 part1E: 521624 part2V: 148113 part2E: 975510
+subzie 8832
+number-blocks: 32
+filename: web-Stanford.bin nVtx: 281903 nonzero: 2312497 AvgTime: 0.074013 part1V: 141312 part1E: 1158397 part2V: 140591 part2E: 1154100
+rowBlockSize : 1137last row 0
+subsize : 64
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 18
+filename: web-Stanford.bin nVtx: 281903 nonzero: 2312497 AvgTime: 0.205876 part1V: 65110 part1E: 529916 part2V: 216793 part2E: 1782581
+subzie 74848
+number-blocks: 32
+filename: wiki-Talk.bin nVtx: 2394385 nonzero: 5021410 AvgTime: 0.281989 part1V: 299392 part1E: 4908920 part2V: 2094993 part2E: 112490
+ row_lenght > 20 at iter : 4
+ row_lenght > 20 at iter : 6
+ row_lenght > 20 at iter : 7
+ row_lenght > 20 at iter : 20
+ row_lenght > 20 at iter : 26
+ row_lenght > 20 at iter : 46
+ row_lenght > 20 at iter : 64
+ row_lenght > 20 at iter : 67
+ row_lenght > 20 at iter : 70
+ row_lenght > 20 at iter : 82
+ row_lenght > 20 at iter : 84
+ row_lenght > 20 at iter : 103
+ row_lenght > 20 at iter : 128
+ row_lenght > 20 at iter : 132
+ row_lenght > 20 at iter : 139
+ row_lenght > 20 at iter : 156
+ row_lenght > 20 at iter : 161
+ row_lenght > 20 at iter : 171
+ row_lenght > 20 at iter : 173
+ row_lenght > 20 at iter : 189
+ row_lenght > 20 at iter : 206
+ row_lenght > 20 at iter : 207
+ row_lenght > 20 at iter : 212
+ row_lenght > 20 at iter : 214
+ row_lenght > 20 at iter : 242
+ row_lenght > 20 at iter : 244
+ row_lenght > 20 at iter : 263
+ row_lenght > 20 at iter : 279
+ row_lenght > 20 at iter : 294
+ row_lenght > 20 at iter : 298
+ row_lenght > 20 at iter : 300
+ row_lenght > 20 at iter : 303
+ row_lenght > 20 at iter : 366
+ row_lenght > 20 at iter : 369
+ row_lenght > 20 at iter : 408
+ row_lenght > 20 at iter : 419
+ row_lenght > 20 at iter : 477
+ row_lenght > 20 at iter : 484
+ row_lenght > 20 at iter : 524
+ row_lenght > 20 at iter : 529
+ row_lenght > 20 at iter : 535
+ row_lenght > 20 at iter : 551
+ row_lenght > 20 at iter : 556
+ row_lenght > 20 at iter : 737
+ row_lenght > 20 at iter : 841
+ row_lenght > 20 at iter : 854
+ row_lenght > 20 at iter : 892
+ row_lenght > 20 at iter : 908
+ row_lenght > 20 at iter : 953
+ row_lenght > 20 at iter : 958
+ row_lenght > 20 at iter : 966
+ row_lenght > 20 at iter : 967
+ row_lenght > 20 at iter : 991
+ row_lenght > 20 at iter : 995
+ row_lenght > 20 at iter : 1014
+ row_lenght > 20 at iter : 1022
+ row_lenght > 20 at iter : 1037
+ row_lenght > 20 at iter : 1056
+ row_lenght > 20 at iter : 1067
+ row_lenght > 20 at iter : 1076
+ row_lenght > 20 at iter : 1090
+ row_lenght > 20 at iter : 1102
+ row_lenght > 20 at iter : 1104
+ row_lenght > 20 at iter : 1114
+ row_lenght > 20 at iter : 1118
+ row_lenght > 20 at iter : 1130
+ row_lenght > 20 at iter : 1189
+ row_lenght > 20 at iter : 1191
+ row_lenght > 20 at iter : 1200
+ row_lenght > 20 at iter : 1211
+ row_lenght > 20 at iter : 1233
+ row_lenght > 20 at iter : 1250
+ row_lenght > 20 at iter : 1299
+ row_lenght > 20 at iter : 1305
+ row_lenght > 20 at iter : 1330
+ row_lenght > 20 at iter : 1345
+ row_lenght > 20 at iter : 1383
+ row_lenght > 20 at iter : 1447
+ row_lenght > 20 at iter : 1455
+ row_lenght > 20 at iter : 1483
+ row_lenght > 20 at iter : 1508
+ row_lenght > 20 at iter : 1512
+ row_lenght > 20 at iter : 1528
+ row_lenght > 20 at iter : 1558
+ row_lenght > 20 at iter : 1580
+ row_lenght > 20 at iter : 1592
+ row_lenght > 20 at iter : 1607
+ row_lenght > 20 at iter : 1612
+ row_lenght > 20 at iter : 1618
+ row_lenght > 20 at iter : 1619
+ row_lenght > 20 at iter : 1630
+ row_lenght > 20 at iter : 1645
+ row_lenght > 20 at iter : 1660
+ row_lenght > 20 at iter : 1662
+ row_lenght > 20 at iter : 1683
+ row_lenght > 20 at iter : 1693
+ row_lenght > 20 at iter : 1695
+ row_lenght > 20 at iter : 1699
+ row_lenght > 20 at iter : 1719
+ row_lenght > 20 at iter : 1720
+ row_lenght > 20 at iter : 1721
+ row_lenght > 20 at iter : 1723
+ row_lenght > 20 at iter : 1727
+ row_lenght > 20 at iter : 1732
+ row_lenght > 20 at iter : 1760
+ row_lenght > 20 at iter : 1765
+ row_lenght > 20 at iter : 1792
+ row_lenght > 20 at iter : 1800
+ row_lenght > 20 at iter : 1804
+ row_lenght > 20 at iter : 1807
+ row_lenght > 20 at iter : 1821
+ row_lenght > 20 at iter : 1883
+ row_lenght > 20 at iter : 1894
+ row_lenght > 20 at iter : 1895
+ row_lenght > 20 at iter : 1897
+ row_lenght > 20 at iter : 1901
+ row_lenght > 20 at iter : 1904
+ row_lenght > 20 at iter : 1905
+ row_lenght > 20 at iter : 1912
+ row_lenght > 20 at iter : 1914
+ row_lenght > 20 at iter : 1936
+ row_lenght > 20 at iter : 1963
+ row_lenght > 20 at iter : 1965
+ row_lenght > 20 at iter : 1979
+ row_lenght > 20 at iter : 1981
+ row_lenght > 20 at iter : 1986
+ row_lenght > 20 at iter : 1987
+ row_lenght > 20 at iter : 1988
+ row_lenght > 20 at iter : 2018
+ row_lenght > 20 at iter : 2024
+ row_lenght > 20 at iter : 2032
+ row_lenght > 20 at iter : 2039
+ row_lenght > 20 at iter : 2044
+ row_lenght > 20 at iter : 2046
+ row_lenght > 20 at iter : 2054
+ row_lenght > 20 at iter : 2094
+ row_lenght > 20 at iter : 2143
+ row_lenght > 20 at iter : 2208
+ row_lenght > 20 at iter : 2278
+ row_lenght > 20 at iter : 2298
+ row_lenght > 20 at iter : 2328
+ row_lenght > 20 at iter : 2334
+ row_lenght > 20 at iter : 2346
+ row_lenght > 20 at iter : 2377
+ row_lenght > 20 at iter : 2388
+ row_lenght > 20 at iter : 2391
+ row_lenght > 20 at iter : 2398
+ row_lenght > 20 at iter : 2404
+ row_lenght > 20 at iter : 2407
+ row_lenght > 20 at iter : 2410
+ row_lenght > 20 at iter : 2419
+ row_lenght > 20 at iter : 2420
+ row_lenght > 20 at iter : 2539
+ row_lenght > 20 at iter : 2568
+ row_lenght > 20 at iter : 2569
+ row_lenght > 20 at iter : 2570
+ row_lenght > 20 at iter : 2588
+ row_lenght > 20 at iter : 2599
+ row_lenght > 20 at iter : 2603
+ row_lenght > 20 at iter : 2608
+ row_lenght > 20 at iter : 2622
+ row_lenght > 20 at iter : 2636
+ row_lenght > 20 at iter : 2653
+ row_lenght > 20 at iter : 2655
+ row_lenght > 20 at iter : 2744
+ row_lenght > 20 at iter : 2769
+ row_lenght > 20 at iter : 2776
+ row_lenght > 20 at iter : 2817
+ row_lenght > 20 at iter : 2858
+ row_lenght > 20 at iter : 2872
+ row_lenght > 20 at iter : 2885
+ row_lenght > 20 at iter : 2921
+ row_lenght > 20 at iter : 2926
+ row_lenght > 20 at iter : 2932
+ row_lenght > 20 at iter : 2949
+ row_lenght > 20 at iter : 2957
+ row_lenght > 20 at iter : 3046
+ row_lenght > 20 at iter : 3053
+ row_lenght > 20 at iter : 3059
+ row_lenght > 20 at iter : 3125
+ row_lenght > 20 at iter : 3186
+ row_lenght > 20 at iter : 3216
+ row_lenght > 20 at iter : 3254
+ row_lenght > 20 at iter : 3274
+ row_lenght > 20 at iter : 3278
+ row_lenght > 20 at iter : 3337
+ row_lenght > 20 at iter : 3339
+ row_lenght > 20 at iter : 3355
+ row_lenght > 20 at iter : 3411
+ row_lenght > 20 at iter : 3434
+ row_lenght > 20 at iter : 3444
+ row_lenght > 20 at iter : 3452
+ row_lenght > 20 at iter : 3497
+ row_lenght > 20 at iter : 3505
+ row_lenght > 20 at iter : 3512
+ row_lenght > 20 at iter : 3524
+ row_lenght > 20 at iter : 3526
+ row_lenght > 20 at iter : 3548
+ row_lenght > 20 at iter : 3582
+ row_lenght > 20 at iter : 3589
+ row_lenght > 20 at iter : 3596
+ row_lenght > 20 at iter : 3603
+ row_lenght > 20 at iter : 3628
+ row_lenght > 20 at iter : 3659
+ row_lenght > 20 at iter : 3660
+ row_lenght > 20 at iter : 3691
+ row_lenght > 20 at iter : 3706
+ row_lenght > 20 at iter : 3787
+ row_lenght > 20 at iter : 3796
+ row_lenght > 20 at iter : 3801
+ row_lenght > 20 at iter : 3803
+ row_lenght > 20 at iter : 3806
+ row_lenght > 20 at iter : 3814
+ row_lenght > 20 at iter : 3824
+ row_lenght > 20 at iter : 3826
+ row_lenght > 20 at iter : 3828
+ row_lenght > 20 at iter : 3829
+ row_lenght > 20 at iter : 3857
+ row_lenght > 20 at iter : 3879
+ row_lenght > 20 at iter : 3905
+ row_lenght > 20 at iter : 3990
+ row_lenght > 20 at iter : 4019
+ row_lenght > 20 at iter : 4028
+ row_lenght > 20 at iter : 4046
+ row_lenght > 20 at iter : 4113
+ row_lenght > 20 at iter : 4164
+ row_lenght > 20 at iter : 4198
+ row_lenght > 20 at iter : 4207
+ row_lenght > 20 at iter : 4208
+ row_lenght > 20 at iter : 4277
+ row_lenght > 20 at iter : 4285
+ row_lenght > 20 at iter : 4295
+ row_lenght > 20 at iter : 4313
+ row_lenght > 20 at iter : 4319
+ row_lenght > 20 at iter : 4337
+ row_lenght > 20 at iter : 4340
+ row_lenght > 20 at iter : 4440
+ row_lenght > 20 at iter : 4467
+ row_lenght > 20 at iter : 4552
+ row_lenght > 20 at iter : 4566
+ row_lenght > 20 at iter : 4577
+ row_lenght > 20 at iter : 4601
+ row_lenght > 20 at iter : 4604
+ row_lenght > 20 at iter : 4676
+ row_lenght > 20 at iter : 4691
+ row_lenght > 20 at iter : 4710
+ row_lenght > 20 at iter : 4814
+ row_lenght > 20 at iter : 4839
+ row_lenght > 20 at iter : 4848
+ row_lenght > 20 at iter : 4880
+ row_lenght > 20 at iter : 4936
+ row_lenght > 20 at iter : 4960
+ row_lenght > 20 at iter : 4973
+ row_lenght > 20 at iter : 5001
+ row_lenght > 20 at iter : 5081
+ row_lenght > 20 at iter : 5102
+ row_lenght > 20 at iter : 5127
+ row_lenght > 20 at iter : 5163
+ row_lenght > 20 at iter : 5235
+ row_lenght > 20 at iter : 5274
+ row_lenght > 20 at iter : 5394
+ row_lenght > 20 at iter : 5607
+ row_lenght > 20 at iter : 5726
+ row_lenght > 20 at iter : 5759
+ row_lenght > 20 at iter : 5772
+ row_lenght > 20 at iter : 5781
+ row_lenght > 20 at iter : 5814
+ row_lenght > 20 at iter : 5853
+ row_lenght > 20 at iter : 5861
+ row_lenght > 20 at iter : 5974
+ row_lenght > 20 at iter : 6129
+ row_lenght > 20 at iter : 6240
+ row_lenght > 20 at iter : 6384
+ row_lenght > 20 at iter : 6400
+ row_lenght > 20 at iter : 6554
+ row_lenght > 20 at iter : 6563
+ row_lenght > 20 at iter : 6574
+ row_lenght > 20 at iter : 6587
+ row_lenght > 20 at iter : 6713
+ row_lenght > 20 at iter : 6715
+ row_lenght > 20 at iter : 6716
+ row_lenght > 20 at iter : 6719
+ row_lenght > 20 at iter : 6733
+ row_lenght > 20 at iter : 6778
+ row_lenght > 20 at iter : 6829
+ row_lenght > 20 at iter : 6909
+ row_lenght > 20 at iter : 7032
+ row_lenght > 20 at iter : 7098
+ row_lenght > 20 at iter : 7172
+ row_lenght > 20 at iter : 7285
+ row_lenght > 20 at iter : 7301
+ row_lenght > 20 at iter : 7304
+ row_lenght > 20 at iter : 7308
+ row_lenght > 20 at iter : 7319
+ row_lenght > 20 at iter : 7327
+ row_lenght > 20 at iter : 7369
+ row_lenght > 20 at iter : 7425
+ row_lenght > 20 at iter : 7439
+ row_lenght > 20 at iter : 7446
+ row_lenght > 20 at iter : 7453
+ row_lenght > 20 at iter : 7561
+ row_lenght > 20 at iter : 7606
+ row_lenght > 20 at iter : 7757
+ row_lenght > 20 at iter : 7813
+ row_lenght > 20 at iter : 7903
+ row_lenght > 20 at iter : 7905
+ row_lenght > 20 at iter : 8047
+ row_lenght > 20 at iter : 8057
+ row_lenght > 20 at iter : 8104
+ row_lenght > 20 at iter : 8106
+ row_lenght > 20 at iter : 8119
+ row_lenght > 20 at iter : 8137
+ row_lenght > 20 at iter : 8276
+ row_lenght > 20 at iter : 8372
+ row_lenght > 20 at iter : 8432
+ row_lenght > 20 at iter : 8482
+ row_lenght > 20 at iter : 8540
+ row_lenght > 20 at iter : 8616
+ row_lenght > 20 at iter : 8619
+ row_lenght > 20 at iter : 8644
+ row_lenght > 20 at iter : 8721
+ row_lenght > 20 at iter : 8753
+ row_lenght > 20 at iter : 8773
+ row_lenght > 20 at iter : 8801
+ row_lenght > 20 at iter : 8868
+ row_lenght > 20 at iter : 8966
+ row_lenght > 20 at iter : 8998
+ row_lenght > 20 at iter : 9024
+ row_lenght > 20 at iter : 9129
+ row_lenght > 20 at iter : 9276
+ row_lenght > 20 at iter : 9284
+ row_lenght > 20 at iter : 9390
+ row_lenght > 20 at iter : 9434
+ row_lenght > 20 at iter : 9461
+ row_lenght > 20 at iter : 9484
+ row_lenght > 20 at iter : 9739
+ row_lenght > 20 at iter : 10025
+ row_lenght > 20 at iter : 10156
+ row_lenght > 20 at iter : 10438
+ row_lenght > 20 at iter : 10454
+ row_lenght > 20 at iter : 10461
+ row_lenght > 20 at iter : 10874
+ row_lenght > 20 at iter : 10903
+ row_lenght > 20 at iter : 10912
+ row_lenght > 20 at iter : 11110
+ row_lenght > 20 at iter : 11268
+ row_lenght > 20 at iter : 11351
+ row_lenght > 20 at iter : 11690
+ row_lenght > 20 at iter : 11728
+ row_lenght > 20 at iter : 11729
+ row_lenght > 20 at iter : 11752
+ row_lenght > 20 at iter : 11853
+ row_lenght > 20 at iter : 11935
+ row_lenght > 20 at iter : 12089
+ row_lenght > 20 at iter : 12118
+ row_lenght > 20 at iter : 12121
+ row_lenght > 20 at iter : 12123
+ row_lenght > 20 at iter : 12148
+ row_lenght > 20 at iter : 12314
+ row_lenght > 20 at iter : 12514
+ row_lenght > 20 at iter : 12763
+ row_lenght > 20 at iter : 12921
+ row_lenght > 20 at iter : 12927
+ row_lenght > 20 at iter : 13061
+ row_lenght > 20 at iter : 13125
+ row_lenght > 20 at iter : 13132
+ row_lenght > 20 at iter : 13177
+ row_lenght > 20 at iter : 13178
+ row_lenght > 20 at iter : 13179
+ row_lenght > 20 at iter : 13322
+ row_lenght > 20 at iter : 13549
+ row_lenght > 20 at iter : 13613
+ row_lenght > 20 at iter : 13676
+ row_lenght > 20 at iter : 13772
+ row_lenght > 20 at iter : 13814
+ row_lenght > 20 at iter : 13860
+ row_lenght > 20 at iter : 13946
+ row_lenght > 20 at iter : 13986
+ row_lenght > 20 at iter : 14184
+ row_lenght > 20 at iter : 14250
+ row_lenght > 20 at iter : 14290
+ row_lenght > 20 at iter : 14430
+ row_lenght > 20 at iter : 14508
+ row_lenght > 20 at iter : 14592
+ row_lenght > 20 at iter : 15112
+ row_lenght > 20 at iter : 15195
+ row_lenght > 20 at iter : 15199
+ row_lenght > 20 at iter : 15229
+ row_lenght > 20 at iter : 15378
+ row_lenght > 20 at iter : 15938
+ row_lenght > 20 at iter : 15942
+ row_lenght > 20 at iter : 15987
+ row_lenght > 20 at iter : 15988
+ row_lenght > 20 at iter : 16107
+ row_lenght > 20 at iter : 16527
+ row_lenght > 20 at iter : 16528
+ row_lenght > 20 at iter : 16588
+ row_lenght > 20 at iter : 16802
+ row_lenght > 20 at iter : 16923
+ row_lenght > 20 at iter : 16997
+ row_lenght > 20 at iter : 17002
+ row_lenght > 20 at iter : 18130
+ row_lenght > 20 at iter : 18253
+ row_lenght > 20 at iter : 19391
+ row_lenght > 20 at iter : 19689
+ row_lenght > 20 at iter : 20020
+ row_lenght > 20 at iter : 21361
+ row_lenght > 20 at iter : 23801
+ row_lenght > 20 at iter : 24154
+ row_lenght > 20 at iter : 24157
+ row_lenght > 20 at iter : 24493
+ row_lenght > 20 at iter : 24762
+ row_lenght > 20 at iter : 24804
+ row_lenght > 20 at iter : 24817
+ row_lenght > 20 at iter : 28092
+ row_lenght > 20 at iter : 29333
+ row_lenght > 20 at iter : 36835
+ row_lenght > 20 at iter : 38569
+ row_lenght > 20 at iter : 39580
+ row_lenght > 20 at iter : 4
+ row_lenght > 20 at iter : 6
+ row_lenght > 20 at iter : 7
+ row_lenght > 20 at iter : 20
+ row_lenght > 20 at iter : 26
+ row_lenght > 20 at iter : 46
+ row_lenght > 20 at iter : 64
+ row_lenght > 20 at iter : 67
+ row_lenght > 20 at iter : 70
+ row_lenght > 20 at iter : 82
+ row_lenght > 20 at iter : 84
+ row_lenght > 20 at iter : 103
+ row_lenght > 20 at iter : 128
+ row_lenght > 20 at iter : 132
+ row_lenght > 20 at iter : 139
+ row_lenght > 20 at iter : 156
+ row_lenght > 20 at iter : 161
+ row_lenght > 20 at iter : 171
+ row_lenght > 20 at iter : 173
+ row_lenght > 20 at iter : 189
+ row_lenght > 20 at iter : 206
+ row_lenght > 20 at iter : 207
+ row_lenght > 20 at iter : 212
+ row_lenght > 20 at iter : 214
+ row_lenght > 20 at iter : 242
+ row_lenght > 20 at iter : 244
+ row_lenght > 20 at iter : 263
+ row_lenght > 20 at iter : 279
+ row_lenght > 20 at iter : 294
+ row_lenght > 20 at iter : 298
+ row_lenght > 20 at iter : 300
+ row_lenght > 20 at iter : 303
+ row_lenght > 20 at iter : 366
+ row_lenght > 20 at iter : 369
+ row_lenght > 20 at iter : 408
+ row_lenght > 20 at iter : 419
+ row_lenght > 20 at iter : 477
+ row_lenght > 20 at iter : 484
+ row_lenght > 20 at iter : 524
+ row_lenght > 20 at iter : 529
+ row_lenght > 20 at iter : 535
+ row_lenght > 20 at iter : 551
+ row_lenght > 20 at iter : 556
+ row_lenght > 20 at iter : 737
+ row_lenght > 20 at iter : 841
+ row_lenght > 20 at iter : 854
+ row_lenght > 20 at iter : 892
+ row_lenght > 20 at iter : 908
+ row_lenght > 20 at iter : 953
+ row_lenght > 20 at iter : 958
+ row_lenght > 20 at iter : 966
+ row_lenght > 20 at iter : 967
+ row_lenght > 20 at iter : 991
+ row_lenght > 20 at iter : 995
+ row_lenght > 20 at iter : 1014
+ row_lenght > 20 at iter : 1022
+ row_lenght > 20 at iter : 1037
+ row_lenght > 20 at iter : 1056
+ row_lenght > 20 at iter : 1067
+ row_lenght > 20 at iter : 1076
+ row_lenght > 20 at iter : 1090
+ row_lenght > 20 at iter : 1102
+ row_lenght > 20 at iter : 1104
+ row_lenght > 20 at iter : 1114
+ row_lenght > 20 at iter : 1118
+ row_lenght > 20 at iter : 1130
+ row_lenght > 20 at iter : 1189
+ row_lenght > 20 at iter : 1191
+ row_lenght > 20 at iter : 1200
+ row_lenght > 20 at iter : 1211
+ row_lenght > 20 at iter : 1233
+ row_lenght > 20 at iter : 1250
+ row_lenght > 20 at iter : 1299
+ row_lenght > 20 at iter : 1305
+ row_lenght > 20 at iter : 1330
+ row_lenght > 20 at iter : 1345
+ row_lenght > 20 at iter : 1383
+ row_lenght > 20 at iter : 1447
+ row_lenght > 20 at iter : 1455
+ row_lenght > 20 at iter : 1483
+ row_lenght > 20 at iter : 1508
+ row_lenght > 20 at iter : 1512
+ row_lenght > 20 at iter : 1528
+ row_lenght > 20 at iter : 1558
+ row_lenght > 20 at iter : 1580
+ row_lenght > 20 at iter : 1592
+ row_lenght > 20 at iter : 1607
+ row_lenght > 20 at iter : 1612
+ row_lenght > 20 at iter : 1618
+ row_lenght > 20 at iter : 1619
+ row_lenght > 20 at iter : 1630
+ row_lenght > 20 at iter : 1645
+ row_lenght > 20 at iter : 1660
+ row_lenght > 20 at iter : 1662
+ row_lenght > 20 at iter : 1683
+ row_lenght > 20 at iter : 1693
+ row_lenght > 20 at iter : 1695
+ row_lenght > 20 at iter : 1699
+ row_lenght > 20 at iter : 1719
+ row_lenght > 20 at iter : 1720
+ row_lenght > 20 at iter : 1721
+ row_lenght > 20 at iter : 1723
+ row_lenght > 20 at iter : 1727
+ row_lenght > 20 at iter : 1732
+ row_lenght > 20 at iter : 1760
+ row_lenght > 20 at iter : 1765
+ row_lenght > 20 at iter : 1792
+ row_lenght > 20 at iter : 1800
+ row_lenght > 20 at iter : 1804
+ row_lenght > 20 at iter : 1807
+ row_lenght > 20 at iter : 1821
+ row_lenght > 20 at iter : 1883
+ row_lenght > 20 at iter : 1894
+ row_lenght > 20 at iter : 1895
+ row_lenght > 20 at iter : 1897
+ row_lenght > 20 at iter : 1901
+ row_lenght > 20 at iter : 1904
+ row_lenght > 20 at iter : 1905
+ row_lenght > 20 at iter : 1912
+ row_lenght > 20 at iter : 1914
+ row_lenght > 20 at iter : 1936
+ row_lenght > 20 at iter : 1963
+ row_lenght > 20 at iter : 1965
+ row_lenght > 20 at iter : 1979
+ row_lenght > 20 at iter : 1981
+ row_lenght > 20 at iter : 1986
+ row_lenght > 20 at iter : 1987
+ row_lenght > 20 at iter : 1988
+ row_lenght > 20 at iter : 2018
+ row_lenght > 20 at iter : 2024
+ row_lenght > 20 at iter : 2032
+ row_lenght > 20 at iter : 2039
+ row_lenght > 20 at iter : 2044
+ row_lenght > 20 at iter : 2046
+ row_lenght > 20 at iter : 2054
+ row_lenght > 20 at iter : 2094
+ row_lenght > 20 at iter : 2143
+ row_lenght > 20 at iter : 2208
+ row_lenght > 20 at iter : 2278
+ row_lenght > 20 at iter : 2298
+ row_lenght > 20 at iter : 2328
+ row_lenght > 20 at iter : 2334
+ row_lenght > 20 at iter : 2346
+ row_lenght > 20 at iter : 2377
+ row_lenght > 20 at iter : 2388
+ row_lenght > 20 at iter : 2391
+ row_lenght > 20 at iter : 2398
+ row_lenght > 20 at iter : 2404
+ row_lenght > 20 at iter : 2407
+ row_lenght > 20 at iter : 2410
+ row_lenght > 20 at iter : 2419
+ row_lenght > 20 at iter : 2420
+ row_lenght > 20 at iter : 2539
+ row_lenght > 20 at iter : 2568
+ row_lenght > 20 at iter : 2569
+ row_lenght > 20 at iter : 2570
+ row_lenght > 20 at iter : 2588
+ row_lenght > 20 at iter : 2599
+ row_lenght > 20 at iter : 2603
+ row_lenght > 20 at iter : 2608
+ row_lenght > 20 at iter : 2622
+ row_lenght > 20 at iter : 2636
+ row_lenght > 20 at iter : 2653
+ row_lenght > 20 at iter : 2655
+ row_lenght > 20 at iter : 2744
+ row_lenght > 20 at iter : 2769
+ row_lenght > 20 at iter : 2776
+ row_lenght > 20 at iter : 2817
+ row_lenght > 20 at iter : 2858
+ row_lenght > 20 at iter : 2872
+ row_lenght > 20 at iter : 2885
+ row_lenght > 20 at iter : 2921
+ row_lenght > 20 at iter : 2926
+ row_lenght > 20 at iter : 2932
+ row_lenght > 20 at iter : 2949
+ row_lenght > 20 at iter : 2957
+ row_lenght > 20 at iter : 3046
+ row_lenght > 20 at iter : 3053
+ row_lenght > 20 at iter : 3059
+ row_lenght > 20 at iter : 3125
+ row_lenght > 20 at iter : 3186
+ row_lenght > 20 at iter : 3216
+ row_lenght > 20 at iter : 3254
+ row_lenght > 20 at iter : 3274
+ row_lenght > 20 at iter : 3278
+ row_lenght > 20 at iter : 3337
+ row_lenght > 20 at iter : 3339
+ row_lenght > 20 at iter : 3355
+ row_lenght > 20 at iter : 3411
+ row_lenght > 20 at iter : 3434
+ row_lenght > 20 at iter : 3444
+ row_lenght > 20 at iter : 3452
+ row_lenght > 20 at iter : 3497
+ row_lenght > 20 at iter : 3505
+ row_lenght > 20 at iter : 3512
+ row_lenght > 20 at iter : 3524
+ row_lenght > 20 at iter : 3526
+ row_lenght > 20 at iter : 3548
+ row_lenght > 20 at iter : 3582
+ row_lenght > 20 at iter : 3589
+ row_lenght > 20 at iter : 3596
+ row_lenght > 20 at iter : 3603
+ row_lenght > 20 at iter : 3628
+ row_lenght > 20 at iter : 3659
+ row_lenght > 20 at iter : 3660
+ row_lenght > 20 at iter : 3691
+ row_lenght > 20 at iter : 3706
+ row_lenght > 20 at iter : 3787
+ row_lenght > 20 at iter : 3796
+ row_lenght > 20 at iter : 3801
+ row_lenght > 20 at iter : 3803
+ row_lenght > 20 at iter : 3806
+ row_lenght > 20 at iter : 3814
+ row_lenght > 20 at iter : 3824
+ row_lenght > 20 at iter : 3826
+ row_lenght > 20 at iter : 3828
+ row_lenght > 20 at iter : 3829
+ row_lenght > 20 at iter : 3857
+ row_lenght > 20 at iter : 3879
+ row_lenght > 20 at iter : 3905
+ row_lenght > 20 at iter : 3990
+ row_lenght > 20 at iter : 4019
+ row_lenght > 20 at iter : 4028
+ row_lenght > 20 at iter : 4046
+ row_lenght > 20 at iter : 4113
+ row_lenght > 20 at iter : 4164
+ row_lenght > 20 at iter : 4198
+ row_lenght > 20 at iter : 4207
+ row_lenght > 20 at iter : 4208
+ row_lenght > 20 at iter : 4277
+ row_lenght > 20 at iter : 4285
+ row_lenght > 20 at iter : 4295
+ row_lenght > 20 at iter : 4313
+ row_lenght > 20 at iter : 4319
+ row_lenght > 20 at iter : 4337
+ row_lenght > 20 at iter : 4340
+ row_lenght > 20 at iter : 4440
+ row_lenght > 20 at iter : 4467
+ row_lenght > 20 at iter : 4552
+ row_lenght > 20 at iter : 4566
+ row_lenght > 20 at iter : 4577
+ row_lenght > 20 at iter : 4601
+ row_lenght > 20 at iter : 4604
+ row_lenght > 20 at iter : 4676
+ row_lenght > 20 at iter : 4691
+ row_lenght > 20 at iter : 4710
+ row_lenght > 20 at iter : 4814
+ row_lenght > 20 at iter : 4839
+ row_lenght > 20 at iter : 4848
+ row_lenght > 20 at iter : 4880
+ row_lenght > 20 at iter : 4936
+ row_lenght > 20 at iter : 4960
+ row_lenght > 20 at iter : 4973
+ row_lenght > 20 at iter : 5001
+ row_lenght > 20 at iter : 5081
+ row_lenght > 20 at iter : 5102
+ row_lenght > 20 at iter : 5127
+ row_lenght > 20 at iter : 5163
+ row_lenght > 20 at iter : 5235
+ row_lenght > 20 at iter : 5274
+ row_lenght > 20 at iter : 5394
+ row_lenght > 20 at iter : 5607
+ row_lenght > 20 at iter : 5726
+ row_lenght > 20 at iter : 5759
+ row_lenght > 20 at iter : 5772
+ row_lenght > 20 at iter : 5781
+ row_lenght > 20 at iter : 5814
+ row_lenght > 20 at iter : 5853
+ row_lenght > 20 at iter : 5861
+ row_lenght > 20 at iter : 5974
+ row_lenght > 20 at iter : 6129
+ row_lenght > 20 at iter : 6240
+ row_lenght > 20 at iter : 6384
+ row_lenght > 20 at iter : 6400
+ row_lenght > 20 at iter : 6554
+ row_lenght > 20 at iter : 6563
+ row_lenght > 20 at iter : 6574
+ row_lenght > 20 at iter : 6587
+ row_lenght > 20 at iter : 6713
+ row_lenght > 20 at iter : 6715
+ row_lenght > 20 at iter : 6716
+ row_lenght > 20 at iter : 6719
+ row_lenght > 20 at iter : 6733
+ row_lenght > 20 at iter : 6778
+ row_lenght > 20 at iter : 6829
+ row_lenght > 20 at iter : 6909
+ row_lenght > 20 at iter : 7032
+ row_lenght > 20 at iter : 7098
+ row_lenght > 20 at iter : 7172
+ row_lenght > 20 at iter : 7285
+ row_lenght > 20 at iter : 7301
+ row_lenght > 20 at iter : 7304
+ row_lenght > 20 at iter : 7308
+ row_lenght > 20 at iter : 7319
+ row_lenght > 20 at iter : 7327
+ row_lenght > 20 at iter : 7369
+ row_lenght > 20 at iter : 7425
+ row_lenght > 20 at iter : 7439
+ row_lenght > 20 at iter : 7446
+ row_lenght > 20 at iter : 7453
+ row_lenght > 20 at iter : 7561
+ row_lenght > 20 at iter : 7606
+ row_lenght > 20 at iter : 7757
+ row_lenght > 20 at iter : 7813
+ row_lenght > 20 at iter : 7903
+ row_lenght > 20 at iter : 7905
+ row_lenght > 20 at iter : 8047
+ row_lenght > 20 at iter : 8057
+ row_lenght > 20 at iter : 8104
+ row_lenght > 20 at iter : 8106
+ row_lenght > 20 at iter : 8119
+ row_lenght > 20 at iter : 8137
+ row_lenght > 20 at iter : 8276
+ row_lenght > 20 at iter : 8372
+ row_lenght > 20 at iter : 8432
+ row_lenght > 20 at iter : 8482
+ row_lenght > 20 at iter : 8540
+ row_lenght > 20 at iter : 8616
+ row_lenght > 20 at iter : 8619
+ row_lenght > 20 at iter : 8644
+ row_lenght > 20 at iter : 8721
+ row_lenght > 20 at iter : 8753
+ row_lenght > 20 at iter : 8773
+ row_lenght > 20 at iter : 8801
+ row_lenght > 20 at iter : 8868
+ row_lenght > 20 at iter : 8966
+ row_lenght > 20 at iter : 8998
+ row_lenght > 20 at iter : 9024
+ row_lenght > 20 at iter : 9129
+ row_lenght > 20 at iter : 9276
+ row_lenght > 20 at iter : 9284
+ row_lenght > 20 at iter : 9390
+ row_lenght > 20 at iter : 9434
+ row_lenght > 20 at iter : 9461
+ row_lenght > 20 at iter : 9484
+ row_lenght > 20 at iter : 9739
+ row_lenght > 20 at iter : 10025
+ row_lenght > 20 at iter : 10156
+ row_lenght > 20 at iter : 10438
+ row_lenght > 20 at iter : 10454
+ row_lenght > 20 at iter : 10461
+ row_lenght > 20 at iter : 10874
+ row_lenght > 20 at iter : 10903
+ row_lenght > 20 at iter : 10912
+ row_lenght > 20 at iter : 11110
+ row_lenght > 20 at iter : 11268
+ row_lenght > 20 at iter : 11351
+ row_lenght > 20 at iter : 11690
+ row_lenght > 20 at iter : 11728
+ row_lenght > 20 at iter : 11729
+ row_lenght > 20 at iter : 11752
+ row_lenght > 20 at iter : 11853
+ row_lenght > 20 at iter : 11935
+ row_lenght > 20 at iter : 12089
+ row_lenght > 20 at iter : 12118
+ row_lenght > 20 at iter : 12121
+ row_lenght > 20 at iter : 12123
+ row_lenght > 20 at iter : 12148
+ row_lenght > 20 at iter : 12314
+ row_lenght > 20 at iter : 12514
+ row_lenght > 20 at iter : 12763
+ row_lenght > 20 at iter : 12921
+ row_lenght > 20 at iter : 12927
+ row_lenght > 20 at iter : 13061
+ row_lenght > 20 at iter : 13125
+ row_lenght > 20 at iter : 13132
+ row_lenght > 20 at iter : 13177
+ row_lenght > 20 at iter : 13178
+ row_lenght > 20 at iter : 13179
+ row_lenght > 20 at iter : 13322
+ row_lenght > 20 at iter : 13549
+ row_lenght > 20 at iter : 13613
+ row_lenght > 20 at iter : 13676
+ row_lenght > 20 at iter : 13772
+ row_lenght > 20 at iter : 13814
+ row_lenght > 20 at iter : 13860
+ row_lenght > 20 at iter : 13946
+ row_lenght > 20 at iter : 13986
+ row_lenght > 20 at iter : 14184
+ row_lenght > 20 at iter : 14250
+ row_lenght > 20 at iter : 14290
+ row_lenght > 20 at iter : 14430
+ row_lenght > 20 at iter : 14508
+ row_lenght > 20 at iter : 14592
+ row_lenght > 20 at iter : 15112
+ row_lenght > 20 at iter : 15195
+ row_lenght > 20 at iter : 15199
+ row_lenght > 20 at iter : 15229
+ row_lenght > 20 at iter : 15378
+ row_lenght > 20 at iter : 15938
+ row_lenght > 20 at iter : 15942
+ row_lenght > 20 at iter : 15987
+ row_lenght > 20 at iter : 15988
+ row_lenght > 20 at iter : 16107
+ row_lenght > 20 at iter : 16527
+ row_lenght > 20 at iter : 16528
+ row_lenght > 20 at iter : 16588
+ row_lenght > 20 at iter : 16802
+ row_lenght > 20 at iter : 16923
+ row_lenght > 20 at iter : 16997
+ row_lenght > 20 at iter : 17002
+ row_lenght > 20 at iter : 18130
+ row_lenght > 20 at iter : 18253
+ row_lenght > 20 at iter : 19391
+ row_lenght > 20 at iter : 19689
+ row_lenght > 20 at iter : 20020
+ row_lenght > 20 at iter : 21361
+ row_lenght > 20 at iter : 23801
+ row_lenght > 20 at iter : 24154
+ row_lenght > 20 at iter : 24157
+ row_lenght > 20 at iter : 24493
+ row_lenght > 20 at iter : 24762
+ row_lenght > 20 at iter : 24804
+ row_lenght > 20 at iter : 24817
+ row_lenght > 20 at iter : 28092
+ row_lenght > 20 at iter : 29333
+ row_lenght > 20 at iter : 36835
+ row_lenght > 20 at iter : 38569
+ row_lenght > 20 at iter : 39580
+rowBlockSize : 2472last row 0
+subsize : 64
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 39
+filename: wiki-Talk.bin nVtx: 2394385 nonzero: 5021410 AvgTime: 0.33355 part1V: 19097 part1E: 3901696 part2V: 2375288 part2E: 1119714
+subzie 288
+number-blocks: 29
+filename: wiki-Vote.bin nVtx: 8297 nonzero: 103689 AvgTime: 0.05251 part1V: 4032 part1E: 73464 part2V: 4265 part2E: 30225
+rowBlockSize : 54last row 0
+subsize : 0
+start creat stream 
+end creat stream 
+start split task 
+fin split task 
+nb_tasks 55
+filename: wiki-Vote.bin nVtx: 8297 nonzero: 103689 AvgTime: 0.199038 part1V: 172 part1E: 8246 part2V: 8125 part2E: 95443

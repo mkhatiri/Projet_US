@@ -1,0 +1,1000 @@
+  682  vi r
+  683  vi AdaptativeUtils.cu 
+  684  vi r
+  685  vi AdaptativeUtils.cu 
+  686  MODE=nvcc OPT=yes make -e new-cuda-adaptative-test 
+  687  NBBLOCK=8 NBSTREAM=2 ./new-cuda-adaptative-test /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+  688  vi AdaptativeUtils.cu 
+  689  ps -fux
+  690  kill -9 18735 18003
+  691  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+  692  vi AdaptativeUtils.cu 
+  693  MODE=nvcc OPT=yes make -e new-cuda-adaptative-test 
+  694  NBBLOCK=8 NBSTREAM=2 ./new-cuda-adaptative-test /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+  695  NBBLOCK=8 NBSTREAM=2 ./new-cuda-adaptative-test /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin > r
+  696  vi r
+  697  vi AdaptativeUtils.cu 
+  698  vi new-cuda-adaptative-test
+  699  vi new-cuda-adaptative-test.cu 
+  700  MODE=nvcc OPT=yes make -e new-cuda-adaptative-test 
+  701  logout 
+  702  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+  703  htop
+  704  NBBLOCK=8 NBSTREAM=2 ./new-cuda-adaptative-test /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin 
+  705  NBBLOCK=8 NBSTREAM=2 ./new-cuda-adaptative-test /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin > r
+  706  vi r
+  707  NBBLOCK=8 NBSTREAM=2 ./new-cuda-adaptative-test /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin > r
+  708  vi r
+  709  NBBLOCK=8 NBSTREAM=2 ./new-cuda-adaptative-test /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin > r
+  710  vi r
+  711  vi new-cuda-adaptative-test.cu 
+  712  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+  713  vi AdaptativeUtils.cu 
+  714  vi AdaptativeUtils.hpp 
+  715  MODE=nvcc OPT=yes make -e new-cuda-adaptative-test 
+  716  make clean 
+  717  MODE=nvcc OPT=yes make -e new-cuda-adaptative-test 
+  718  vi new-cuda-adaptative-test.cu 
+  719  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+  720  htop 
+  721  ps -fu
+  722  ps -fux
+  723  kill -9 20380 20145 20078
+  724  NBBLOCK=8 NBSTREAM=2 ./new-cuda-adaptative-test /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+  725  NBBLOCK=8 NBSTREAM=2 ./new-cuda-adaptative-test /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin > r
+  726  vi r
+  727  vi new-cuda-adaptative-test.cu 
+  728  MODE=nvcc OPT=yes make -e new-cuda-adaptative-test 
+  729  NBBLOCK=8 NBSTREAM=2 ./new-cuda-adaptative-test /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin > r
+  730  vi r
+  731  ./new-cuda-adaptative-test /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin > r
+  732  vi r
+  733  vi Adaptative_Kernal.cu 
+  734  vi AdaptativeUtils.cu 
+  735  ls
+  736  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+  737  vi AdaptativeUtils.cu 
+  738  vi r
+  739  vi new-cuda-adaptative-test.cu 
+  740  MODE=nvcc OPT=yes make -e new-cuda-adaptative-test 
+  741  NBBLOCK=8 NBSTREAM=2 ./new-cuda-adaptative-test /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin > r
+  742  vi r
+  743  vi AdaptativeUtils.cu 
+  744  vi streamUtils.cpp 
+  745  vi AdaptativeUtils.cu 
+  746  vi AdaptativeUtils.hpp 
+  747  vi AdaptativeUtils.cu 
+  748  vi AdaptativeUtils.hpp 
+  749  vi AdaptativeUtils.cu 
+  750  vi AdaptativeUtils.hpp 
+  751  MODE=nvcc OPT=yes make -e new-cuda-adaptative-test 
+  752  vi AdaptativeUtils.hpp 
+  753  MODE=nvcc OPT=yes make -e new-cuda-adaptative-test 
+  754  vi AdaptativeUtils.hpp 
+  755  vi AdaptativeUtils.cu 
+  756  MODE=nvcc OPT=yes make -e new-cuda-adaptative-test 
+  757  vi AdaptativeUtils.cu 
+  758  MODE=nvcc OPT=yes make -e new-cuda-adaptative-test 
+  759  vi AdaptativeUtils.cu 
+  760  MODE=nvcc OPT=yes make -e new-cuda-adaptative-test 
+  761  vi AdaptativeUtils.cu 
+  762  vi AdaptativeUtils.hpp 
+  763  ps -fux
+  764  kill -9 21570 21136 20794 20447
+  765  vi AdaptativeUtils.hpp 
+  766  MODE=nvcc OPT=yes make -e new-cuda-adaptative-test 
+  767  make clean 
+  768  MODE=nvcc OPT=yes make -e new-cuda-adaptative-test 
+  769  vi AdaptativeUtils.hpp 
+  770  vi makefile
+  771  MODE=nvcc OPT=yes make -e new-cuda-adaptative-test 
+  772  vi AdaptativeUtils.hpp 
+  773  MODE=nvcc OPT=yes make -e new-cuda-adaptative-test 
+  774  vi AdaptativeUtils.hpp 
+  775  vi AdaptativeUtils.cu 
+  776  vi new-cuda-adaptative-test.cu 
+  777  MODE=nvcc OPT=yes make -e new-cuda-adaptative-test 
+  778  vi AdaptativeUtils.hpp 
+  779  vi AdaptativeUtils.cu 
+  780  vi AdaptativeUtils.hpp 
+  781  MODE=nvcc OPT=yes make -e new-cuda-adaptative-test 
+  782  vi new-cuda-adaptative-test.cu 
+  783  MODE=nvcc OPT=yes make -e new-cuda-adaptative-test 
+  784  ./new-cuda-adaptative-test /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin > r
+  785  vi r
+  786  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+  787  ls
+  788  MODE=nvcc OPT=yes make -e new-cuda-adaptative-test 
+  789  vi new-cuda-adaptative-test
+  790  vi new-cuda-adaptative-test.cu 
+  791  logout 
+  792  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+  793  vi new-cuda-adaptative-test.cu 
+  794  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+  795  MODE=nvcc OPT=yes make -e new-cuda-adaptative-test 
+  796  vi AdaptativeUtils.hpp 
+  797  MODE=nvcc OPT=yes make -e new-cuda-adaptative-test 
+  798  ./new-cuda-adaptative-test /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin > r
+  799  ./new-cuda-adaptative-test /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+  800  MODE=nvcc OPT=yes make -e new-cuda-adaptative-test 
+  801  ./new-cuda-adaptative-test /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+  802  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+  803  vi AdaptativeUtils.cu 
+  804  vi AdaptativeUtils.hpp 
+  805  vi AdaptativeUtils.cu 
+  806  vi AdaptativeUtils.hpp 
+  807  vi new-cuda-lightspmv-pr.cu 
+  808  vi AdaptativeUtils.cu 
+  809  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+  810  ./new-cuda-adaptative-test /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+  811  vi AdaptativeUtils.cu 
+  812  ./new-cuda-adaptative-test /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+  813  ./new-cuda-adaptative-test /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin > r
+  814  vi r
+  815  vi AdaptativeUtils.cu 
+  816  vi AdaptativeUtils.hpp 
+  817  ./new-cuda-adaptative-test /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin > r
+  818  vi r
+  819  ./new-cuda-adaptative-test /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin > r
+  820  vi r
+  821  vi streamUtils.cpp 
+  822  vi streamUtils.hpp 
+  823  vi streamUtils.cpp 
+  824  ./new-cuda-adaptative-test /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin > r
+  825  vi r
+  826  logout 
+  827  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+  828  MODE=nvcc OPT=yes make -e new-cuda-adaptative-test 
+  829  logout 
+  830  ps -fux
+  831  ps -fux
+  832  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+  833  vi new-cuda-adaptative-test.cu 
+  834  vi AdaptativeUtils.cu 
+  835  logout 
+  836  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+  837  vi new-cuda-adaptative-test.cu 
+  838  exit
+  839  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+  840  la
+  841  cp new-cuda-adaptative.cu cuda-adaptative.cu 
+  842  cp new-cuda-adaptative-2gpus.cu cuda-adaptative-2gpus.cu 
+  843  git add cuda-adaptative.cu cuda-adaptative-2gpus.cu 
+  844  git commit -m " update name of new-cuda-adaptative.cu and new-cuda-asaptative-2gpus.cu  to cuda-adaptative.cu and cuda-asaptative-2gpus.cu "
+  845  vi makefile
+  846  git add makefile 
+  847  git add AdaptativeUtils.cu AdaptativeUtils.hpp 
+  848  git commit -m " update makefile, AdaptativeUtils "
+  849  vi new-cuda-adaptative.cu 
+  850  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+  851  vi streamUtils.cpp 
+  852  vi streamUtils.hpp 
+  853  vi streamUtils.cpp 
+  854  vi streamUtils.hpp 
+  855  vi streamUtils.cpp 
+  856  vi 
+  857  vi /home/mkhatiri/perso/src/add_vc_bl_1gpus.cu 
+  858  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+  859  vi new-cuda-pr-2gpus.cpp 
+  860  vi new-cuda-pr.cpp 
+  861  vi new-cuda-pr-2gpus.cpp 
+  862  vi new-cuda-adaptative-test.cu 
+  863  vi AdaptativeUtils.hpp 
+  864  MODE=nvcc OPT=yes make -e new-cuda-adaptative 
+  865  vi new-cuda-pr.cpp 
+  866  MODE=nvcc OPT=yes make -e new-cuda-adaptative 
+  867  vi makefile
+  868  MODE=nvcc OPT=yes make -e new-cuda-adaptative 
+  869  vi makefile
+  870  MODE=nvcc OPT=yes make -e new-cuda-adaptative 
+  871  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+  872  MODE=nvcc OPT=yes make -e new-cuda-adaptative 
+  873  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+  874  vi new-cuda-pr.cpp 
+  875  MODE=nvcc OPT=yes make -e new-cuda-adaptative 
+  876  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+  877  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+  878  NBTHREAD=128 BLKSIZE=2048 ./cuda-adaptative /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+  879  MODE=nvcc OPT=yes make -e cuda-adaptative 
+  880  NBTHREAD=128 BLKSIZE=2048 ./cuda-adaptative /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+  881  vi makefile
+  882  MODE=nvcc OPT=yes make -e cuda-adaptative 
+  883  vi cuda-adaptative.cu 
+  884  MODE=nvcc OPT=yes make -e cuda-adaptative 
+  885  NBTHREAD=128 BLKSIZE=2048 ./cuda-adaptative /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+  886  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+  887  vi new-cuda-adaptative-test.cu 
+  888  MODE=nvcc OPT=yes make -e new-cuda-adaptative 
+  889  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin > r
+  890  vi r
+  891  MODE=nvcc OPT=yes make -e new-cuda-adaptative 
+  892  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin > r
+  893  NBTHREAD=128 BLKSIZE=512 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin > r
+  894  MODE=nvcc OPT=yes make -e new-cuda-adaptative 
+  895  NBTHREAD=128 BLKSIZE=512 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin > r
+  896  vi r
+  897  NBTHREAD=128 BLKSIZE=512 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+  898  NBTHREAD=128 BLKSIZE=512 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+  899  MODE=nvcc OPT=yes make -e new-cuda-adaptative 
+  900  NBTHREAD=128 BLKSIZE=512 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+  901  NBTHREAD=128 BLKSIZE=512 ./cuda-adaptative /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+  902  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+  903  NBTHREAD=512 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+  904  NBTHREAD=512 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+  905  MODE=nvcc OPT=yes make -e new-cuda-adaptative 
+  906  NBTHREAD=512 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+  907  NBTHREAD=512 BLKSIZE=2048 ./cuda-adaptative /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+  908  vi AdaptativeUtils.cu 
+  909  MODE=nvcc OPT=yes make -e new-cuda-adaptative 
+  910  NBTHREAD=512 BLKSIZE=2048 ./cuda-adaptative /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+  911  NBTHREAD=512 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+  912  NBTHREAD=1024 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+  913  NBTHREAD=1024 BLKSIZE=4096 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+  914  NBTHREAD=512 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+  915  NBTHREAD=512 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+  916  NBTHREAD=512 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+  917  NBTHREAD=512 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin 
+  918  NBTHREAD=512 BLKSIZE=2048 ./cuda-adaptative /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin 
+  919  MODE=nvcc OPT=yes make -e new-cuda-adaptative 
+  920  NBTHREAD=512 BLKSIZE=2048 ./cuda-adaptative /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin 
+  921  NBTHREAD=512 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin 
+  922  MODE=nvcc OPT=yes make -e new-cuda-adaptative 
+  923  NBTHREAD=512 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin 
+  924  vi AdaptativeUtils.cu 
+  925  MODE=nvcc OPT=yes make -e new-cuda-adaptative 
+  926  NBTHREAD=512 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin 
+  927  NBTHREAD=512 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin 
+  928  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin 
+  929  NBTHREAD=512 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin 
+  930  MODE=nvcc OPT=yes make -e new-cuda-adaptative 
+  931  NBTHREAD=512 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin 
+  932  NBTHREAD=512 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin 10
+  933  vi new-cuda-pr.cpp 
+  934  NBTHREAD=512 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 10
+  935  NBTHREAD=512 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin 10
+  936  MODE=nvcc OPT=yes make -e new-cuda-adaptative 
+  937  NBTHREAD=512 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 10
+  938  NBTHREAD=512 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin 10
+  939  NBTHREAD=512 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+  940  NBTHREAD=512 BLKSIZE=2048 ./cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+  941  MODE=nvcc OPT=yes make -e new-cuda-adaptative 
+  942  NBTHREAD=512 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+  943  MODE=nvcc OPT=yes make -e new-cuda-adaptative 
+  944  NBTHREAD=512 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+  945  MODE=nvcc OPT=yes make -e new-cuda-adaptative 
+  946  NBTHREAD=512 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+  947  vi AdaptativeUtils.cu 
+  948  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+  949  MODE=nvcc OPT=yes make -e new-cuda-adaptative-test 
+  950  ./new-cuda-adaptative-test /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+  951  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+  952  MODE=nvcc OPT=yes make -e new-cuda-adaptative-test 
+  953  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+  954  MODE=nvcc OPT=yes make -e new-cuda-adaptative-test 
+  955  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+  956  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+  957  vi AdaptativeUtils.cu 
+  958  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+  959  vi AdaptativeUtils.cu 
+  960  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+  961  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+  962  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+  963  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+  964  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+  965  vi new-cuda-adaptative.cu 
+  966  ps -fux
+  967  kill -9 29146
+  968  vi new-cuda-adaptative.cu 
+  969  vi AdaptativeUtils.cu
+  970  vi new-cuda-adaptative.cu 
+  971  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+  972  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+  973  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+  974  vi new-cuda-adaptative-test.cu 
+  975  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+  976  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin > r
+  977  vi r
+  978  vi AdaptativeUtils.cu
+  979  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+  980  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin > r
+  981  vi r
+  982  vi AdaptativeUtils.cu
+  983  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+  984  vi new-cuda-adaptative.cu 
+  985  ps -ux
+  986  kill -9 33688
+  987  ps -ux
+  988  kill -9 34091
+  989  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+  990  ps -fux
+  991  kill -9 33482 33135 29214 32541
+  992  ps -fux
+  993  kill -9 33482 33135 29214 32541 32474
+  994  ps -fux
+  995  vi new-cuda-adaptative.cu 
+  996  logout 
+  997  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+  998  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+  999  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1000  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin > r
+ 1001  vi r
+ 1002  vi AdaptativeUtils.
+ 1003  vi AdaptativeUtils.cu 
+ 1004  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1005  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin > r
+ 1006  vi r
+ 1007  vi AdaptativeUtils.cu 
+ 1008  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1009  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1010  vi AdaptativeUtils.cu 
+ 1011  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1012  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1013  vi AdaptativeUtils.cu 
+ 1014  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1015  vi AdaptativeUtils.cu 
+ 1016  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1017  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1018  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1019  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1020  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1021  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1022  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1023  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1024  vi new-cuda-pr.cpp 
+ 1025  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1026  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin
+ 1027  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin > r
+ 1028  vi r
+ 1029  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+ 1030  ps -ux
+ 1031  ps -fux
+ 1032  kill -9 34308
+ 1033  ps -
+ 1034  kill -9 33554
+ 1035  vi new-cuda-adaptative.cu 
+ 1036  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+ 1037  vi r
+ 1038  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1039  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin > r
+ 1040  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1041  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin > r
+ 1042  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1043  vi r
+ 1044  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin > r
+ 1045  vi r
+ 1046  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1047  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin > r
+ 1048  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1049  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1050  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1051  vi AdaptativeUtils.
+ 1052  vi AdaptativeUtils.cu 
+ 1053  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1054  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin > r
+ 1055  vi r
+ 1056  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1057  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin
+ 1058  ps -fux
+ 1059  kill -9 34373 34157
+ 1060  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+ 1061  vi new-cuda-adaptative.cu 
+ 1062  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+ 1063  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1064  vi makefile
+ 1065  make clean 
+ 1066  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1067  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin
+ 1068  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1069  htop
+ 1070  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin
+ 1071  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin
+ 1072  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1073  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin
+ 1074  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1075  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin
+ 1076  vi AdaptativeUtils.cu 
+ 1077  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1078  vi AdaptativeUtils.cu 
+ 1079  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1080  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin
+ 1081  vi AdaptativeUtils.cu 
+ 1082  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1083  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin
+ 1084  vi AdaptativeUtils.cu 
+ 1085  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1086  vi AdaptativeUtils.cu 
+ 1087  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1088  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin
+ 1089  vi AdaptativeUtils.cu 
+ 1090  vi makefile
+ 1091  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1092  make clean 
+ 1093  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1094  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin
+ 1095  vi AdaptativeUtils.cu 
+ 1096  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1097  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin
+ 1098  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1099  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin
+ 1100  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1101  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin
+ 1102  vi AdaptativeUtils.cu 
+ 1103  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1104  vi AdaptativeUtils.cu 
+ 1105  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin
+ 1106  vi AdaptativeUtils.cu 
+ 1107  make clean 
+ 1108  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1109  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin
+ 1110  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1111  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin
+ 1112  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1113  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin
+ 1114  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1115  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin
+ 1116  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-dblp/com-dblp.ungraph.bin 
+ 1117  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin
+ 1118  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1119  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin
+ 1120  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1121  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1122  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1123  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1124  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1125  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1126  vi AdaptativeUtils.cu 
+ 1127  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1128  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1129  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1130  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1131  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1132  vi AdaptativeUtils.cu 
+ 1133  vi AdaptativeUtils.hpp 
+ 1134  vi AdaptativeUtils.cu 
+ 1135  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1136  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1137  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1138  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1139  vi AdaptativeUtils.cu 
+ 1140  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1141  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1142  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1143  NBTHREAD=128 BLKSIZE=2048 ./cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1144  NBTHREAD=128 BLKSIZE=1024 ./cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1145  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1146  NBTHREAD=128 BLKSIZE=1024 ./cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1147  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1148  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1149  NBTHREAD=128 BLKSIZE=1024 ./cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1150  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1151  NBTHREAD=128 BLKSIZE=2024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1152  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1153  NBTHREAD=128 BLKSIZE=2024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1154  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1155  logout 
+ 1156  ps -fux 
+ 1157  kill -9 3547935410
+ 1158  kill -9 35479 35410
+ 1159  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+ 1160  vi new-cuda-adaptative.cu 
+ 1161  logout 
+ 1162  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+ 1163  vi new-cuda-adaptative.cu 
+ 1164  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+ 1165  NBTHREAD=128 BLKSIZE=2024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1166  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1167  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1168  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1169  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1170  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1171  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1172  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1173  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1174  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1175  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1176  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1177  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1178  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1179  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1180  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1181  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1182  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1183  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1184  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1185  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1186  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin > r
+ 1187  vi r
+ 1188  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1189  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin > r
+ 1190  vi r
+ 1191  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1192  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin > r
+ 1193  vi r
+ 1194  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1195  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin > r
+ 1196  vi r
+ 1197  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1198  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin > r
+ 1199  vi r
+ 1200  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1201  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin > r
+ 1202  vi r
+ 1203  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1204  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin > r
+ 1205  vi r
+ 1206  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+ 1207  vi AdaptativeUtils.cu 
+ 1208  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+ 1209  vi new-cuda-adaptative.cu 
+ 1210  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+ 1211  ps -fux
+ 1212  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1213  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1214  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1215  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1216  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1217  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1218  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1219  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1220  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1221  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1222  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1223  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1224  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1225  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1226  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1227  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1228  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1229  NBTHREAD=128 BLKSIZE=64 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1230  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1231  NBTHREAD=128 BLKSIZE=64 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1232  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1233  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1234  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1235  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1236  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1237  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1238  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1239  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin > r
+ 1240  vi r
+ 1241  ps -fux
+ 1242  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+ 1243  vi new-cuda-adaptative.cu 
+ 1244  ps -fux
+ 1245  kill -9 42314 42605 43219
+ 1246  ps -fux
+ 1247  vi new-cuda-adaptative.cu 
+ 1248  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+ 1249  vi AdaptativeUtils.cu 
+ 1250  history 
+ 1251  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+ 1252  vi new-cuda-adaptative.cu 
+ 1253  ps -fux
+ 1254  kill -9 43965 43770 43867
+ 1255  vi new-cuda-adaptative.cu 
+ 1256  logout 
+ 1257  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+ 1258  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1259  NBTHREAD=128 BLKSIZE=2048 ./cuda-adaptative /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1260  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-livejournal/com-lj.ungraph.bin 
+ 1261  NBTHREAD=128 BLKSIZE=2048 ./cuda-adaptative /home/esaule1/Graphs/SNAP/com-livejournal/com-lj.ungraph.bin 
+ 1262  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-livejournal/com-lj.ungraph.bin 
+ 1263  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1264  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-livejournal/com-lj.ungraph.bin 
+ 1265  NBTHREAD=128 BLKSIZE=2048 ./cuda-adaptative /home/esaule1/Graphs/SNAP/com-livejournal/com-lj.ungraph.bin 
+ 1266  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1267  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-livejournal/com-lj.ungraph.bin 
+ 1268  NBTHREAD=512 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-livejournal/com-lj.ungraph.bin 
+ 1269  NBTHREAD=512 BLKSIZE=2048 ./cuda-adaptative /home/esaule1/Graphs/SNAP/com-livejournal/com-lj.ungraph.bin 
+ 1270  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1271  NBTHREAD=512 BLKSIZE=2048 ./cuda-adaptative /home/esaule1/Graphs/SNAP/com-livejournal/com-lj.ungraph.bin 
+ 1272  NBTHREAD=512 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-livejournal/com-lj.ungraph.bin 
+ 1273  NBTHREAD=512 BLKSIZE=4096 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-livejournal/com-lj.ungraph.bin 
+ 1274  NBTHREAD=512 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-livejournal/com-lj.ungraph.bin 
+ 1275  NBTHREAD=512 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-livejournal/com-lj.ungraph.bin 
+ 1276  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1277  NBTHREAD=512 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-livejournal/com-lj.ungraph.bin 
+ 1278  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1279  NBTHREAD=512 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-livejournal/com-lj.ungraph.bin 
+ 1280  NBTHREAD=512 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1281  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1282  NBTHREAD=512 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1283  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1284  NBTHREAD=512 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1285  NBTHREAD=512 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin > r
+ 1286  vi r
+ 1287  NBTHREAD=512 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1288  vi AdaptativeUtils.cu 
+ 1289  vi r
+ 1290  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1291  NBTHREAD=512 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1292  NBTHREAD=512 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin > r
+ 1293  vi r
+ 1294  logout 
+ 1295  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+ 1296  cuda-memcheck  ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin > r
+ 1297  NBTHREAD=512 BLKSIZE=2048 cuda-memcheck --continue ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin > r
+ 1298  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+ 1299  NBTHREAD=512 BLKSIZE=2048 cuda-memcheck ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin > r
+ 1300  vi r
+ 1301  NBTHREAD=512 BLKSIZE=2048 cuda-memcheck ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1302  NBTHREAD=512 BLKSIZE=2048 cuda-memcheck --continue ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1303  NBTHREAD=512 BLKSIZE=2048 cuda-memcheck --save ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1304  NBTHREAD=512 BLKSIZE=2048 cuda-memcheck --c ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1305  NBTHREAD=512 BLKSIZE=2048 cuda-memcheck -c ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1306  NBTHREAD=512 BLKSIZE=2048 cuda-memcheck ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1307  NBTHREAD=512 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1308  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1309  NBTHREAD=512 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1310  NBTHREAD=512 BLKSIZE=2048 cuda-memcheck ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1311  NBTHREAD=128 BLKSIZE=2048 cuda-memcheck ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1312  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1313  NBTHREAD=128 BLKSIZE=2048 cuda-memcheck ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin q
+ 1314  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1315  NBTHREAD=128 BLKSIZE=2048 cuda-memcheck ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1316  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1317  NBTHREAD=128 BLKSIZE=2048 cuda-memcheck ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1318  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+ 1319  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+ 1320  vi Adaptative_Kernal.cu 
+ 1321  vi new-cuda-adaptative.cu 
+ 1322  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+ 1323  vi new-cuda-adaptative.cu 
+ 1324  ps -fux
+ 1325  kill -9 46916 46849 46252 46097
+ 1326  ps -fux
+ 1327  kill -9 46916 46849 46252 46097   
+ 1328  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+ 1329  ps -fux
+ 1330  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+ 1331  screen
+ 1332  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+ 1333  kill -9 05:52 06:30
+ 1334  kill -9 47030 46030
+ 1335  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1336  NBTHREAD=128 BLKSIZE=2048 cuda-memcheck ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1337  NBTHREAD=128 BLKSIZE=2048 cuda-memcheck ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin > r
+ 1338  vi r
+ 1339  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1340  NBTHREAD=128 BLKSIZE=2048 cuda-memcheck ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin > r
+ 1341  vi r
+ 1342  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1343  NBTHREAD=128 BLKSIZE=2048 cuda-memcheck ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin > r
+ 1344  vi r
+ 1345  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1346  NBTHREAD=128 BLKSIZE=2048 cuda-memcheck ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin > r
+ 1347  vi r
+ 1348  NBTHREAD=128 BLKSIZE=2048 cuda-memcheck ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-youtube/com-youtube.ungraph.bin 
+ 1349  NBTHREAD=128 BLKSIZE=2048 cuda-memcheck ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/p2p-Gnutella05/p2p-Gnutella05.bin 
+ 1350  NBTHREAD=128 BLKSIZE=2048 cuda-memcheck ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-youtube/com-youtube.ungraph.bin > r
+ 1351  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/p2p-Gnutella05/p2p-Gnutella05.bin > r
+ 1352  vi r
+ 1353  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/amazon0302/amazon0302.bin 
+ 1354  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/amazon0312/amazon0312.bin 
+ 1355  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1356  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/amazon0312/amazon0312.bin 
+ 1357  NBTHREAD=128 BLKSIZE=2048 cuda-memcheck ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin > r
+ 1358  vi r
+ 1359  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1360  NBTHREAD=128 BLKSIZE=2048 cuda-memcheck ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin > r
+ 1361  vi r
+ 1362  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1363  NBTHREAD=128 BLKSIZE=2048 cuda-memcheck ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin > r
+ 1364  vi r
+ 1365  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1366  NBTHREAD=128 BLKSIZE=2048 cuda-memcheck ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin > r
+ 1367  vi r
+ 1368  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1369  NBTHREAD=128 BLKSIZE=2048 cuda-memcheck ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin > r
+ 1370  vi r
+ 1371  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1372  NBTHREAD=128 BLKSIZE=2048 cuda-memcheck ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin > r
+ 1373  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1374  NBTHREAD=128 BLKSIZE=2048 cuda-memcheck ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin > r
+ 1375  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1376  NBTHREAD=128 BLKSIZE=2048 cuda-memcheck ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin > r
+ 1377  screen -r
+ 1378  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+ 1379  screen -r
+ 1380  man screen
+ 1381  screen -r 47190.pts-8.penguin
+ 1382  screen -r 47190
+ 1383  screen 
+ 1384  screen -r 47190
+ 1385  screen -r
+ 1386  ps -fux
+ 1387  screen -r
+ 1388  ps -fux
+ 1389  kill -9 51002 50936  49374 49311 
+ 1390  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+ 1391  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1392  NBTHREAD=128 BLKSIZE=2048 cuda-memcheck ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin > r
+ 1393  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1394  NBTHREAD=128 BLKSIZE=2048 cuda-memcheck ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin > r
+ 1395  vi r
+ 1396  vi AdaptativeUtils.cu 
+ 1397  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1398  NBTHREAD=128 BLKSIZE=2048 cuda-memcheck ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin > r
+ 1399  vi r
+ 1400  vi AdaptativeUtils.cu 
+ 1401  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1402  NBTHREAD=128 BLKSIZE=2048 cuda-memcheck ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin > r
+ 1403  vi r
+ 1404  vi AdaptativeUtils.cu 
+ 1405  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1406  NBTHREAD=128 BLKSIZE=2048 cuda-memcheck ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin > r
+ 1407  vi r
+ 1408  vi AdaptativeUtils.cu 
+ 1409  vi r
+ 1410  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1411  NBTHREAD=128 BLKSIZE=2048 cuda-memcheck ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1412  NBTHREAD=128 BLKSIZE=2048 cuda-memcheck ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin > r
+ 1413  vi r
+ 1414  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1415  NBTHREAD=128 BLKSIZE=2048 cuda-memcheck ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin > r
+ 1416  vi r
+ 1417  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1418  NBTHREAD=128 BLKSIZE=2048 cuda-memcheck ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin > r
+ 1419  vi r
+ 1420  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1421  NBTHREAD=128 BLKSIZE=2048 cuda-memcheck ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin > r
+ 1422  vi r
+ 1423  NBTHREAD=128 BLKSIZE=2048 cuda-memcheck ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1424  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1425  NBTHREAD=128 BLKSIZE=2048 cuda-memcheck ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1426  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1427  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1428  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1429  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1430  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1431  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1432  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1433  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1434  NBTHREAD=128 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1435  NBTHREAD=512 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1436  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1437  NBTHREAD=512 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 
+ 1438  NBTHREAD=512 BLKSIZE=2048 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 10
+ 1439  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+ 1440  vi AdaptativeUtils.cu 
+ 1441  vi new-cuda-adaptative.cu 
+ 1442  ps -fux
+ 1443  screen -r
+ 1444  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+ 1445  ps -fux
+ 1446  screen -r
+ 1447  screen -d -r 51053.pts-12.penguin
+ 1448  screen -r
+ 1449  screen -d -r 47190.pts-8.penguin
+ 1450  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+ 1451  screen -r
+ 1452  screen -d -r
+ 1453  screen -d -r 51053.pts-12.penguin
+ 1454  screen -d -r 51053.pts-12.penguin
+ 1455  screen -d -r 47190.pts-8.penguin
+ 1456  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+ 1457  vi new-cuda-adaptative.cu 
+ 1458  exit
+ 1459  \\
+ 1460  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+ 1461  vi streamUtils.cpp 
+ 1462  screen -d -r 51053.pts-12.penguin
+ 1463  logout 
+ 1464  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+ 1465  vi AdaptativeUtils.cu 
+ 1466  vi AdaptativeUtils.hpp 
+ 1467  screen -d -r 51053.pts-12.penguin
+ 1468  screen -d -r 47190.pts-8.penguin
+ 1469  logout 
+ 1470  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+ 1471  screen -d -r 51053.pts-12.penguin
+ 1472  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+ 1473  screen -d -r 47190.pts-8.penguin
+ 1474  LOGO
+ 1475  logout 
+ 1476  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+ 1477  ls /home/mkhatiri/
+ 1478  nvvp
+ 1479  screen -d -r 51053.pts-12.penguin
+ 1480  logout 
+ 1481  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+ 1482  MODE=nvcc OPT=yes make -e new-cuda-adaptative
+ 1483  screen -d -r 51053.pts-12.penguin
+ 1484  logout 
+ 1485  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+ 1486  MODE=nvcc OPT=yes make -e new-cuda-adaptative-2gpus 
+ 1487  screen -r
+ 1488  screen -d
+ 1489  screen -r
+ 1490  screen -d -r 47190.pts-8.penguin
+ 1491  logout 
+ 1492  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+ 1493  NBBLOCK=128 NBTHREAD=512 BLKSIZE=2048 cuda-memcheck ./cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 10
+ 1494  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+ 1495  vi new-cuda-adaptative.cu 
+ 1496  git push 
+ 1497  vi cuda-adaptative.cu 
+ 1498  vi cuda-adaptative-2gpus.cu 
+ 1499  vi new-cuda-adaptative.cu 
+ 1500  logout 
+ 1501  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+ 1502  git add new-cuda-adaptative.cu new-cuda-adaptative-2gpus.cu cuda-adaptative.cu cuda-adaptative-2gpus.cu makefile AdaptativeUtils.cu AdaptativeUtils.hpp Adaptative_Kernal.cu 
+ 1503  git commit -m " update 1GPU complet, 1GPU stream, 2GPUs static, 2Gpus dynamic "
+ 1504  git push 
+ 1505  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+ 1506  screen -d -r 47190.pts-8.penguin
+ 1507  ls new-cuda-adaptative.256.log 
+ 1508  vi new-cuda-adaptative.256.log 
+ 1509  vi err.log 
+ 1510  SCREEN -R
+ 1511  screen -r
+ 1512  screen -d -r 47190.pts-8.penguin
+ 1513  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+ 1514  NBBLOCK=128 NBTHREAD=512 BLKSIZE=2048 cuda-memcheck ./cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 10
+ 1515  NBBLOCK=128 NBTHREAD=512 BLKSIZE=2048 ./cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 10
+ 1516  NBBLOCK=128 NBTHREAD=512 BLKSIZE=2048 ./cuda-adaptative-2gpus /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 10
+ 1517  NBBLOCK=512 NBTHREAD=512 BLKSIZE=2048 ./cuda-adaptative-2gpus /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 10
+ 1518  NBBLOCK=512 NBTHREAD=512 BLKSIZE=1024 ./cuda-adaptative-2gpus /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 5
+ 1519  NBBLOCK=512 NBTHREAD=1024 BLKSIZE=2048 ./cuda-adaptative-2gpus /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 5
+ 1520  NBBLOCK=128 NBTHREAD=512 BLKSIZE=2048 ./cuda-adaptative-2gpus /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 10
+ 1521  NBBLOCK=128 NBTHREAD=128 BLKSIZE=2048 ./cuda-adaptative-2gpus /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 10
+ 1522  NBBLOCK=128 NBTHREAD=256 BLKSIZE=2048 ./cuda-adaptative-2gpus /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 10
+ 1523  NBBLOCK=128 NBTHREAD=512 BLKSIZE=2048 ./cuda-adaptative-2gpus /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 10
+ 1524  NBBLOCK=64 NBTHREAD=512 BLKSIZE=2048 ./cuda-adaptative-2gpus /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 10
+ 1525  NBBLOCK=32 NBTHREAD=512 BLKSIZE=2048 ./cuda-adaptative-2gpus /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 10
+ 1526  NBBLOCK=32 NBTHREAD=512 BLKSIZE=2048 ./adaptative-2gpus /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 10
+ 1527  NBBLOCK=32 NBTHREAD=512 BLKSIZE=2048 ./new-cuda-adaptative-2gpus /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 10
+ 1528  NBBLOCK=64 NBTHREAD=512 BLKSIZE=2048 ./new-cuda-adaptative-2gpus /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 10
+ 1529  NBBLOCK=128 NBTHREAD=512 BLKSIZE=2048 ./new-cuda-adaptative-2gpus /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 10
+ 1530  NBBLOCK=512 NBTHREAD=512 BLKSIZE=2048 ./new-cuda-adaptative-2gpus /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 10
+ 1531  NBBLOCK=1024 NBTHREAD=512 BLKSIZE=2048 ./new-cuda-adaptative-2gpus /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 10
+ 1532  NBBLOCK=512 NBTHREAD=256 BLKSIZE=2048 ./new-cuda-adaptative-2gpus /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 10
+ 1533  .
+ 1534  NBBLOCK=1024 NBTHREAD=256 BLKSIZE=2048 ./new-cuda-adaptative-2gpus /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 10
+ 1535  NBBLOCK=512 NBTHREAD=512 BLKSIZE=2048 ./new-cuda-adaptative-2gpus /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 10
+ 1536  ls new-cuda-adaptative
+ 1537  ls new-cuda-adaptative*
+ 1538  vi generate-result-csr-A.sh 
+ 1539  ls new-cuda-adaptative.256.log 
+ 1540  vi new-cuda-adaptative.256.log 
+ 1541  vi err.log 
+ 1542  vi new-cuda-adaptative.256.log 
+ 1543  NBBLOCK=128 NBTHREAD=512 BLKSIZE=256 ./new-cuda-adaptative-2gpus /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 10
+ 1544  NBBLOCK=128 NBTHREAD=512 BLKSIZE=512 ./new-cuda-adaptative-2gpus /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 10
+ 1545  NBBLOCK=1024 NBTHREAD=256 BLKSIZE=2048 ./new-cuda-adaptative-2gpus /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 10
+ 1546  NBBLOCK=128 NBTHREAD=512 BLKSIZE=512 ./new-cuda-adaptative-2gpus /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 10
+ 1547  NBBLOCK=128 NBTHREAD=512 BLKSIZE=1024 ./new-cuda-adaptative-2gpus /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 10
+ 1548  NBBLOCK=128 NBTHREAD=512 BLKSIZE=512 ./new-cuda-adaptative-2gpus /home/esaule1/Graphs/SNAP/com-livejournal/com-lj.ungraph.bin 
+ 1549  NBBLOCK=128 NBTHREAD=512 BLKSIZE=512 ./new-cuda-adaptative-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1550  NBBLOCK=128 NBTHREAD=512 BLKSIZE=1024 ./new-cuda-adaptative-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1551  NBBLOCK=128 NBTHREAD=512 BLKSIZE=1024 ./cuda-adaptative-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1552  NBBLOCK=32 NBTHREAD=512 BLKSIZE=1024 ./new-cuda-adaptative-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1553  NBBLOCK=8 NBTHREAD=512 BLKSIZE=1024 ./new-cuda-adaptative-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1554  NBBLOCK=8 NBTHREAD=256 BLKSIZE=1024 ./new-cuda-adaptative-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1555  NBBLOCK=4 NBTHREAD=256 BLKSIZE=512 ./new-cuda-adaptative-2gpus /home/esaule1/Graphs/SNAP/web-G
+ 1556  NBBLOCK=128 NBTHREAD=512 BLKSIZE=512 ./new-cuda-adaptative-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1557  NBBLOCK=128 NBTHREAD=128 BLKSIZE=512 ./new-cuda-adaptative-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1558  screen -d -r 47190.pts-8.penguin
+ 1559  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+ 1560  screen -d -r 47190.pts-8.penguin
+ 1561  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+ 1562  git add new-cuda-adaptative.cu new-cuda-adaptative-2gpus.cu cuda-adaptative.cu cuda-adaptative-2gpus.cu makefile AdaptativeUtils.cu AdaptativeUtils.hpp Adaptative_Kernal.cu 
+ 1563  ls new-cuda-adaptative*
+ 1564  vi new-cuda-adaptative.256.log 
+ 1565  vi generate-result-csr-A.sh 
+ 1566  screen -d -r 47190.pts-8.penguin
+ 1567  htop
+ 1568  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+ 1569  screen -d -r 47190.pts-8.penguin
+ 1570  screen -r
+ 1571  ls new-cuda-adaptative.*
+ 1572  vi new-cuda-adaptative.256.log 
+ 1573  vi new-cuda-adaptative.512.log 
+ 1574  ls
+ 1575  passwd mkhatiri
+ 1576  ls
+ 1577  history > histo
+ 1578  vi histo 
+ 1579  MODE=nvcc OPT=yes make -e new-cuda-adaptative-test
+ 1580  ls
+ 1581  cd program/
+ 1582  ls
+ 1583  cd ShMemGraph/
+ 1584  ls
+ 1585  cd ../..
+ 1586  ls
+ 1587  cd perso/
+ 1588  ls
+ 1589  cd src/
+ 1590  ls
+ 1591  MODE=nvcc OPT=yes make -e new-cuda-adaptative-test
+ 1592  cd ..
+ 1593  ls
+ 1594  cd ..
+ 1595  ls
+ 1596  cd nvvp_workspace/
+ 1597  ls
+ 1598  cd ..
+ 1599  ls
+ 1600  cd perso/
+ 1601  ls
+ 1602  cd src/
+ 1603  ls
+ 1604  cd ..
+ 1605  ls
+ 1606  ls */*
+ 1607  ls
+ 1608  cd ..
+ 1609  ls
+ 1610  cd intel/
+ 1611  ls
+ 1612  cd ..
+ 1613  ls
+ 1614  cd program/
+ 1615  ls
+ 1616  cd ShMemGraph/
+ 1617  ls
+ 1618  cd s
+ 1619  cd src/
+ 1620  ls
+ 1621  cd ..
+ 1622  ls
+ 1623  cd analysis/
+ 1624  ls
+ 1625  cd ..
+ 1626  ls
+ 1627  cd ..
+ 1628  ls
+ 1629  cd ..
+ 1630  ls
+ 1631  vi histo 
+ 1632  cd /home/mkhatiri/program/ShMemGraph/src/page_rank/
+ 1633  ks
+ 1634  ls
+ 1635  MODE=nvcc OPT=yes make -e new-cuda-adaptative-test
+ 1636  ls
+ 1637  vi /home/mkhatiri/histo 
+ 1638  MODE=nvcc OPT=yes make -e new-cuda-adaptative-test
+ 1639  cat /home/mkhatiri/histo 
+ 1640  NBTHREAD=128 BLKSIZE=1024 ./new-cuda-adaptative /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin
+ 1641  NBBLOCK=1024 NBTHREAD=256 BLKSIZE=2048 ./new-cuda-adaptative-2gpus /home/esaule1/Graphs/SNAP/com-orkut/com-orkut.ungraph.bin 10
+ 1642  ls
+ 1643  vi new-cuda-adaptative.cu 
+ 1644  ls
+ 1645  exit
+ 1646  ls
+ 1647  cd program/
+ 1648  ls
+ 1649  cd ..
+ 1650  ls
+ 1651  cd perso/
+ 1652  ls
+ 1653  vi test.cpp 
+ 1654  vi test_cuda_peerTopeer.cu 
+ 1655  cd ..
+ 1656  ls
+ 1657  cd program/
+ 1658  ls
+ 1659  cd ShMemGraph/
+ 1660  ls
+ 1661  cd s
+ 1662  cd src/
+ 1663  ls
+ 1664  cd page_rank/
+ 1665  ms
+ 1666  ls
+ 1667  ls cuda-*
+ 1668  l cuda-*
+ 1669  ls -l cuda-*
+ 1670  vi cuda-pr-2gpus
+ 1671  vi cuda-pr-2gpus.cpp 
+ 1672  cd ..
+ 1673  ls
+ 1674  cd page_rank/
+ 1675  ls
+ 1676  vi Adaptative_Kernal.cu 
+ 1677  x
+ 1678  ls
+ 1679  vi history 
+ 1680  history 
+ 1681  history > history

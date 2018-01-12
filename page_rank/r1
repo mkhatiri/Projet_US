@@ -1,0 +1,10 @@
+vtxsize: 4
+edgesize: 4
+weightsize: 4
+nVtx: 916428
+nVtx: 916428
+nEdge: 5105039
+nVtx: 916428, nVtx: 916428, nEdge: 5105039
+graph read
+rowBlockSize1 : 20433
+rowBlockSize2 : 40866

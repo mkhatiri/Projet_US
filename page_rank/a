@@ -1,0 +1,1000 @@
+ 1013  vi new-cuda-lightspmv-pr.cu 
+ 1014  vi cuda-lightspmv-pr-2gpus.cu 
+ 1015  ls
+ 1016  ps -fux
+ 1017  kill -9 243244
+ 1018  vi cuda-lightspmv-pr-2gpus.cu 
+ 1019  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1020  vi new-cuda-lightspmv-pr.cu 
+ 1021  nvvp
+ 1022  NBSTREAM=2 NBBLOCK=4 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin > a
+ 1023  ps -fux
+ 1024  kill -9 244159
+ 1025  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1026  NBSTREAM=2 NBBLOCK=4 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1027  vi new-cuda-lightspmv-pr.cu 
+ 1028  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1029  vi new-cuda-lightspmv-pr.cu 
+ 1030  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1031  NBSTREAM=2 NBBLOCK=4 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1032  vi new-cuda-lightspmv-pr.cu 
+ 1033  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1034  NBSTREAM=2 NBBLOCK=4 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1035  vi new-cuda-lightspmv-pr.cu 
+ 1036  vi streamUtils.cpp 
+ 1037  rm streamUtils.o
+ 1038  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1039  NBSTREAM=4 NBBLOCK=16 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1040  vi streamUtils.cpp 
+ 1041  rm streamUtils.o
+ 1042  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1043  vi streamUtils.cpp 
+ 1044  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1045  NBSTREAM=4 NBBLOCK=16 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1046  vi new-cuda-lightspmv-pr.cu 
+ 1047  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1048  NBSTREAM=4 NBBLOCK=16 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1049  vi new-cuda-lightspmv-pr.cu 
+ 1050  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1051  vi new-cuda-lightspmv-pr.cu 
+ 1052  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1053  vi new-cuda-lightspmv-pr.cu 
+ 1054  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1055  vi new-cuda-lightspmv-pr.cu 
+ 1056  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1057  rm cuda-lightspmv-pr-2gpus.cu 
+ 1058  MODE=nvcc OPT=yes DEBUG=false make -e cuda-lightspmv-pr-2gpus 
+ 1059  vi cuda-lightspmv-pr-2gpus.cu
+ 1060  rm cuda-lightspmv-pr-2gpus.o
+ 1061  MODE=nvcc OPT=yes DEBUG=false make -e cuda-lightspmv-pr-2gpus 
+ 1062  vi LightSpMV_interface.hpp 
+ 1063  rm cuda-lightspmv-pr-2gpus.o
+ 1064  MODE=nvcc OPT=yes DEBUG=false make -e cuda-lightspmv-pr-2gpus 
+ 1065  NBSTREAM=4 NBBLOCK=16 ./cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1066  vi LightSpMV_interface.hpp 
+ 1067  rm cuda-lightspmv-pr-2gpus.o
+ 1068  NBSTREAM=4 NBBLOCK=16 ./cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1069  MODE=nvcc OPT=yes DEBUG=false make -e cuda-lightspmv-pr-2gpus 
+ 1070  vi cuda-lightspmv-pr-2gpus.cu 
+ 1071  MODE=nvcc OPT=yes DEBUG=false m
+ 1072  NBSTREAM=4 NBBLOCK=16 ./cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1073  vi cuda-lightspmv-pr-2gpus.cu 
+ 1074  NBSTREAM=4 NBBLOCK=16 ./cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1075  vi cuda-lightspmv-pr-2gpus.cu 
+ 1076  vi new-cuda-lightspmv-pr.cu 
+ 1077  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1078  NBSTREAM=4 NBBLOCK=16 ./new-cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1079  NBSTREAM=4 NBBLOCK=16 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1080  NBSTREAM=2 NBBLOCK=4 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1081  vi cuda-lightspmv-pr-2gpus.cu 
+ 1082  MODE=nvcc OPT=yes DEBUG=false make -e cuda-lightspmv-pr-2gpus 
+ 1083  NBSTREAM=4 NBBLOCK=16 ./cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1084  vi cuda-lightspmv-pr-2gpus.cu 
+ 1085  cd program/ShMemGraph/src/page_rank/
+ 1086  vi new-cuda-lightspmv-pr.cu 
+ 1087  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1088  vi new-cuda-lightspmv-pr.cu 
+ 1089  vi new-cuda-lightspmv-pr.cpp 
+ 1090  vi new-cuda-lightspmv-pr.cu
+ 1091  echo $PWD'>'
+ 1092  echo "<<<<< NSIGHT";/bin/sh -c "cd \"/home/mkhatiri/program/ShMemGraph/src/page_rank\";export LD_LIBRARY_PATH=\"/usr/local/cuda-7.0/lib64\":\${LD_LIBRARY_PATH};export NBBLOCK=\"4\";export NBSTREAM=\"2\";/usr/local/cuda-7.0/bin/nvprof  --quiet  --concurrent-kernels on --profile-api-trace all --profile-from-start on --system-profiling off --unified-memory-profiling off -o \"/tmp/nvvp_mkhatiri/launch/2/api.log\" \"/home/mkhatiri/program/ShMemGraph/src/page_rank/new-cuda-lightspmv-pr\" /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin";echo "<<<<<" NSIGHT: $? ">>>>>";exit
+ 1093  echo $PWD'>'
+ 1094  echo "<<<<< NSIGHT";/bin/sh -c "cd \"/home/mkhatiri/program/ShMemGraph/src/page_rank\";export LD_LIBRARY_PATH=\"/usr/local/cuda-7.0/lib64\":\${LD_LIBRARY_PATH};export NBBLOCK=\"4\";export NBSTREAM=\"1\";/usr/local/cuda-7.0/bin/nvprof  --quiet  --concurrent-kernels on --profile-api-trace all --profile-from-start on --system-profiling off --unified-memory-profiling off -o \"/tmp/nvvp_mkhatiri/launch/3/api.log\" \"/home/mkhatiri/program/ShMemGraph/src/page_rank/new-cuda-lightspmv-pr\" /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin";echo "<<<<<" NSIGHT: $? ">>>>>";exit
+ 1095  echo $PWD'>'
+ 1096  echo "<<<<< NSIGHT";/bin/sh -c "cd \"/home/mkhatiri/program/ShMemGraph/src/page_rank\";export LD_LIBRARY_PATH=\"/usr/local/cuda-7.0/lib64\":\${LD_LIBRARY_PATH};export NBBLOCK=\"4\";export NBSTREAM=\"1\";/usr/local/cuda-7.0/bin/nvprof  --quiet  --concurrent-kernels on --profile-api-trace all --profile-from-start on --system-profiling off --unified-memory-profiling off -o \"/tmp/nvvp_mkhatiri/launch/4/api.log\" \"/home/mkhatiri/program/ShMemGraph/src/page_rank/new-cuda-lightspmv-pr\" /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin";echo "<<<<<" NSIGHT: $? ">>>>>";exit
+ 1097  echo $PWD'>'
+ 1098  echo "<<<<< NSIGHT";/bin/sh -c "cd \"/home/mkhatiri/program/ShMemGraph/src/page_rank\";export LD_LIBRARY_PATH=\"/usr/local/cuda-7.0/lib64\":\${LD_LIBRARY_PATH};export NBBLOCK=\"4\";export NBSTREAM=\"1\";/usr/local/cuda-7.0/bin/nvprof  --quiet  --concurrent-kernels on --profile-api-trace all --profile-from-start on --system-profiling off --unified-memory-profiling off -o \"/tmp/nvvp_mkhatiri/launch/5/api.log\" \"/home/mkhatiri/program/ShMemGraph/src/page_rank/new-cuda-lightspmv-pr\" /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin";echo "<<<<<" NSIGHT: $? ">>>>>";exit
+ 1099  echo $PWD'>'
+ 1100  echo "<<<<< NSIGHT";/bin/sh -c "cd \"/home/mkhatiri/program/ShMemGraph/src/page_rank\";export LD_LIBRARY_PATH=\"/usr/local/cuda-7.0/lib64\":\${LD_LIBRARY_PATH};export NBBLOCK=\"4\";export NBSTREAM=\"2\";/usr/local/cuda-7.0/bin/nvprof  --quiet  --concurrent-kernels on --profile-api-trace all --profile-from-start on --system-profiling off --unified-memory-profiling off -o \"/tmp/nvvp_mkhatiri/launch/6/api.log\" \"/home/mkhatiri/program/ShMemGraph/src/page_rank/new-cuda-lightspmv-pr\" /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin";echo "<<<<<" NSIGHT: $? ">>>>>";exit
+ 1101  echo $PWD'>'
+ 1102  echo "<<<<< NSIGHT";/bin/sh -c "cd \"/home/mkhatiri/program/ShMemGraph/src/page_rank\";export LD_LIBRARY_PATH=\"/usr/local/cuda-7.0/lib64\":\${LD_LIBRARY_PATH};export NBBLOCK=\"4\";export NBSTREAM=\"1\";/usr/local/cuda-7.0/bin/nvprof  --quiet  --concurrent-kernels on --profile-api-trace all --profile-from-start on --system-profiling off --unified-memory-profiling off -o \"/tmp/nvvp_mkhatiri/launch/7/api.log\" \"/home/mkhatiri/program/ShMemGraph/src/page_rank/new-cuda-lightspmv-pr\" /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin";echo "<<<<<" NSIGHT: $? ">>>>>";exit
+ 1103  echo $PWD'>'
+ 1104  echo "<<<<< NSIGHT";/bin/sh -c "cd \"/home/mkhatiri/program/ShMemGraph/src/page_rank\";export LD_LIBRARY_PATH=\"/usr/local/cuda-7.0/lib64\":\${LD_LIBRARY_PATH};export NBBLOCK=\"1\";export NBSTREAM=\"1\";/usr/local/cuda-7.0/bin/nvprof  --quiet  --concurrent-kernels on --profile-api-trace all --profile-from-start on --system-profiling off --unified-memory-profiling off -o \"/tmp/nvvp_mkhatiri/launch/8/api.log\" \"/home/mkhatiri/program/ShMemGraph/src/page_rank/new-cuda-lightspmv-pr\" /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin";echo "<<<<<" NSIGHT: $? ">>>>>";exit
+ 1105  echo $PWD'>'
+ 1106  echo "<<<<< NSIGHT";/bin/sh -c "cd \"/home/mkhatiri/program/ShMemGraph/src/page_rank\";export LD_LIBRARY_PATH=\"/usr/local/cuda-7.0/lib64\":\${LD_LIBRARY_PATH};export NBBLOCK=\"1\";export NBSTREAM=\"1\";/usr/local/cuda-7.0/bin/nvprof  --quiet  --concurrent-kernels on --profile-api-trace all --profile-from-start on --system-profiling off --unified-memory-profiling off -o \"/tmp/nvvp_mkhatiri/launch/9/api.log\" \"/home/mkhatiri/program/ShMemGraph/src/page_rank/new-cuda-lightspmv-pr\" /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin";echo "<<<<<" NSIGHT: $? ">>>>>";exit
+ 1107  echo $PWD'>'
+ 1108  echo "<<<<< NSIGHT";/bin/sh -c "cd \"/home/mkhatiri/program/ShMemGraph/src/page_rank\";export LD_LIBRARY_PATH=\"/usr/local/cuda-7.0/lib64\":\${LD_LIBRARY_PATH};export NBBLOCK=\"32\";export NBSTREAM=\"2\";/usr/local/cuda-7.0/bin/nvprof  --quiet  --concurrent-kernels on --profile-api-trace all --profile-from-start on --system-profiling off --unified-memory-profiling off -o \"/tmp/nvvp_mkhatiri/launch/10/api.log\" \"/home/mkhatiri/program/ShMemGraph/src/page_rank/new-cuda-lightspmv-pr\" /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin";echo "<<<<<" NSIGHT: $? ">>>>>";exit
+ 1109  echo $PWD'>'
+ 1110  echo "<<<<< NSIGHT";/bin/sh -c "cd \"/home/mkhatiri/program/ShMemGraph/src/page_rank\";export LD_LIBRARY_PATH=\"/usr/local/cuda-7.0/lib64\":\${LD_LIBRARY_PATH};export NBBLOCK=\"1\";export NBSTREAM=\"1\";/usr/local/cuda-7.0/bin/nvprof  --quiet  --concurrent-kernels on --profile-api-trace all --profile-from-start on --system-profiling off --unified-memory-profiling off -o \"/tmp/nvvp_mkhatiri/launch/11/api.log\" \"/home/mkhatiri/program/ShMemGraph/src/page_rank/new-cuda-lightspmv-pr\" /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin";echo "<<<<<" NSIGHT: $? ">>>>>";exit
+ 1111  echo $PWD'>'
+ 1112  echo "<<<<< NSIGHT";/bin/sh -c "export LD_LIBRARY_PATH=\"/usr/local/cuda-7.0/lib64\":\${LD_LIBRARY_PATH};\"/usr/local/cuda-7.0/bin/nvprof\" --query-cuda-info";echo ">>>>> NSIGHT"
+ 1113  cd program/ShMemGraph/src/page_rank/
+ 1114  ls
+ 1115  NBSTREAM=2 NBBLOCK=2 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1116  vi new-cuda-lightspmv-pr.cu 
+ 1117  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1118  NBSTREAM=2 NBBLOCK=2 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin
+ 1119  NBSTREAM=1 NBBLOCK=2 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin
+ 1120  vi new-cuda-lightspmv-pr.cu 
+ 1121  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1122  NBSTREAM=1 NBBLOCK=32 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin
+ 1123  NBSTREAM=2 NBBLOCK=32 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin
+ 1124  vi new-cuda-lightspmv-pr.cu 
+ 1125  ls
+ 1126  git diff
+ 1127  clea
+ 1128  clear
+ 1129  ls
+ 1130  vi new-cuda-lightspmv-pr.cu 
+ 1131  vi streamUtils.hpp 
+ 1132  vi new-cuda-lightspmv-pr.cu 
+ 1133  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1134  vi new-cuda-lightspmv-pr.cu 
+ 1135  vi streamUtils.hpp 
+ 1136  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1137  vi new-cuda-lightspmv-pr.cu 
+ 1138  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1139  NBSTREAM=2 NBBLOCK=32 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin
+ 1140  vi LightSpMV_interface.hpp 
+ 1141  vi streamUtils.hpp 
+ 1142  vi streamUtils.cpp 
+ 1143  vi new-cuda-lightspmv-pr.cu 
+ 1144  NBSTREAM=2 NBBLOCK=32 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin
+ 1145  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1146  vi streamUtils.cpp 
+ 1147  vi streamUtils.hpp 
+ 1148  vi streamUtils.cpp 
+ 1149  vi streamUtils.hpp 
+ 1150  vi new-cuda-lightspmv-pr.cu 
+ 1151  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1152  vi new-cuda-lightspmv-pr.cu 
+ 1153  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1154  vi new-cuda-lightspmv-pr.cu 
+ 1155  vi streamUtils.hpp 
+ 1156  vi streamUtils.cpp 
+ 1157  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1158  vi new-cuda-lightspmv-pr.cu 
+ 1159  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1160  vi makefile
+ 1161  ls
+ 1162  ls *.o
+ 1163  make clean 
+ 1164  ls
+ 1165  ls *.o
+ 1166  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1167  vi new-cuda-lightspmv-pr.cu 
+ 1168  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1169  vi streamUtils.hpp 
+ 1170  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1171  vi streamUtils.hpp 
+ 1172  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1173  vi streamUtils.hpp 
+ 1174  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1175  make clean 
+ 1176  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1177  make clean 
+ 1178  LS
+ 1179  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1180  vi streamUtils.hpp 
+ 1181  vi streamUtils.cpp 
+ 1182  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1183  vi new-cuda-lightspmv-pr.cu 
+ 1184  vi streamUtils.hpp 
+ 1185  vi new-cuda-lightspmv-pr.cu 
+ 1186  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1187  vi new-cuda-lightspmv-pr.cu 
+ 1188  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1189  vi streamUtils.hpp 
+ 1190  vi streamUtils.cpp 
+ 1191  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1192  clear
+ 1193  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1194  vi streamUtils.hpp 
+ 1195  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1196  make clean
+ 1197  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1198  vi streamUtils.hpp 
+ 1199  make clean
+ 1200  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1201  vi streamUtils.cpp 
+ 1202  make clean
+ 1203  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1204  vi makefile
+ 1205  vi streamUtils
+ 1206  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1207  make clean 
+ 1208  ls *.o
+ 1209  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1210  vi makefile
+ 1211  vi makefile.in 
+ 1212  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1213  ls
+ 1214  vi streamUtils.hpp 
+ 1215  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1216  make clean 
+ 1217  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1218  vi streamUtils.hpp 
+ 1219  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1220  make clean 
+ 1221  vi streamUtils.hpp 
+ 1222  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1223  vi new-cuda-lightspmv-pr.cu 
+ 1224  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1225  vi new-cuda-lightspmv-pr.cu 
+ 1226  make clean 
+ 1227  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1228  vi streamUtils.cpp 
+ 1229  vi streamUtils.hpp 
+ 1230  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1231  clear
+ 1232  make clean 
+ 1233  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1234  NBSTREAM=1 NBBLOCK=1 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin
+ 1235  vi streamUtils.hpp 
+ 1236  vi new-cuda-lightspmv-pr.cu 
+ 1237  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1238  vi streamUtils.hpp 
+ 1239  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1240  NBSTREAM=1 NBBLOCK=1 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin
+ 1241  vi new-cuda-lightspmv-pr.cu 
+ 1242  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1243  NBSTREAM=1 NBBLOCK=1 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin
+ 1244  vi LightSpMV_interface.hpp 
+ 1245  vi new-cuda-lightspmv-pr.cu 
+ 1246  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1247  NBSTREAM=1 NBBLOCK=1 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin
+ 1248  NBSTREAM=1 NBBLOCK=4 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin
+ 1249  NBSTREAM=2 NBBLOCK=4 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin
+ 1250  NBSTREAM=2 NBBLOCK=32 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin
+ 1251  NBSTREAM=2 NBBLOCK=5 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin
+ 1252  NBSTREAM=2 NBBLOCK=32 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 10
+ 1253  NBSTREAM=2 NBBLOCK=32 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1254  NBSTREAM=2 NBBLOCK=32 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 5
+ 1255  NBSTREAM=2 NBBLOCK=32 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 50
+ 1256  NBSTREAM=2 NBBLOCK=32 ./cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 50
+ 1257  NBSTREAM=2 NBBLOCK=16 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 50
+ 1258  vi streamUtils.hpp 
+ 1259  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1260  make clean 
+ 1261  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1262  vi new-cuda-lightspmv-pr.cu 
+ 1263  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1264  vi new-cuda-lightspmv-pr.cu 
+ 1265  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1266  make clean 
+ 1267  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1268  NBSTREAM=2 NBBLOCK=16 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 50
+ 1269  NBSTREAM=2 NBBLOCK=16 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1270  vi new-cuda-lightspmv-pr.cu 
+ 1271  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1272  NBSTREAM=2 NBBLOCK=16 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 50
+ 1273  vi new-cuda-lightspmv-pr.cu 
+ 1274  vi LightSpMV_interface.hpp 
+ 1275  vi new-cuda-lightspmv-pr.cu 
+ 1276  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1277  vi new-cuda-lightspmv-pr.cu 
+ 1278  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1279  NBSTREAM=1 NBBLOCK=1 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 50
+ 1280  NBSTREAM=4 NBBLOCK=1 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 50
+ 1281  NBSTREAM=4 NBBLOCK=16 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 50
+ 1282  NBSTREAM=4 NBBLOCK=16 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 30
+ 1283  ps -fux
+ 1284  kill -9 22964
+ 1285  ls
+ 1286  clear
+ 1287  NBSTREAM=1 NBBLOCK=1 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 150
+ 1288  NBSTREAM=1 NBBLOCK=1 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 250
+ 1289  NBSTREAM=1 NBBLOCK=1 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 200
+ 1290  NBSTREAM=2 NBBLOCK=128 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 20
+ 1291  NBSTREAM=2 NBBLOCK=32 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 20
+ 1292  NBSTREAM=2 NBBLOCK=32 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 10
+ 1293  NBSTREAM=2 NBBLOCK=32 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 5
+ 1294  vi new-cuda-lightspmv-pr.cu 
+ 1295  vi main-pr.hpp 
+ 1296  vi new-cuda-lightspmv-pr.cu 
+ 1297  vi new-cuda-pr-2gpus.cpp 
+ 1298  htop
+ 1299  vi new-cuda-lightspmv-pr.cu 
+ 1300  clear
+ 1301  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1302  NBSTREAM=2 NBBLOCK=32 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin
+ 1303  NBSTREAM=2 NBBLOCK=32 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 50
+ 1304  vi new-cuda-lightspmv-pr.cu 
+ 1305  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1306  make clean 
+ 1307  NBSTREAM=2 NBBLOCK=32 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 50
+ 1308  NBSTREAM=2 NBBLOCK=32 ./new-cuda-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 50
+ 1309  NBSTREAM=2 NBBLOCK=32 ./new-cuda-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 200
+ 1310  NBSTREAM=2 NBBLOCK=32 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 5
+ 1311  NBSTREAM=2 NBBLOCK=32 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 1
+ 1312  vi new-cuda-lightspmv-pr.cu 
+ 1313  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1314  NBSTREAM=2 NBBLOCK=32 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 50
+ 1315  NBSTREAM=2 NBBLOCK=32 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 10
+ 1316  vi streamUtils.cpp 
+ 1317  vi new-cuda-lightspmv-pr.cu 
+ 1318  vi LightSpMVCore.h 
+ 1319  vi LightSpMV_interface.hpp 
+ 1320  make clean 
+ 1321  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1322  NBSTREAM=2 NBBLOCK=32 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 10
+ 1323  NBSTREAM=2 NBBLOCK=32 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1324  cp new-cuda-pr-2gpus.cpp new-cuda-lightspmv-pr-2gpus.cu
+ 1325  ls
+ 1326  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1327  make clean 
+ 1328  vi makefile
+ 1329  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1330  NBSTREAM=2 NBBLOCK=32 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1331  NBSTREAM=2 NBBLOCK=32 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 5
+ 1332  NBSTREAM=2 NBBLOCK=32 ./new-cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 5
+ 1333  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1334  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1335  NBSTREAM=2 NBBLOCK=32 ./new-cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1336  NBSTREAM=1 NBBLOCK=1 ./new-cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1337  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1338  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1339  NBSTREAM=1 NBBLOCK=1 ./new-cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1340  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1341  NBSTREAM=1 NBBLOCK=8 ./new-cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1342  vi streamUtils.cpp 
+ 1343  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1344  make clean 
+ 1345  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1346  NBSTREAM=1 NBBLOCK=8 ./new-cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1347  vi streamUtils.cpp 
+ 1348  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1349  make clean 
+ 1350  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1351  NBSTREAM=1 NBBLOCK=8 ./new-cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1352  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1353  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1354  NBSTREAM=1 NBBLOCK=8 ./new-cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1355  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1356  NBSTREAM=4 NBBLOCK=8 ./new-cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1357  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1358  NBSTREAM=1 NBBLOCK=2 ./new-cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1359  vi LightSpMV_interface.hpp 
+ 1360  ls
+ 1361  vi new-cuda-lightspmv-pr.cu 
+ 1362  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1363  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1364  NBSTREAM=1 NBBLOCK=2 ./new-cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1365  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1366  NBSTREAM=1 NBBLOCK=2 ./cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1367  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1368  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1369  NBSTREAM=1 NBBLOCK=2 ./cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1370  vi 
+ 1371  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1372  vi streamUtils.cpp 
+ 1373  make clean 
+ 1374  NBSTREAM=1 NBBLOCK=2 ./cuda-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1375  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-pr-2gpus 
+ 1376  make clean 
+ 1377  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-pr-2gpus 
+ 1378  NBSTREAM=1 NBBLOCK=2 ./new-cuda-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1379  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1380  make clean 
+ 1381  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1382  NBSTREAM=1 NBBLOCK=2 ./ /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1383  NBSTREAM=1 NBBLOCK=2 ./cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1384  NBSTREAM=2 NBBLOCK=8 ./cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1385  NBSTREAM=2 NBBLOCK=8 ./cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 50
+ 1386  vi LightSpMVCore.h 
+ 1387  vi LightSpMV_interface.hpp 
+ 1388  make clean 
+ 1389  vi streamUtils.cpp 
+ 1390  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1391  vi makefile
+ 1392  ls
+ 1393  ls *.o
+ 1394  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus
+ 1395  NBSTREAM=2 NBBLOCK=8 ./cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 50
+ 1396  NBSTREAM=2 NBBLOCK=8 ./cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1397  rm new-cuda-lightspmv-pr-2gpus
+ 1398  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus
+ 1399  NBSTREAM=2 NBBLOCK=8 ./cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 50
+ 1400  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1401  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus
+ 1402  NBSTREAM=2 NBBLOCK=8 ./new-cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 50
+ 1403  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1404  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus
+ 1405  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1406  vi LightSpMV_interface.hpp 
+ 1407  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus
+ 1408  NBSTREAM=2 NBBLOCK=8 ./new-cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 50
+ 1409  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1410  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus
+ 1411  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1412  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus
+ 1413  NBSTREAM=2 NBBLOCK=8 ./new-cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 50
+ 1414  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1415  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus
+ 1416  NBSTREAM=2 NBBLOCK=8 ./new-cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1417  NBSTREAM=1 NBBLOCK=2 ./new-cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1418  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1419  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus
+ 1420  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1421  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus
+ 1422  NBSTREAM=1 NBBLOCK=2 ./new-cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1423  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1424  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus
+ 1425  NBSTREAM=1 NBBLOCK=2 ./new-cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1426  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1427  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus
+ 1428  NBSTREAM=1 NBBLOCK=2 ./new-cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1429  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1430  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus
+ 1431  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1432  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus
+ 1433  NBSTREAM=1 NBBLOCK=2 ./new-cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1434  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1435  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus
+ 1436  clear
+ 1437  NBSTREAM=1 NBBLOCK=2 ./new-cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1438  NBSTREAM=1 NBBLOCK=1 ./new-cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1439  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1440  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus
+ 1441  NBSTREAM=1 NBBLOCK=1 ./new-cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1442  NBSTREAM=1 NBBLOCK=1 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1443  NBSTREAM=8 NBBLOCK=128 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1444  NBSTREAM=8 NBBLOCK=128 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 10
+ 1445  NBSTREAM=8 NBBLOCK=128 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 5
+ 1446  NBSTREAM=8 NBBLOCK=128 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 4
+ 1447  NBSTREAM=1 NBBLOCK=1 ./new-cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1448  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1449  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus
+ 1450  NBSTREAM=1 NBBLOCK=1 ./new-cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1451  vi streamUtils.cpp 
+ 1452  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1453  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus
+ 1454  NBSTREAM=1 NBBLOCK=1 ./new-cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1455  vi LightSpMV_interface.hpp 
+ 1456  vi LightSpMVCore.h 
+ 1457  vi LightSpMV_interface.hpp 
+ 1458  make clean 
+ 1459  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus
+ 1460  NBSTREAM=1 NBBLOCK=1 ./new-cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1461  make clean 
+ 1462  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1463  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus
+ 1464  NBSTREAM=1 NBBLOCK=1 ./new-cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1465  MODE=nvcc OPT=yes DEBUG=false make -e cuda-lightspmv-pr-2gpus
+ 1466  NBSTREAM=1 NBBLOCK=1 ./cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1467  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1468  MODE=nvcc OPT=yes DEBUG=false make -e cuda-lightspmv-pr-2gpus
+ 1469  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus
+ 1470  NBSTREAM=1 NBBLOCK=1 ./new-cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1471  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1472  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus
+ 1473  NBSTREAM=1 NBBLOCK=1 ./new-cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1474  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1475  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus
+ 1476  NBSTREAM=1 NBBLOCK=1 ./new-cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1477  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1478  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus
+ 1479  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1480  NBSTREAM=1 NBBLOCK=1 ./new-cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1481  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1482  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus
+ 1483  NBSTREAM=1 NBBLOCK=1 ./new-cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1484  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1485  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus
+ 1486  NBSTREAM=1 NBBLOCK=1 ./new-cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1487  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1488  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus
+ 1489  NBSTREAM=1 NBBLOCK=1 ./new-cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1490  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1491  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus
+ 1492  NBSTREAM=1 NBBLOCK=1 ./new-cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1493  NBSTREAM=1 NBBLOCK=4 ./new-cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1494  rm new-cuda-lightspmv-pr-2gpus.cu 
+ 1495  rm new-cuda-lightspmv-pr-2gpus.o
+ 1496  ls
+ 1497  cd program/ShMemGraph/src/page_rank/
+ 1498  ls
+ 1499  vi new-cuda-lightspmv-pr.cu 
+ 1500  vi makefile
+ 1501  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr 
+ 1502  NBSTREAM=4 NBBLOCK=16 ./cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1503  NBSTREAM=1 NBBLOCK=1 ./cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1504  NBSTREAM=1 NBBLOCK=4 ./cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1505  NBSTREAM=2 NBBLOCK=4 ./cuda-lightspmv-pr-2gpus /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1506  NBSTREAM=1 NBBLOCK=1 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1507  NBSTREAM=1 NBBLOCK=2 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1508  NBSTREAM=1 NBBLOCK=4 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1509  NBSTREAM=2 NBBLOCK=4 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1510  nvvp 
+ 1511  htop
+ 1512  ls
+ 1513  gedit new-cuda-lightspmv-pr.cu 
+ 1514  gedit new-cuda-pr-2gpus.cpp 
+ 1515  htop
+ 1516  vi new-cuda-lightspmv-pr.cu 
+ 1517  vi cuda-lightspmv-pr-2gpus.cu 
+ 1518  htop
+ 1519  cd program/ShMemGraph/src/page_rank/
+ 1520  ls
+ 1521  NBSTREAM=2 NBBLOCK=4 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1522  NBSTREAM=2 NBBLOCK=4 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 5
+ 1523  NBSTREAM=2 NBBLOCK=4 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 10
+ 1524  NBSTREAM=2 NBBLOCK=32 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 10
+ 1525  NBSTREAM=2 NBBLOCK=32 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 5
+ 1526  NBSTREAM=2 NBBLOCK=128 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 5
+ 1527  NBSTREAM=2 NBBLOCK=128 ./new-cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1528  NBSTREAM=2 NBBLOCK=128 ./cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1529  NBSTREAM=2 NBBLOCK=128 ./cuda-lightspmv-pr /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 10
+ 1530  vi cuda-lightspmv-pr-2gpus.cu 
+ 1531  rm new-cuda-lightspmv-pr-2gpus 
+ 1532  cp cuda-pr-2gpus.cpp new-cuda-lightspmv-pr-2gpus.cpp
+ 1533  vi cuda-lightspmv-pr-2gpus.cu 
+ 1534  rm new-cuda-lightspmv-pr-2gpus.cpp 
+ 1535  cp new-cuda-pr-2gpus.cpp new-cuda-lightspmv-pr-2gpus.cpp
+ 1536  vi cuda-lightspmv-pr-2gpus.cu 
+ 1537  vi cuda-lightspmv-pr-2gpus.cu 
+ 1538  cd program/ShMemGraph/src/page_rank/
+ 1539  vi cuda-lightspmv-pr-2gpus.cu 
+ 1540  ps -fux
+ 1541  kill -9 29025
+ 1542  ps -fux
+ 1543  vi cuda-lightspmv-pr-2gpus.cu 
+ 1544  vi new-cuda-lightspmv-pr-2gpus.cpp 
+ 1545  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1546  vi new-cuda-lightspmv-pr-2gpus.cpp 
+ 1547  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1548  mv new-cuda-lightspmv-pr-2gpus.cpp new-cuda-lightspmv-pr-2gpus.cpp new-cuda-lightspmv-pr-2gpus.cu
+ 1549  vi new-cuda-lightspmv-pr-2gpus.cpp 
+ 1550  mv new-cuda-lightspmv-pr-2gpus.cpp new-cuda-lightspmv-pr-2gpus.cu
+ 1551  vi new-cuda-lightspmv-pr-2gpus.cpp 
+ 1552  vi new-cuda-lightspmv-pr-2gpus.cu
+ 1553  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1554  ls
+ 1555  NBSTREAM=2 NBBLOCK=4 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1556  NBSTREAM=1 NBBLOCK=1 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1557  vi new-cuda-lightspmv-pr-2gpus.cu
+ 1558  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1559  NBSTREAM=2 NBBLOCK=4 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1560  vi new-cuda-lightspmv-pr-2gpus.cu
+ 1561  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1562  NBSTREAM=2 NBBLOCK=4 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1563  NBSTREAM=1 NBBLOCK=1 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1564  vi new-cuda-lightspmv-pr-2gpus.cu
+ 1565  rm new-cuda-lightspmv-pr-2gpus.cu 
+ 1566  cp cuda-lightspmv-pr-2gpus.cu new-cuda-lightspmv-pr-2gpus.cu
+ 1567  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1568  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1569  make clean 
+ 1570  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1571  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus > m
+ 1572  ls
+ 1573  vi m
+ 1574  rm m
+ 1575  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1576  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1577  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus | more
+ 1578  clear
+ 1579  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus | more
+ 1580  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1581  clear
+ 1582  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1583  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1584  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1585  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1586  clear
+ 1587  htop
+ 1588  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1589  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1590  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1591  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1592  vi m
+ 1593  make clean 
+ 1594  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1595  NBSTREAM1 NBBLOCK=1 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1596  NBSTREAM=1 NBBLOCK=1 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1597  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1598  NBSTREAM=1 NBBLOCK=1 ./new-cuda-pr-2gpus  /home/esaule1/Graphs/SNAP/web-Google/web-Google.
+ 1599  NBSTREAM=1 NBBLOCK=32 ./new-cuda-pr-2gpus  /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1600  NBSTREAM=1 NBBLOCK=1 ./new-cuda-lightspmv-pr  /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1601  NBSTREAM=1 NBBLOCK=1 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1602  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1603  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1604  NBSTREAM=1 NBBLOCK=1 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1605  ps -fux
+ 1606  kill -9 30714
+ 1607  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1608  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1609  NBSTREAM=1 NBBLOCK=1 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1610  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1611  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1612  NBSTREAM=1 NBBLOCK=1 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1613  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1614  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1615  NBSTREAM=1 NBBLOCK=1 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1616  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1617  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1618  NBSTREAM=1 NBBLOCK=1 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1619  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1620  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1621  NBSTREAM=1 NBBLOCK=1 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1622  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1623  vi LightSpMV_interface.hpp 
+ 1624  make clean 
+ 1625  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1626  NBSTREAM=1 NBBLOCK=1 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1627  htop
+ 1628  make clean 
+ 1629  vi LightSpMV_interface.hpp 
+ 1630  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1631  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1632  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1633  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1634  NBSTREAM=1 NBBLOCK=1 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1635  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1636  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1637  NBSTREAM=1 NBBLOCK=1 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1638  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1639  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1640  NBSTREAM=1 NBBLOCK=1 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1641  NBSTREAM=1 NBBLOCK=4 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1642  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1643  vi streamUtils.cpp 
+ 1644  make clean 
+ 1645  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1646  NBSTREAM=1 NBBLOCK=4 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1647  rm new-cuda-lightspmv-pr-2gpus.cu 
+ 1648  cp new-cuda-pr-2gpus.cpp new-cuda-lightspmv-pr-2gpus.cu
+ 1649  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1650  make clean 
+ 1651  ls
+ 1652  rm new-cuda-lightspmv-pr-2gpus
+ 1653  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1654  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1655  clear
+ 1656  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1657  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1658  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1659  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1660  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1661  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1662  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1663  ps -fux
+ 1664  kill -9 29510
+ 1665  cd program/ShMemGraph/src/page_rank/
+ 1666  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1667  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1668  PS -FUX
+ 1669  ps -fux
+ 1670  kill -9 32022
+ 1671  cd program/ShMemGraph/src/page_rank/
+ 1672  NBSTREAM=1 NBBLOCK=4 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1673  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1674  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1675  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1676  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1677  NBSTREAM=1 NBBLOCK=4 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1678  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1679  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1680  NBSTREAM=1 NBBLOCK=4 ./cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1681  vi cuda-lightspmv-pr-2gpus.cu 
+ 1682  MODE=nvcc OPT=yes DEBUG=false make -e cuda-lightspmv-pr-2gpus 
+ 1683  NBSTREAM=1 NBBLOCK=4 ./cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1684  NBSTREAM=1 NBBLOCK=4 ./cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 5
+ 1685  vi cuda-lightspmv-pr-2gpus.cu 
+ 1686  MODE=nvcc OPT=yes DEBUG=false make -e cuda-lightspmv-pr-2gpus 
+ 1687  NBSTREAM=1 NBBLOCK=1 ./cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 5
+ 1688  vi cuda-lightspmv-pr-2gpus.cu 
+ 1689  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1690  MODE=nvcc OPT=yes DEBUG=false make -e cuda-lightspmv-pr-2gpus 
+ 1691  vi cuda-lightspmv-pr-2gpus.cu 
+ 1692  MODE=nvcc OPT=yes DEBUG=false make -e cuda-lightspmv-pr-2gpus 
+ 1693  vi cuda-lightspmv-pr-2gpus.cu 
+ 1694  MODE=nvcc OPT=yes DEBUG=false make -e cuda-lightspmv-pr-2gpus 
+ 1695  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1696  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1697  NBSTREAM=1 NBBLOCK=1 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 5
+ 1698  NBSTREAM=1 NBBLOCK=4 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 5
+ 1699  NBSTREAM=2 NBBLOCK=4 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 5
+ 1700  NBSTREAM=2 NBBLOCK=4 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 15
+ 1701  NBSTREAM=1 NBBLOCK=1 ./cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 15
+ 1702  NBSTREAM=2 NBBLOCK=4 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 15
+ 1703  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1704  NBSTREAM=2 NBBLOCK=4 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin 
+ 1705  NBSTREAM=2 NBBLOCK=4 ./cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin 
+ 1706  NBSTREAM=2 NBBLOCK=4 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin 
+ 1707  NBSTREAM=2 NBBLOCK=4 ./new-cuda-pr-2gpus  /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin 
+ 1708  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1709  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1710  NBSTREAM=2 NBBLOCK=4 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin 
+ 1711  NBSTREAM=2 NBBLOCK=4 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/p2p-Gnutella09/p2p-Gnutella09.bin 
+ 1712  NBSTREAM=2 NBBLOCK=4 ./cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/p2p-Gnutella09/p2p-Gnutella09.bin 
+ 1713  NBSTREAM=2 NBBLOCK=4 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/
+ 1714  NBSTREAM=2 NBBLOCK=4 ./cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/p2p-Gnutella09/p2p-Gnutella09.bin 5
+ 1715  NBSTREAM=2 NBBLOCK=4 ./cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/p2p-Gnutella09/p2p-Gnutella09.bin 15
+ 1716  NBSTREAM=2 NBBLOCK=4 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/p2p-Gnutella09/p2p-Gnutella09.bin 15
+ 1717  NBSTREAM=2 NBBLOCK=32 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/p2p-Gnutella09/p2p-Gnutella09.bin 15
+ 1718  NBSTREAM=2 NBBLOCK=32 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/p2p-Gnutella09/p2p-Gnutella09.bin 5
+ 1719  NBSTREAM=2 NBBLOCK=32 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/p2p-Gnutella09/p2p-Gnutella09.bin 
+ 1720  NBSTREAM=2 NBBLOCK=32 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/p2p-Gnutella09/p2p-Gnutella09.bin 3
+ 1721  NBSTREAM=2 NBBLOCK=32 ./new-cuda-pr-2gpus  /home/esaule1/Graphs/SNAP/p2p-Gnutella09/p2p-Gnutella09.bin 3
+ 1722  NBSTREAM=2 NBBLOCK=32 ./new-cuda-pr-2gpus  /home/esaule1/Graphs/SNAP/p2p-Gnutella09/p2p-Gnutella09.bin 3
+ 1723  NBSTREAM=2 NBBLOCK=32 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/p2p-Gnutella09/p2p-Gnutella09.bin 
+ 1724  NBSTREAM=1 NBBLOCK=32 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/p2p-Gnutella09/p2p-Gnutella09.bin
+ 1725  NBSTREAM=1 NBBLOCK=4 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/p2p-Gnutella09/p2p-Gnutella09.bin
+ 1726  NBSTREAM=1 NBBLOCK=4 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/p2p-Gnutella09/p2p-Gnutella09.bin 5
+ 1727  NBSTREAM=1 NBBLOCK=2 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/p2p-Gnutella09/p2p-Gnutella09.bin 5
+ 1728  NBSTREAM=1 NBBLOCK=1 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/p2p-Gnutella09/p2p-Gnutella09.bin 5
+ 1729  nvvp 
+ 1730  NBSTREAM=1 NBBLOCK=4 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/roadNet-PA/roadNet-PA.bin 
+ 1731  NBSTREAM=1 NBBLOCK=4 ./cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/roadNet-PA/roadNet-PA.bin 
+ 1732  NBSTREAM=1 NBBLOCK=4 ./cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/roadNet-PA/roadNet-PA.bin 5
+ 1733  NBSTREAM=1 NBBLOCK=4 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/roadNet-PA/roadNet-PA.bin 5
+ 1734  NBSTREAM=1 NBBLOCK=4 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/roadNet-PA/roadNet-PA.bin 15
+ 1735  NBSTREAM=2 NBBLOCK=4 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/roadNet-PA/roadNet-PA.bin 15
+ 1736  NBSTREAM=2 NBBLOCK=4 ./cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/roadNet-PA/roadNet-PA.bin 15
+ 1737  nvvp 
+ 1738  echo $PWD'>'
+ 1739  echo "<<<<< NSIGHT";/bin/sh -c "cd \"/home/mkhatiri/program/ShMemGraph/src/page_rank\";export LD_LIBRARY_PATH=\"/usr/local/cuda-7.0/lib64\":\${LD_LIBRARY_PATH};export NBBLOCK=\"8\";export NBSTREAM=\"2\";/usr/local/cuda-7.0/bin/nvprof  --quiet  --concurrent-kernels on --profile-api-trace all --profile-from-start on --system-profiling off --unified-memory-profiling off -o \"/tmp/nvvp_mkhatiri/launch/2/api.log\" \"/home/mkhatiri/program/ShMemGraph/src/page_rank/new-cuda-lightspmv-pr-2gpus\" /home/esaule1/Graphs/SNAP/roadNet-PA/roadNet-PA.bin";echo "<<<<<" NSIGHT: $? ">>>>>";exit
+ 1740  echo $PWD'>'
+ 1741  echo "<<<<< NSIGHT";/bin/sh -c "export LD_LIBRARY_PATH=\"/usr/local/cuda-7.0/lib64\":\${LD_LIBRARY_PATH};\"/usr/local/cuda-7.0/bin/nvprof\" --query-cuda-info";echo ">>>>> NSIGHT"
+ 1742  HTOP
+ 1743  htop
+ 1744  cd program/ShMemGraph/src/page_rank/
+ 1745  NBSTREAM=2 NBBLOCK=4 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/roadNet-PA/roadNet-PA.bin 15
+ 1746  NBSTREAM=2 NBBLOCK=4 ./cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/roadNet-PA/roadNet-PA.bin 15
+ 1747  NBSTREAM=2 NBBLOCK=8 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/roadNet-PA/roadNet-PA.bin 15
+ 1748  NBSTREAM=4 NBBLOCK=8 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/roadNet-PA/roadNet-PA.bin 15
+ 1749  NBSTREAM=4 NBBLOCK=8 ./new-cuda-lightspmv-pr  /home/esaule1/Graphs/SNAP/roadNet-PA/roadNet-PA.bin 15
+ 1750  NBSTREAM=4 NBBLOCK=8 ./new-cuda-lightspmv-pr  /home/esaule1/Graphs/SNAP/roadNet-PA/roadNet-PA.bin 20
+ 1751  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1752  nvvp
+ 1753  cd program/ShMemGraph/src/page_rank/
+ 1754  vi generate-result.sh 
+ 1755  ls
+ 1756  vi generate-result.sh 
+ 1757  htop
+ 1758  NBSTREAM=2 NBBLOCK=64 ./new-cuda-lightspmv-pr  /home/esaule1/Graphs/SNAP/roadNet-PA/roadNet-PA.bin 10
+ 1759  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1760  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1761  NBSTREAM=2 NBBLOCK=64 ./new-cuda-lightspmv-pr  /home/esaule1/Graphs/SNAP/roadNet-PA/roadNet-PA.bin 10
+ 1762  NBSTREAM=2 NBBLOCK=64 ./new-cuda-lightspmv-pr  /home/esaule1/Graphs/SNAP/roadNet-PA/roadNet-PA.bin 5
+ 1763  vi LightSpMV_interface.hpp 
+ 1764  NBSTREAM=2 NBBLOCK=64 ./new-cuda-lightspmv-pr  /home/esaule1/Graphs/SNAP/roadNet-PA/roadNet-PA.bin 3
+ 1765  vi new-cuda-lightspmv-pr.cu 
+ 1766  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1767  vi cuda-lightspmv-pr.cu 
+ 1768  vi cuda-lightspmv-pr-2gpus.cu 
+ 1769  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1770  MODE=nvcc OPT=yes DEBUG=false make -e cuda-lightspmv-pr-2gpus 
+ 1771  NBSTREAM=2 NBBLOCK=64 ./new-cuda-lightspmv-pr  /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin 
+ 1772  NBSTREAM=2 NBBLOCK=64 ./cuda-lightspmv-pr  /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin 
+ 1773  NBSTREAM=2 NBBLOCK=64 ./new-cuda-lightspmv-pr  /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin 3
+ 1774  NBSTREAM=2 NBBLOCK=64 ./cuda-lightspmv-pr  /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin 3
+ 1775  NBSTREAM=2 NBBLOCK=64 ./new-cuda-lightspmv-pr  /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin 3
+ 1776  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1777  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1778  NBSTREAM=2 NBBLOCK=64 ./new-cuda-lightspmv-pr  /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin 3
+ 1779  NBSTREAM=2 NBBLOCK=64 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin 3
+ 1780  vi new-cuda-lightspmv-pr-2gpus.cu 2
+ 1781  NBSTREAM=2 NBBLOCK=64 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin 2
+ 1782  NBSTREAM=2 NBBLOCK=64 ./new-cuda-lightspmv-pr  /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin 2
+ 1783  NBSTREAM=2 NBBLOCK=64 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin 2
+ 1784  NBSTREAM=2 NBBLOCK=32 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin 2
+ 1785  NBSTREAM=2 NBBLOCK=16 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin 2
+ 1786  vi generate-result.sh 
+ 1787  screen
+ 1788  screen -r
+ 1789  NBSTREAM=2 NBBLOCK=16 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin 2
+ 1790  nvvp
+ 1791  ./generate-result.sh 
+ 1792  cd program/ShMemGraph/src/page_rank/
+ 1793  emacs new-cuda-lightspmv-pr.cu 
+ 1794  echo $PWD'>'
+ 1795  echo "<<<<< NSIGHT";/bin/sh -c "cd \"/home/mkhatiri/program/ShMemGraph/src/page_rank\";export LD_LIBRARY_PATH=\"/usr/local/cuda-7.0/lib64\":\${LD_LIBRARY_PATH};export NBBLOCK=\"16\";export NBSTREAM=\"2\";/usr/local/cuda-7.0/bin/nvprof  --quiet  --concurrent-kernels on --profile-api-trace all --profile-from-start on --system-profiling off --unified-memory-profiling off -o \"/tmp/nvvp_mkhatiri/launch/0/api.log\" \"/home/mkhatiri/program/ShMemGraph/src/page_rank/new-cuda-lightspmv-pr-2gpus\" /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin";echo "<<<<<" NSIGHT: $? ">>>>>";exit
+ 1796  echo $PWD'>'
+ 1797  echo "<<<<< NSIGHT";/bin/sh -c "cd \"/home/mkhatiri/program/ShMemGraph/src/page_rank\";export LD_LIBRARY_PATH=\"/usr/local/cuda-7.0/lib64\":\${LD_LIBRARY_PATH};export NBBLOCK=\"16\";export NBSTREAM=\"2\";/usr/local/cuda-7.0/bin/nvprof  --quiet  --concurrent-kernels on --profile-api-trace all --profile-from-start on --system-profiling off --unified-memory-profiling off -o \"/tmp/nvvp_mkhatiri/launch/1/api.log\" \"/home/mkhatiri/program/ShMemGraph/src/page_rank/new-cuda-lightspmv-pr-2gpus\" /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin";echo "<<<<<" NSIGHT: $? ">>>>>";exit
+ 1798  echo $PWD'>'
+ 1799  echo "<<<<< NSIGHT";/bin/sh -c "cd \"/home/mkhatiri/program/ShMemGraph/src/page_rank\";export LD_LIBRARY_PATH=\"/usr/local/cuda-7.0/lib64\":\${LD_LIBRARY_PATH};export NBBLOCK=\"16\";export NBSTREAM=\"2\";/usr/local/cuda-7.0/bin/nvprof  --quiet  --concurrent-kernels on --profile-api-trace all --profile-from-start on --system-profiling off --unified-memory-profiling off -o \"/tmp/nvvp_mkhatiri/launch/2/api.log\" \"/home/mkhatiri/program/ShMemGraph/src/page_rank/new-cuda-lightspmv-pr\" /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin";echo "<<<<<" NSIGHT: $? ">>>>>";exit
+ 1800  echo $PWD'>'
+ 1801  echo "<<<<< NSIGHT";/bin/sh -c "cd \"/home/mkhatiri/program/ShMemGraph/src/page_rank\";export LD_LIBRARY_PATH=\"/usr/local/cuda-7.0/lib64\":\${LD_LIBRARY_PATH};export NBBLOCK=\"16\";export NBSTREAM=\"2\";/usr/local/cuda-7.0/bin/nvprof  --quiet  --concurrent-kernels on --profile-api-trace all --profile-from-start on --system-profiling off --unified-memory-profiling off -o \"/tmp/nvvp_mkhatiri/launch/3/api.log\" \"/home/mkhatiri/program/ShMemGraph/src/page_rank/new-cuda-lightspmv-pr-2gpus\" /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin";echo "<<<<<" NSIGHT: $? ">>>>>";exit
+ 1802  echo $PWD'>'
+ 1803  echo "<<<<< NSIGHT";/bin/sh -c "cd \"/home/mkhatiri/program/ShMemGraph/src/page_rank\";export LD_LIBRARY_PATH=\"/usr/local/cuda-7.0/lib64\":\${LD_LIBRARY_PATH};export NBBLOCK=\"16\";export NBSTREAM=\"2\";/usr/local/cuda-7.0/bin/nvprof  --quiet  --concurrent-kernels on --profile-api-trace all --profile-from-start on --system-profiling off --unified-memory-profiling off -o \"/tmp/nvvp_mkhatiri/launch/4/api.log\" \"/home/mkhatiri/program/ShMemGraph/src/page_rank/new-cuda-lightspmv-pr\" /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin";echo "<<<<<" NSIGHT: $? ">>>>>";exit
+ 1804  echo $PWD'>'
+ 1805  echo "<<<<< NSIGHT";/bin/sh -c "cd \"/home/mkhatiri/program/ShMemGraph/src/page_rank\";export LD_LIBRARY_PATH=\"/usr/local/cuda-7.0/lib64\":\${LD_LIBRARY_PATH};export NBBLOCK=\"16\";export NBSTREAM=\"2\";/usr/local/cuda-7.0/bin/nvprof  --quiet  --concurrent-kernels on --profile-api-trace all --profile-from-start on --system-profiling off --unified-memory-profiling off -o \"/tmp/nvvp_mkhatiri/launch/5/api.log\" \"/home/mkhatiri/program/ShMemGraph/src/page_rank/new-cuda-pr-2gpus\" /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin";echo "<<<<<" NSIGHT: $? ">>>>>";exit
+ 1806  echo $PWD'>'
+ 1807  echo "<<<<< NSIGHT";/bin/sh -c "cd \"/home/mkhatiri/program/ShMemGraph/src/page_rank\";export LD_LIBRARY_PATH=\"/usr/local/cuda-7.0/lib64\":\${LD_LIBRARY_PATH};export NBBLOCK=\"16\";export NBSTREAM=\"2\";/usr/local/cuda-7.0/bin/nvprof  --quiet  --concurrent-kernels on --profile-api-trace all --profile-from-start on --system-profiling off --unified-memory-profiling off -o \"/tmp/nvvp_mkhatiri/launch/6/api.log\" \"/home/mkhatiri/program/ShMemGraph/src/page_rank/new-cuda-pr\" /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin";echo "<<<<<" NSIGHT: $? ">>>>>";exit
+ 1808  echo $PWD'>'
+ 1809  echo "<<<<< NSIGHT";/bin/sh -c "cd \"/home/mkhatiri/program/ShMemGraph/src/page_rank\";export LD_LIBRARY_PATH=\"/usr/local/cuda-7.0/lib64\":\${LD_LIBRARY_PATH};export NBBLOCK=\"16\";export NBSTREAM=\"2\";/usr/local/cuda-7.0/bin/nvprof  --quiet  --concurrent-kernels on --profile-api-trace all --profile-from-start on --system-profiling off --unified-memory-profiling off -o \"/tmp/nvvp_mkhatiri/launch/7/api.log\" \"/home/mkhatiri/program/ShMemGraph/src/page_rank/new-cuda-pr\" /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin";echo "<<<<<" NSIGHT: $? ">>>>>";exit
+ 1810  echo $PWD'>'
+ 1811  echo "<<<<< NSIGHT";/bin/sh -c "cd \"/home/mkhatiri/program/ShMemGraph/src/page_rank\";export LD_LIBRARY_PATH=\"/usr/local/cuda-7.0/lib64\":\${LD_LIBRARY_PATH};export NBBLOCK=\"16\";export NBSTREAM=\"2\";/usr/local/cuda-7.0/bin/nvprof  --quiet  --concurrent-kernels on --profile-api-trace all --profile-from-start on --system-profiling off --unified-memory-profiling off -o \"/tmp/nvvp_mkhatiri/launch/8/api.log\" \"/home/mkhatiri/program/ShMemGraph/src/page_rank/new-cuda-lightspmv-pr\" /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin";echo "<<<<<" NSIGHT: $? ">>>>>";exit
+ 1812  echo $PWD'>'
+ 1813  echo "<<<<< NSIGHT";/bin/sh -c "cd \"/home/mkhatiri/program/ShMemGraph/src/page_rank\";export LD_LIBRARY_PATH=\"/usr/local/cuda-7.0/lib64\":\${LD_LIBRARY_PATH};export NBBLOCK=\"16\";export NBSTREAM=\"2\";/usr/local/cuda-7.0/bin/nvprof  --quiet  --concurrent-kernels on --profile-api-trace all --profile-from-start on --system-profiling off --unified-memory-profiling off -o \"/tmp/nvvp_mkhatiri/launch/9/api.log\" \"/home/mkhatiri/program/ShMemGraph/src/page_rank/new-cuda-lightspmv-pr-2gpus\" /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin";echo "<<<<<" NSIGHT: $? ">>>>>";exit
+ 1814  echo $PWD'>'
+ 1815  echo "<<<<< NSIGHT";/bin/sh -c "cd \"/home/mkhatiri/program/ShMemGraph/src/page_rank\";export LD_LIBRARY_PATH=\"/usr/local/cuda-7.0/lib64\":\${LD_LIBRARY_PATH};export NBBLOCK=\"16\";export NBSTREAM=\"2\";/usr/local/cuda-7.0/bin/nvprof  --quiet  --concurrent-kernels on --profile-api-trace all --profile-from-start on --system-profiling off --unified-memory-profiling off -o \"/tmp/nvvp_mkhatiri/launch/10/api.log\" \"/home/mkhatiri/program/ShMemGraph/src/page_rank/cuda-lightspmv-pr\" /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin";echo "<<<<<" NSIGHT: $? ">>>>>";exit
+ 1816  echo $PWD'>'
+ 1817  echo "<<<<< NSIGHT";/bin/sh -c "cd \"/home/mkhatiri/program/ShMemGraph/src/page_rank\";export LD_LIBRARY_PATH=\"/usr/local/cuda-7.0/lib64\":\${LD_LIBRARY_PATH};export NBBLOCK=\"16\";export NBSTREAM=\"2\";/usr/local/cuda-7.0/bin/nvprof  --quiet  --concurrent-kernels on --profile-api-trace all --profile-from-start on --system-profiling off --unified-memory-profiling off -o \"/tmp/nvvp_mkhatiri/launch/11/api.log\" \"/home/mkhatiri/program/ShMemGraph/src/page_rank/cuda-lightspmv-pr-2gpus\" /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin";echo "<<<<<" NSIGHT: $? ">>>>>";exit
+ 1818  echo $PWD'>'
+ 1819  echo "<<<<< NSIGHT";/bin/sh -c "cd \"/home/mkhatiri/program/ShMemGraph/src/page_rank\";export LD_LIBRARY_PATH=\"/usr/local/cuda-7.0/lib64\":\${LD_LIBRARY_PATH};export NBBLOCK=\"16\";export NBSTREAM=\"4\";/usr/local/cuda-7.0/bin/nvprof  --quiet  --concurrent-kernels on --profile-api-trace all --profile-from-start on --system-profiling off --unified-memory-profiling off -o \"/tmp/nvvp_mkhatiri/launch/12/api.log\" \"/home/mkhatiri/program/ShMemGraph/src/page_rank/new-cuda-lightspmv-pr-2gpus\" /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin";echo "<<<<<" NSIGHT: $? ">>>>>";exit
+ 1820  echo $PWD'>'
+ 1821  echo "<<<<< NSIGHT";/bin/sh -c "cd \"/home/mkhatiri/program/ShMemGraph/src/page_rank\";export LD_LIBRARY_PATH=\"/usr/local/cuda-7.0/lib64\":\${LD_LIBRARY_PATH};export NBBLOCK=\"16\";export NBSTREAM=\"4\";/usr/local/cuda-7.0/bin/nvprof  --quiet  --concurrent-kernels on --profile-api-trace all --profile-from-start on --system-profiling off --unified-memory-profiling off -o \"/tmp/nvvp_mkhatiri/launch/13/api.log\" \"/home/mkhatiri/program/ShMemGraph/src/page_rank/new-cuda-lightspmv-pr-2gpus\" /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin";echo "<<<<<" NSIGHT: $? ">>>>>";exit
+ 1822  echo $PWD'>'
+ 1823  echo "<<<<< NSIGHT";/bin/sh -c "cd \"/home/mkhatiri/program/ShMemGraph/src/page_rank\";export LD_LIBRARY_PATH=\"/usr/local/cuda-7.0/lib64\":\${LD_LIBRARY_PATH};export NBBLOCK=\"16\";export NBSTREAM=\"4\";/usr/local/cuda-7.0/bin/nvprof  --quiet  --concurrent-kernels on --profile-api-trace all --profile-from-start on --system-profiling off --unified-memory-profiling off -o \"/tmp/nvvp_mkhatiri/launch/14/api.log\" \"/home/mkhatiri/program/ShMemGraph/src/page_rank/new-cuda-lightspmv-pr-2gpus\" /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin";echo "<<<<<" NSIGHT: $? ">>>>>";exit
+ 1824  echo $PWD'>'
+ 1825  echo "<<<<< NSIGHT";/bin/sh -c "cd \"/home/mkhatiri/program/ShMemGraph/src/page_rank\";export LD_LIBRARY_PATH=\"/usr/local/cuda-7.0/lib64\":\${LD_LIBRARY_PATH};export NBBLOCK=\"16\";export NBSTREAM=\"4\";/usr/local/cuda-7.0/bin/nvprof  --quiet  --concurrent-kernels on --profile-api-trace all --profile-from-start on --system-profiling off --unified-memory-profiling off -o \"/tmp/nvvp_mkhatiri/launch/15/api.log\" \"/home/mkhatiri/program/ShMemGraph/src/page_rank/new-cuda-lightspmv-pr-2gpus\" /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin";echo "<<<<<" NSIGHT: $? ">>>>>";exit
+ 1826  echo $PWD'>'
+ 1827  echo "<<<<< NSIGHT";/bin/sh -c "cd \"/home/mkhatiri/program/ShMemGraph/src/page_rank\";export LD_LIBRARY_PATH=\"/usr/local/cuda-7.0/lib64\":\${LD_LIBRARY_PATH};export NBBLOCK=\"16\";export NBSTREAM=\"4\";/usr/local/cuda-7.0/bin/nvprof  --quiet  --concurrent-kernels on --profile-api-trace all --profile-from-start on --system-profiling off --unified-memory-profiling off -o \"/tmp/nvvp_mkhatiri/launch/16/api.log\" \"/home/mkhatiri/program/ShMemGraph/src/page_rank/new-cuda-lightspmv-pr-2gpus\" /home/esaule1/Graphs/SNAP/soc-higgs/higgs-social_network.bin";echo "<<<<<" NSIGHT: $? ">>>>>";exit
+ 1828  echo $PWD'>'
+ 1829  echo "<<<<< NSIGHT";/bin/sh -c "cd \"/home/mkhatiri/program/ShMemGraph/src/page_rank\";export LD_LIBRARY_PATH=\"/usr/local/cuda-7.0/lib64\":\${LD_LIBRARY_PATH};export NBBLOCK=\"16\";export NBSTREAM=\"2\";/usr/local/cuda-7.0/bin/nvprof  --quiet  --concurrent-kernels on --profile-api-trace all --profile-from-start on --system-profiling off --unified-memory-profiling off -o \"/tmp/nvvp_mkhatiri/launch/17/api.log\" \"/home/mkhatiri/program/ShMemGraph/src/page_rank/cuda-lightspmv-pr-2gpus\" /home/esaule1/Graphs/SNAP/soc-higgs/higgs-social_network.bin";echo "<<<<<" NSIGHT: $? ">>>>>";exit
+ 1830  HTOP
+ 1831  htop
+ 1832  cd program/ShMemGraph/src/page_rank/
+ 1833  ls
+ 1834  clear
+ 1835  NBSTREAM=2 NBBLOCK=16 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin 
+ 1836  NBSTREAM=2 NBBLOCK=16 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 
+ 1837  NBSTREAM=2 NBBLOCK=16 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 20
+ 1838  ls
+ 1839  NBSTREAM=2 NBBLOCK=16 ./new-cuda-lightspmv-pr  /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 20
+ 1840  nvidia-smi 
+ 1841  NBSTREAM=2 NBBLOCK=16 ./new-cuda-lightspmv-pr  /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 10
+ 1842  NBSTREAM=2 NBBLOCK=16 ./new-cuda-lightspmv-pr  /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 20
+ 1843  NBSTREAM=2 NBBLOCK=16 ./cuda-lightspmv-pr  /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 20
+ 1844  NBSTREAM=2 NBBLOCK=16 ./cuda-lightspmv-pr  /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 1000
+ 1845  MODE=nvcc OPT=yes DEBUG=false make -e cuda-lightspmv-pr
+ 1846  NBSTREAM=2 NBBLOCK=16 ./cuda-lightspmv-pr  /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 1
+ 1847  NBSTREAM=2 NBBLOCK=16 ./new-cuda-lightspmv-pr  /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 1
+ 1848  NBSTREAM=2 NBBLOCK=16 ./cuda-pr  /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 1
+ 1849  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1850  MODE=nvcc OPT=yes DEBUG=false make -e cuda-lightspmv-pr
+ 1851  make clean
+ 1852  MODE=nvcc OPT=yes DEBUG=false make -e cuda-lightspmv-pr
+ 1853  NBSTREAM=2 NBBLOCK=16 ./cuda-lightspmv-pr  /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 1
+ 1854  MODE=nvcc OPT=yes DEBUG=false make -e cuda-lightspmv-pr
+ 1855  make clean
+ 1856  MODE=nvcc OPT=yes DEBUG=false make -e cuda-lightspmv-pr
+ 1857  NBSTREAM=2 NBBLOCK=16 ./cuda-lightspmv-pr  /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 1
+ 1858  git add LightSpMV_interface.hpp 
+ 1859  git commit -m "deactivating texture memory optimization in lgihtspmv"
+ 1860  NBSTREAM=2 NBBLOCK=16 ./cuda-lightspmv-pr  /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin
+ 1861  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr
+ 1862  NBSTREAM=2 NBBLOCK=16 ./new-cuda-lightspmv-pr  /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 30
+ 1863  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1864  NBSTREAM=2 NBBLOCK=16 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 20
+ 1865  NBSTREAM=2 NBBLOCK=16 ./cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 20
+ 1866  vi generate-result.sh 
+ 1867  ./generate-result.sh 
+ 1868  ps -fux
+ 1869  kill -9 118293
+ 1870  ps -fu
+ 1871  kill -9 126485
+ 1872  ls
+ 1873  rm new-cuda-lightspmv-pr.log 
+ 1874  rm new-cuda-lightspmv-pr-2gpus.log 
+ 1875  ./generate-result.sh 
+ 1876  NBSTREAM=2 NBBLOCK=16 ./cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 20
+ 1877  NBSTREAM=2 NBBLOCK=16 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/web-Google/web-Google.bin 20
+ 1878  ls
+ 1879  clear
+ 1880  rm new-cuda-lightspmv-pr-2gpus.log 
+ 1881  rm new-cuda-lightspmv-pr.log 
+ 1882  ./generate-result.sh 
+ 1883  vi generate-result.sh 
+ 1884  ./generate-result.sh 
+ 1885  history 
+ 1886  ls
+ 1887  vi new-cuda-lightspmv-pr.log 
+ 1888  awk -F ' ' '{if($1="filename:") print $0}'
+ 1889  awk -F ' ' '{if($1="filename:") print $0}' new-cuda-lightspmv-pr.log 
+ 1890  awk -F ' ' '{if($1="filename*") print $0}' new-cuda-lightspmv-pr.log 
+ 1891  awk -F ' ' 'if($1="filename*") print $0' new-cuda-lightspmv-pr.log 
+ 1892  awk -F ' ' '{ if( $1 == "filename"}' new-cuda-lightspmv-pr.log 
+ 1893  awk -F ' ' '{if($1=="filename:") print $0}' new-cuda-lightspmv-pr.log 
+ 1894  awk -F ' ' '{if($1=="filename:") print $2 " "$7}' new-cuda-lightspmv-pr.log 
+ 1895  awk -F ' ' '{if($1=="filename:") print $2 " " $7 }' new-cuda-lightspmv-pr.log 
+ 1896  awk -F ' ' '{if($1=="filename:") print $2 " " $8 }' new-cuda-lightspmv-pr.log 
+ 1897  awk -F ' ' '{if($1=="filename:") print $2 " " $8 }' new-cuda-lightspmv-pr.log > c-l.csv 
+ 1898  awk -F ' ' '{if($1=="filename:") print $2 " " $8 }' new-cuda-lightspmv-pr-2gpus.log 
+ 1899  awk -F ' ' '{if($1=="filename:") print $02 " " $8 }' new-cuda-lightspmv-pr-2gpus.log 
+ 1900  awk -F ' ' '{if($1=="filename:") print $0 " " $8 }' new-cuda-lightspmv-pr-2gpus.log 
+ 1901  awk -F ' ' '{if($1=="filename:") print $2 " " $8 }' new-cuda-lightspmv-pr-2gpus.log 
+ 1902  awk -F ' ' '{if($1=="filename:") print $2 " " $8 }' new-cuda-lightspmv-pr-2gpus.log > c2-l.csv 
+ 1903  libreoffice c-l.csv 
+ 1904  bg
+ 1905  emacs new-cuda-lightspmv-pr-2gpus.cu 
+ 1906  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1907  NBSTREAM=2 NBBLOCK=16 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin 1
+ 1908  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1909  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1910  NBSTREAM=2 NBBLOCK=16 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin 1
+ 1911  NBSTREAM=4 NBBLOCK=16 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin 1
+ 1912  NBSTREAM=4 NBBLOCK=16 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin 1 | less
+ 1913  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 1914  emacs new-cuda-lightspmv-pr-2gpus.cu 
+ 1915  bg
+ 1916  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1917  NBSTREAM=4 NBBLOCK=16 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin 1 | less
+ 1918  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1919  NBSTREAM=4 NBBLOCK=16 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin 1 | less
+ 1920  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1921  NBSTREAM=4 NBBLOCK=16 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin 1 | less
+ 1922  vi generate-result.sh 
+ 1923  vi main-pr.hpp 
+ 1924  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1925  make clean 
+ 1926  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1927  rm new-cuda-lightspmv-pr-2gpus.log 
+ 1928  vi generate-result.sh 
+ 1929  ./generate-result.sh 
+ 1930  vi streamUtils.cpp 
+ 1931  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 1932  ./generate-result.sh 
+ 1933  vi generate-result.sh 
+ 1934  rm new-cuda-lightspmv-pr.log 
+ 1935  vi streamUtils.cpp 
+ 1936  ./generate-result.sh 
+ 1937  vi generate-result.sh 
+ 1938  rm new-cuda-lightspmv-pr-2gpus.log 
+ 1939  ./generate-result.sh 
+ 1940  vi generate-result.sh 
+ 1941  rm new-cuda-lightspmv-pr-2gpus.log 
+ 1942  ./generate-result.sh 
+ 1943  vi streamUtils.cpp 
+ 1944  NBSTREAM=2 NBBLOCK=18 ./new-cuda-lightspmv-pr  /home/esaule1/Graphs/SNAP/as-735/as-735.bin 
+ 1945  NBSTREAM=2 NBBLOCK=16 ./new-cuda-lightspmv-pr  /home/esaule1/Graphs/SNAP/as-735/as-735.bin 
+ 1946  NBSTREAM=2 NBBLOCK=16 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/as-735/as-735.bin 
+ 1947  NBSTREAM=2 NBBLOCK=16 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/as-735/as-735.bin 10
+ 1948  cd program/ShMemGraph/src/page_rank/
+ 1949  vi new-cuda-lightspmv-pr.cu 
+ 1950  htop 
+ 1951  ls
+ 1952  vi c.csv 
+ 1953  cp new-cuda-lightspmv-pr.log c-l.csv 
+ 1954  cp new-cuda-lightspmv-pr-2gpus.log c2-l.csv 
+ 1955  libreoffice 
+ 1956  libreoffice c-l.csv 
+ 1957  history 
+ 1958  awk -F " " "{print $0}"
+ 1959  awk -F " " "{print $0}" new-cuda-lightspmv-pr.log 
+ 1960  awk -F " " "{}" new-cuda-lightspmv-pr.log 
+ 1961  awk -F " " '{}' new-cuda-lightspmv-pr.log 
+ 1962  awk -F " " '{print $0}' new-cuda-lightspmv-pr.log 
+ 1963  awk -F " " '{ if($1="filename:") print $0}' new-cuda-lightspmv-pr.log 
+ 1964  awk -F " " '{ if($1='filename:') print $0}' new-cuda-lightspmv-pr.log 
+ 1965  awk -F " " '{ if($1='filename') print $0}' new-cuda-lightspmv-pr.log 
+ 1966  awk -F " " "{ if($1='filename') print $0}" new-cuda-lightspmv-pr.log 
+ 1967  awk -F " " '{ if($1='filename') print $0}' new-cuda-lightspmv-pr.log 
+ 1968  awk -F " " '{ if($1='filename:') print $0}' new-cuda-lightspmv-pr.log 
+ 1969  awk -F " " '{ if($1="filename:") print $0}' new-cuda-lightspmv-pr.log 
+ 1970  history > h
+ 1971  vi h
+ 1972  rm h
+ 1973  vi new-cuda-lightspmv-pr.log 
+ 1974  vi new-cuda-lightspmv-pr-2gpus.
+ 1975  vi new-cuda-lightspmv-pr-2gpus.log 
+ 1976  awk -F ' ' '{if($1=="filename:") print $2 " " $8 }' cuda-lightspmv-pr-2gpus.log
+ 1977  awk -F ' ' '{if($1=="filename:") print $2 " " $8 }' cuda-lightspmv-pr.log > c-l-origin.csv
+ 1978  awk -F ' ' '{if($1=="filename:") print $2 " " $8 }' cuda-lightspmv-pr-2gpus.log > c2-l-origin.csv
+ 1979  vi cuda-lightspmv-pr-2gpus.log 
+ 1980  rm cuda-lightspmv-pr.log 
+ 1981  vi generate-result.sh 
+ 1982  vi cuda-lightspmv-pr-2gpus.log 
+ 1983  rm cuda-lightspmv-pr-2gpus.log 
+ 1984  vi generate-result.sh 
+ 1985  ./generate-result.sh 
+ 1986  emacs LightSpMV_interface.hpp 
+ 1987  awk -F ' ' '{if($1=="filename:") print $2 " " $8 }' cuda-lightspmv-pr-2gpus.log >
+ 1988  awk -F ' ' '{if($1=="filename:") print $2 " " $8 }' cuda-lightspmv-pr-2gpus.log > c2-l-origin.csv
+ 1989  awk -F ' ' '{if($1=="filename:") print $2 " " $8 }' new-cuda-lightspmv-pr-2gpus.log > c2-l.csv
+ 1990  cho "<<<<< NSIGHT";/bin/sh -c "cd \"/home/mkhatiri/program/ShMemGraph/src/page_rank\";export LD_LIBRARY_PATH=\"/usr/local/cuda-7.0/lib64\":\${LD_LIBRARY_PATH};export NBBLOCK=\"16\";export NBSTREAM=\"2\";/usr/local/cuda-7.0/bin/nvprof  --quiet  --concurrent-kernels on --profile-api-trace all --profile-from-start on --system-profiling off --unified-memory-profiling off -o \"/tmp/nvvp_mkhatiri/launch/4/api.log\" \"/home/mkhatiri/program/ShMemGraph/src/page_rank/new-cuda-lightspmv-pr\" /home/esaule1/Graphs/SNAP/web-Google/web-Google
+ 1991  vi /home/esaule1/Graphs/SNAP/*/*iggs*
+ 1992  kill %1
+ 1993  ls /home/esaule1/Graphs/SNAP/*/*iggs*
+ 1994  vi .ssh/
+ 1995  nvvp
+ 1996  echo $PWD'>'
+ 1997  echo "<<<<< NSIGHT";/bin/sh -c "export LD_LIBRARY_PATH=\"/usr/local/cuda-7.0/lib64\":\${LD_LIBRARY_PATH};\"/usr/local/cuda-7.0/bin/nvprof\" --query-cuda-info";echo ">>>>> NSIGHT"
+ 1998  cd program/ShMemGraph/src/page_rank/
+ 1999  git add new-cuda-lightspmv-pr.cu new-cuda-lightspmv-pr-2gpus.cu 
+ 2000  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 2001  MODE=nvcc OPT=yes DEBUG=false make -e new-cuda-lightspmv-pr-2gpus 
+ 2002  NBSTREAM=2 NBBLOCK=16 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin 
+ 2003  NBSTREAM=2 NBBLOCK=16 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin 10
+ 2004  NBSTREAM=2 NBBLOCK=16 ./cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin 10
+ 2005  NBSTREAM=2 NBBLOCK=8 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin 10
+ 2006  NBSTREAM=2 NBBLOCK=4 ./new-cuda-lightspmv-pr-2gpus  /home/esaule1/Graphs/SNAP/soc-LiveJournal1/soc-LiveJournal1.bin 10
+ 2007  vi new-cuda-lightspmv-pr-2gpus.cu 
+ 2008  git add basicresults-lightspmv-pr.ods 
+ 2009  git add basicresults.ods 
+ 2010  git add streamUtils.cpp 
+ 2011  history 
+ 2012  history > a
